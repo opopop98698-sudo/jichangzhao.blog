@@ -1,0 +1,169 @@
+{{ $ids := split .ids "," }}
+{{ $brands := .Site.Data.brands }}
+{{ $selected := slice }}
+{{ range $brands }}
+  {{ if in $ids .id }}{{ $selected = $selected | append . }}{{ end }}
+{{ end }}
+
+<div class="comparison-card-container">
+  <div class="comparison-scroll-hint">
+    <span>💡 提示：表格支持横向左右平移，第一列已固定锁定</span>
+  </div>
+  
+  <div class="comparison-wrapper">
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th class="col-sticky-head">评估维度</th>
+          {{ range $selected }}
+          <th class="col-brand-head">
+            <div class="th-brand-header">
+              <span class="th-rank-pill {{ if eq .rank 1 }}th-rank-gold{{ else if eq .rank 2 }}th-rank-silver{{ else if eq .rank 3 }}th-rank-bronze{{ end }}">#{{ .rank }}</span>
+              <span class="th-brand-title">{{ .name }}</span>
+              {{ if .isPrimary }}<span class="th-primary-tag">主推</span>{{ end }}
+            </div>
+          </th>
+          {{ end }}
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="row-price">
+          <td class="col-sticky">起步价格</td>
+          {{ range $selected }}
+          <td>
+            <div class="cell-price">
+              <span class="price-val">{{ .priceFrom }}</span>
+            </div>
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-evidence">
+          <td class="col-sticky">实测证据</td>
+          {{ range $selected }}
+          <td>
+            {{ if .speedtestImage }}
+            <span class="pill-verified" title="已收录2026年单线程节点测速实测证据">
+              <span class="icon-dot-green">●</span> 跑分已核测
+            </span>
+            {{ else }}
+            <span class="pill-pending" title="官方资料显示，待新批次抽样核验">
+              <span class="icon-dot-amber">○</span> 待抽样复核
+            </span>
+            {{ end }}
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-metrics">
+          <td class="col-sticky">亚太近端实测</td>
+          {{ range $selected }}
+          <td>
+            {{ if .avgLatency }}
+            <span class="pill-latency" title="香港/亚太节点实测往返延迟">
+              <span class="metric-icon">⚡</span> {{ .avgLatency }}
+            </span>
+            {{ else }}
+            <span class="pill-empty">—</span>
+            {{ end }}
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-speed">
+          <td class="col-sticky">最高实测带宽</td>
+          {{ range $selected }}
+          <td>
+            {{ if .topSpeed }}
+            <span class="pill-bandwidth" title="单线程测速最高录得带宽">
+              <span class="metric-icon">🚀</span> {{ .topSpeed }}
+            </span>
+            {{ else }}
+            <span class="pill-empty">—</span>
+            {{ end }}
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-line">
+          <td class="col-sticky">骨干线路</td>
+          {{ range $selected }}
+          <td>
+            <div class="cell-line-tags">
+              {{ range .lineType }}
+              <span class="tag-line">{{ . }}</span>
+              {{ end }}
+            </div>
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-protocol">
+          <td class="col-sticky">加密协议</td>
+          {{ range $selected }}
+          <td>
+            <div class="cell-proto-tags">
+              {{ range .protocols }}
+              <span class="tag-proto">{{ . }}</span>
+              {{ end }}
+            </div>
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-highlights">
+          <td class="col-sticky">核心亮点</td>
+          {{ range $selected }}
+          <td>
+            <div class="cell-highlights">
+              {{ delimit .highlights " · " }}
+            </div>
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-promo">
+          <td class="col-sticky">专属优惠码</td>
+          {{ range $selected }}
+          <td>
+            {{ if .promoCode }}
+            <div class="pill-code" onclick="copyCode('{{ .promoCode }}')" title="点击一键复制优惠码">
+              <code>{{ .promoCode }}</code>
+              <span class="btn-copy-tiny">复制</span>
+            </div>
+            {{ else }}
+            <span class="pill-empty">限时直降</span>
+            {{ end }}
+          </td>
+          {{ end }}
+        </tr>
+
+        <tr class="row-actions">
+          <td class="col-sticky">操作选型</td>
+          {{ range $selected }}
+          <td>
+            <div class="cell-action-buttons">
+              <a href="/brands/{{ .id }}/" class="btn-action-review" title="查看 {{ .name }} 深度实测报告">
+                实测评测
+              </a>
+              {{ if and .registerUrl (ne .registerUrl "#") }}
+              <a href="{{ .registerUrl }}" target="_blank" rel="nofollow sponsored noopener" class="btn-action-register" title="直达 {{ .name }} 官方注册页面">
+                注册直达 &rarr;
+              </a>
+              {{ else }}
+              <span class="btn-action-disabled">官网升级中</span>
+              {{ end }}
+            </div>
+          </td>
+          {{ end }}
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <div class="comparison-footer-notice">
+    <p>
+      🛡️ <strong>商业披露与数据诚实性说明：</strong>本站为独立第三方选购平台，含推广链接（通过链接注册可能为本站带来维护佣金，绝不影响您的付款价格）。实测延迟与带宽基于 2026 年单线程测速抽样存档，测试数据仅代表当次测试环境。
+    </p>
+  </div>
+</div>

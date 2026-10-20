@@ -1,0 +1,43 @@
+baseURL = "https://jichangzhao.blog/"
+defaultContentLanguage = "zh-cn"
+locale = "zh-cn"
+title = "机场找 - 快速筛选合适的机场"
+theme = "jichangzhao"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+summaryLength = 70
+paginate = 20
+
+[params]
+  description = "按预算、设备、用途和地区快速找到合适的机场，全方位横向评测与选购决策指南"
+  author = "机场找编辑部"
+  since = 2026
+  brandColor = "#2563eb"
+
+[params.analytics]
+  plausible = ""
+
+[params.verification]
+  google = ""
+  bing = ""
+  shenma = ""
+  baidu = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[markup.highlight]
+  noClasses = false
+  guessSyntax = false
+  lineNos = false
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.7
+  filename = "sitemap.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "Sitemap"]
+  section = ["HTML", "RSS"]

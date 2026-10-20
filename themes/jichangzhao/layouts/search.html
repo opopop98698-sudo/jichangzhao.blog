@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="single-page search-page">
+  <header class="article-header">
+    <nav class="breadcrumb">
+      <a href="/">首页</a> &gt; <span>站内搜索</span>
+    </nav>
+    <h1>全站静态全文搜索</h1>
+    <p class="lead">通过 Pagefind 本地索引快速检索 42 个品牌资料、对比评测、场景方案与使用教程。</p>
+  </header>
+  
+  <div class="article-content">
+    <div id="search" style="margin: 2rem 0; min-height: 400px;"></div>
+  </div>
+  
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (typeof PagefindUI !== "undefined") {
+        new PagefindUI({ 
+          element: "#search", 
+          showSubResults: true, 
+          translations: { placeholder: "搜索机场名称、协议、价格、用途（如：光速云 / ChatGPT / 5.6元）..." } 
+        });
+      } else {
+        document.getElementById("search").innerHTML = "<p style='color:#666;'>搜索索引构建中或请先执行 npm run build 生成静态搜索库。</p>";
+      }
+    });
+  </script>
+</article>
+{{ end }}

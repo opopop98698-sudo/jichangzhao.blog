@@ -1,0 +1,77 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-disclaimer">
+      <p><strong>独立声明：</strong>本站为独立第三方博客与选购决策站，与任何机场品牌无隶属关系。所有数据采集自品牌公开资料及真实使用测试。</p>
+      <p><strong>商业披露：</strong>全站所有指向机场品牌的注册链接均含推广返利代码（含推广链接，通过链接注册可能为本站带来佣金，不影响用户支付价格）。</p>
+      <p><strong>合规底线：</strong>本站严禁发布任何绕过网络审查的越权操作教程，不提供任何真实节点订阅或节点服务器配置。所有内容仅供技术选型与网络协议学习参考，请遵守当地法律法规。</p>
+    </div>
+    <div class="footer-links">
+      <a href="/about/">关于本站</a>
+      <a href="/methodology/">评测方法论</a>
+      <a href="/terms/">服务条款</a>
+      <a href="/disclaimer/">免责声明</a>
+      <a href="/privacy/">隐私政策</a>
+      <a href="/contact/">联系我们</a>
+      <a href="/search/">站内搜索</a>
+      <a href="/sitemap.xml">网站地图</a>
+    </div>
+    <p class="footer-copyright">© {{ now.Format "2006" }} {{ .Site.Title }} · 保留所有权利 · 基于 Hugo Extended 静态构建</p>
+  </div>
+</footer>
+
+<script>
+  // Mobile Nav Toggle
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggle = document.getElementById('mobile-nav-toggle');
+    const nav = document.getElementById('site-nav');
+    if (toggle && nav) {
+      toggle.addEventListener('click', function() {
+        nav.classList.toggle('active');
+      });
+    }
+  });
+
+  // Global helper for promo copy
+  function copyCode(code) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(code).then(function() {
+        alert('优惠码已复制到剪贴板：' + code);
+      }).catch(function() {
+        prompt('请手动复制优惠码：', code);
+      });
+    } else {
+      prompt('请手动复制优惠码：', code);
+    }
+  }
+
+  // Auto-wrap markdown tables in responsive containers for smooth scrolling
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.article-content table').forEach(function(table) {
+      if (!table.parentElement.classList.contains('table-responsive-wrapper') && !table.parentElement.classList.contains('comparison-wrapper')) {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'table-responsive-wrapper';
+        table.parentNode.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+      }
+    });
+  });
+</script>
+
+<!-- Mermaid.js Deferred Support -->
+<script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (document.querySelector(".mermaid")) {
+      const initMermaid = function() {
+        if (typeof mermaid !== "undefined") {
+          mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+        }
+      };
+      if (typeof mermaid !== "undefined") {
+        initMermaid();
+      } else {
+        window.addEventListener('load', initMermaid);
+      }
+    }
+  });
+</script>

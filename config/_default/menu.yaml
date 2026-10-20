@@ -1,0 +1,31 @@
+main:
+  - name: "首页"
+    url: "/"
+    weight: 1
+  - name: "机场推荐"
+    url: "/recommend/"
+    weight: 2
+  - name: "找机场"
+    url: "/finder/"
+    weight: 3
+  - name: "便宜机场"
+    url: "/cheap/"
+    weight: 4
+  - name: "免费机场"
+    url: "/free/"
+    weight: 5
+  - name: "使用场景"
+    url: "/scenarios/"
+    weight: 6
+  - name: "机场对比"
+    url: "/compare/"
+    weight: 7
+  - name: "品牌资料库"
+    url: "/brands/"
+    weight: 8
+  - name: "购买指南"
+    url: "/guides/"
+    weight: 9
+  - name: "搜索"
+    url: "/search/"
+    weight: 10

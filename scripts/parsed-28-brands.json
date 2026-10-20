@@ -1,0 +1,1602 @@
+[
+  {
+    "rank": 1,
+    "name": "光速云",
+    "explicitId": null,
+    "registerUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+    "promoCode": "AMM",
+    "baseData": "2020年运营、致敬斯诺克147永久套餐247GB | 轻量版99元/年 69GB/月 | 极速版25元/月 168GB/月 | 定制版680元/月 500GB/月 | 优惠码 `AMM` 最低入门价格约8元一个月、",
+    "plans": [
+      {
+        "name": "光速云·轻量版",
+        "billing": "年付",
+        "price": "¥99",
+        "traffic": "69GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "光速云·极速版",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "168GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "光速云·流光版",
+        "billing": "月付",
+        "price": "¥34",
+        "traffic": "238GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "光速云·量子版",
+        "billing": "月付",
+        "price": "¥68",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "光速云·无界版",
+        "billing": "月付",
+        "price": "¥130",
+        "traffic": "900GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "光速云·致敬斯诺克147永久套餐",
+        "billing": "一次性付费",
+        "price": "¥147",
+        "traffic": "247GB不过期",
+        "cycle": ""
+      },
+      {
+        "name": "光速云·定制套餐",
+        "billing": "月付",
+        "price": "¥680",
+        "traffic": "500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "22ms",
+        "download": "529Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "41ms",
+        "download": "114Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "46ms",
+        "download": "387Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "135Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "143ms",
+        "download": "18Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "光速云在便宜机场推荐里属于价格有优势的一类，99 元/年左右的最低套餐，换算下来每月成本不高，在高性价比机场推荐里比较有竞争力。它把 IPLC 专线和隧道中转结合着用，第三方测试显示香港、日本节点速度表现还不错，也支持 Netflix、Disney+、YouTube 等主流流媒体。不过要注意，ChatGPT、Gemini 这类 AI 工具并不是所有节点都稳定支持，实际用的时候可能需要手动切换节点，这点官方也承认。套餐里特殊商品不支持退款，所以更建议先买月付或者小额套餐，实测晚高峰速度和稳定性之后，再考虑要不要长期用。\r\n\r\n\r\n---"
+  },
+  {
+    "rank": 2,
+    "name": "飞猫云",
+    "explicitId": "feimao",
+    "registerUrl": "https://guangs.flycataff.com/#/?code=6uq0Xe9y",
+    "promoCode": "flycat888",
+    "baseData": "2023年运营 | 年付约7元/月 50GB/月 | 优惠码 `flycat888`",
+    "plans": [
+      {
+        "name": "飞猫·学生版",
+        "billing": "年付",
+        "price": "¥84",
+        "traffic": "50GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞猫·星耀版",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞猫·星环版",
+        "billing": "月付",
+        "price": "¥45",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞猫·银河版",
+        "billing": "月付",
+        "price": "¥85",
+        "traffic": "600GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞猫·宇宙版",
+        "billing": "月付",
+        "price": "¥150",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞猫·不限时套餐",
+        "billing": "一次性付费",
+        "price": "¥680",
+        "traffic": "1000GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "飞猫·定制套餐",
+        "billing": "月付",
+        "price": "¥550",
+        "traffic": "500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "21ms",
+        "download": "526Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "41ms",
+        "download": "116Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "45ms",
+        "download": "413Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "54ms",
+        "download": "138Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "178ms",
+        "download": "14Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "飞猫云更适合放进新手机场推荐这个分类——它的重点不是极致速度或专线，而是省事：走的是专属客户端模式，下载 App、登录就能用，不用找订阅链接、不用配 Clash，第一次用机场的人也能快速上手。7 元/月起的价格也不算贵，节点覆盖亚太和欧美常见地区，日常看视频、用 AI 工具都能应付，作为轻量日常使用足够。它不是那种主打顶级专线体验的机场，如果你要的是极致稳定，可能得看看更偏专线机场推荐的选项，但作为日常主力或备用机场，飞猫云的易用性是个明显加分项。\r\n\r\n---"
+  },
+  {
+    "rank": 3,
+    "name": "微风网络",
+    "explicitId": "weifeng",
+    "registerUrl": "https://edp01.breezenetaff.com/#/?code=t3huofyI",
+    "promoCode": "flat888",
+    "baseData": "2023年运营 | 年付约7元/月 50GB/月 | 优惠码 `flat888`",
+    "plans": [
+      {
+        "name": "清风 (Breeze)",
+        "billing": "年付",
+        "price": "¥137",
+        "traffic": "100GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "乘风 (Riding)",
+        "billing": "月付",
+        "price": "¥27",
+        "traffic": "200GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "破风 (Breaking)",
+        "billing": "月付",
+        "price": "¥57",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "御风 (Mastery)",
+        "billing": "月付",
+        "price": "¥127",
+        "traffic": "1200GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "信风·不限时",
+        "billing": "一次性付费",
+        "price": "¥200",
+        "traffic": "270GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "长风·不限时",
+        "billing": "一次性付费",
+        "price": "¥370",
+        "traffic": "570GB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "25ms",
+        "download": "546Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "40ms",
+        "download": "115Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "43ms",
+        "download": "384Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "54ms",
+        "download": "131Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "167ms",
+        "download": "17Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "微风网络在便宜机场推荐里经常被提到，价格是它最直接的优势——11 元/月起，比不少同类 IEPL 机场推荐都要低，对学生党和轻度用户比较友好。走的是 IEPL 专线而不是纯中转，所以稳定性比一些更便宜的中转机场要好一点，日常刷网页、看视频、用 ChatGPT 基本没问题，节点也覆盖了香港、新加坡、日本、美国这几个热门地区。客服口碑在这个价位段里算是不错的，第一次用机场遇到问题至少有地方问，这对刚接触机场的新手来说挺重要。不过 100GB 的流量对重度用户可能不太够，属于入门够用但称不上顶配的类型，如果每天长时间在线，可能需要额外留意用量。\r\n\r\n---"
+  },
+  {
+    "rank": 4,
+    "name": "暮光加速",
+    "explicitId": "muguang",
+    "registerUrl": "https://varnexa.twilightaff.com/#/?code=D1LHglg3",
+    "promoCode": "muguang5555",
+    "baseData": "2023年运营 | 20元/月 120GB/月 | 优惠码 `muguang5555`",
+    "plans": [
+      {
+        "name": "【暮光·基础版】",
+        "billing": "月付",
+        "price": "¥20",
+        "traffic": "120GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "【暮光·标准版】",
+        "billing": "月付",
+        "price": "¥40",
+        "traffic": "240GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "【暮光·旗舰版】",
+        "billing": "月付",
+        "price": "¥100",
+        "traffic": "700GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "【暮光·至尊版】",
+        "billing": "月付",
+        "price": "¥180",
+        "traffic": "1500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "【暮光·年付轻量版】",
+        "billing": "年付",
+        "price": "¥109",
+        "traffic": "70GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "【暮光·不限时轻量包】",
+        "billing": "一次性付费",
+        "price": "¥219",
+        "traffic": "150GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "【暮光·不限时标准包】",
+        "billing": "一次性付费",
+        "price": "¥529",
+        "traffic": "400GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "【暮光·不限时大容量包】",
+        "billing": "一次性付费",
+        "price": "¥959",
+        "traffic": "800GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "独享私人定制节点",
+        "billing": "月付",
+        "price": "¥600",
+        "traffic": "500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "26ms",
+        "download": "509Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "40ms",
+        "download": "107Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "43ms",
+        "download": "419Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "53ms",
+        "download": "150Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "160ms",
+        "download": "19Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "暮光加速面向的是个人和团队跨平台使用场景，主打 BGP 智能调度和专线级出口，覆盖 Windows、macOS、iOS、Android、Linux 全平台，多设备同时在线是它的核心卖点，比较适合放进多设备机场推荐这个分类。9 元/月起的价格在专线机场推荐里不算高，120GB–1500GB 的流量档位选择也比较多，能满足不同用量需求。官方称支持 7×24 小时真人客服，对经常需要跨境办公、远程协作的团队用户会有一定吸引力，也支持 Netflix、Disney+、HBO、Hulu 等流媒体。目前没有查到公开的优惠码信息，如果预算敏感，建议直接联系客服问问当前是否有活动。"
+  },
+  {
+    "rank": 5,
+    "name": "大佬云",
+    "explicitId": "dalaoyun",
+    "registerUrl": "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN",
+    "promoCode": "dly888",
+    "baseData": "2024年运营 | 年付约5.6元/月 60GB/月 | 优惠码 `dly888`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 6,
+    "name": "星岛梦",
+    "explicitId": "xingdaomeng",
+    "registerUrl": "https://guangs.xingdaomeng.com/#/?code=1TynBYnR",
+    "promoCode": "nmw888",
+    "baseData": "2020年运营 | 年付约8元/月 60GB/月 | 优惠码 `nmw888`",
+    "plans": [
+      {
+        "name": "星岛梦·贴心小包",
+        "billing": "年付",
+        "price": "¥96",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星岛梦·超量150G",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星岛梦·进阶300G",
+        "billing": "月付",
+        "price": "¥50",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星岛梦·闪光500G",
+        "billing": "月付",
+        "price": "¥70",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星岛梦·旗舰1T版",
+        "billing": "月付",
+        "price": "¥130",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星岛梦·永久不限时100",
+        "billing": "一次性付费",
+        "price": "¥100",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "星岛梦·永久不限时300",
+        "billing": "一次性付费",
+        "price": "¥300",
+        "traffic": "300GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "星岛梦·永久不限时1TB",
+        "billing": "一次性付费",
+        "price": "¥600",
+        "traffic": "1000GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "星岛梦·定制套餐",
+        "billing": "月付",
+        "price": "¥680",
+        "traffic": "500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "27ms",
+        "download": "504Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "41ms",
+        "download": "103Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "44ms",
+        "download": "411Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "136Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "177ms",
+        "download": "18Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "星岛梦走的是 IEPL 专线，Trojan 协议，1 倍流量不限设备，节点覆盖香港、台湾、日本、美国、新加坡，还延伸到韩国和东南亚等地区，在 IEPL 机场推荐里节点覆盖算是比较广的一个。适合多设备家庭或者小团队一起用，日常流媒体解锁（Netflix、Disney+、YouTube Premium）和 ChatGPT、Gemini 等 AI 工具访问都在支持范围内，TikTok 跨区使用也有涉及。8 元/月起的价格放在稳定机场推荐里不算贵，配合海外技术团队和多人客服，属于综合体验还不错的选项。具体线路表现建议结合自己的地区先测一轮，再决定要不要长期订阅。\r\n\r\n---"
+  },
+  {
+    "rank": 7,
+    "name": "二猫云",
+    "explicitId": "ermao",
+    "registerUrl": "https://guangs.2maoyunaff.cc/#/?code=7mjvgGbW",
+    "promoCode": "ermao5555",
+    "baseData": "2023年运营 | 20元/月 130GB/月 | 优惠码 `ermao5555`",
+    "plans": [
+      {
+        "name": "二猫云·不限时套餐",
+        "billing": "一次性付费",
+        "price": "¥99",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "二猫年付小包",
+        "billing": "年付",
+        "price": "¥89",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "二猫云·白猫套餐",
+        "billing": "月付",
+        "price": "¥20",
+        "traffic": "130GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "二猫云·橘猫畅玩版",
+        "billing": "月付",
+        "price": "¥40",
+        "traffic": "230GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "二猫云·牛奶猫尊享版",
+        "billing": "月付",
+        "price": "¥80",
+        "traffic": "430GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "二猫云·黑猫重度用户版",
+        "billing": "月付",
+        "price": "¥160",
+        "traffic": "850GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "22ms",
+        "download": "481Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "41ms",
+        "download": "118Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "46ms",
+        "download": "407Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "53ms",
+        "download": "143Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "134ms",
+        "download": "17Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "二猫云走 IEPL 专线，VLESS 协议，20 元/月起，130GB 流量。官方强调自己不做低价跑路盘那一套，主打长期稳定，还配了一套独家定制客户端。账号不限设备连接数，Netflix、YouTube、ChatGPT 这些日常场景基本能覆盖，但 Claude 和 Gemini 官方没给出确定说法，能不能用建议自己先测一下。节点覆盖香港、日本、美国，比不少同类机场少了新加坡这一站。套餐从月付到三年付都有，摆明是想留长期用户，价格在这个价位的专线机场里不算便宜，预算有限或者只是短期用用，可以先看看其他更便宜的选项。"
+  },
+  {
+    "rank": 7,
+    "name": "无忧链接",
+    "explicitId": "wuyou",
+    "registerUrl": "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL",
+    "promoCode": "wuyou666",
+    "baseData": "2025年运营 | 19元/月 100GB/月 | 优惠码 `wuyou666`",
+    "plans": [
+      {
+        "name": "MINI链接",
+        "billing": "年付",
+        "price": "¥79",
+        "traffic": "40GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "舒心链接",
+        "billing": "月付",
+        "price": "¥19",
+        "traffic": "100GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "省心链接",
+        "billing": "月付",
+        "price": "¥33",
+        "traffic": "200GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "随心链接",
+        "billing": "月付",
+        "price": "¥77",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "忘忧链接",
+        "billing": "月付",
+        "price": "¥117",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "100G永久不限时 无忧链接",
+        "billing": "一次性付费",
+        "price": "¥108",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "300G永久不限时 无忧链接",
+        "billing": "一次性付费",
+        "price": "¥298",
+        "traffic": "300GB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "23ms",
+        "download": "531Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "41ms",
+        "download": "107Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "42ms",
+        "download": "418Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "55ms",
+        "download": "147Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "145ms",
+        "download": "17Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "如果你要找便宜机场推荐里价格最低的那一档，无忧链接大概率会出现——6.5 元/月起，是这份榜单里门槛最低的机场之一，主打的是跨境电商和轻度用户场景，TikTok 跨区直连和直播支持是它比较突出的点。2026 年 10 月起直接用官方专属客户端，下载登录就能用，不用折腾订阅和复杂配置，对新手比较友好。同时也能解锁 Netflix、Disney+ 和 YouTube 等主流流媒体，日常刷视频基本够用。不过流量只有 40GB，节点覆盖也偏基础，如果你的使用场景是重度办公或者多设备同时在线，这个价位的套餐大概率撑不了太久，更适合当作低成本的备用机场或者电商运营的辅助工具。\r\n------"
+  },
+  {
+    "rank": 7,
+    "name": "唯兔云",
+    "explicitId": "weitu",
+    "registerUrl": "https://guangs.v2yunvipaff.com/#/?code=xIutqOBA",
+    "promoCode": "weitu666",
+    "baseData": "2023年运营 | 14.9元/月 100GB/月 | 优惠码 `weitu666`",
+    "plans": [
+      {
+        "name": "唯兔云·年付加强专线",
+        "billing": "年付",
+        "price": "¥120",
+        "traffic": "75GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·年付版限量款",
+        "billing": "年付",
+        "price": "¥79.90",
+        "traffic": "45GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·节假日限时开启（14.9元）",
+        "billing": "月付",
+        "price": "¥14.9",
+        "traffic": "100GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·普通版",
+        "billing": "月付",
+        "price": "¥19.90",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·进阶版",
+        "billing": "月付",
+        "price": "¥29.90",
+        "traffic": "200GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·专业版",
+        "billing": "月付",
+        "price": "¥59.90",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·至尊版",
+        "billing": "月付",
+        "price": "¥119.90",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "唯兔云·永久不限时",
+        "billing": "一次性付费",
+        "price": "¥100",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "唯兔云·永久不限时",
+        "billing": "一次性付费",
+        "price": "¥160",
+        "traffic": "200GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "唯兔云·永久不限时",
+        "billing": "一次性付费",
+        "price": "¥340",
+        "traffic": "500GB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "27ms",
+        "download": "500Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "37ms",
+        "download": "100Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "44ms",
+        "download": "414Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "56ms",
+        "download": "147Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "179ms",
+        "download": "17Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "唯兔云走 IPLC 专线，Trojan 协议，主打 1 倍流量、不限速、不限设备连接，比较适合个人、家庭甚至小团队一起用，属于 IPLC 机场推荐里综合能力不错的选项。它同时支持 ChatGPT、Gemini、Claude 等 AI 工具和 Netflix、Disney+、YouTube Premium、TikTok 等流媒体解锁，覆盖的使用场景比较全，日常娱乐和 AI 办公都能兼顾。价格在 15 元/月左右，比一些入门中转机场贵，但比顶级专线机场便宜，算是中间档位的选择。海外技术团队加多人客服是它宣传的增值服务，具体套餐细节和优惠力度建议下单前以官网当前显示为准，价格可能随时调整。\r\n\r\n---"
+  },
+  {
+    "rank": 8,
+    "name": "Firefly",
+    "explicitId": "firefly",
+    "registerUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre",
+    "promoCode": "",
+    "baseData": "",
+    "plans": [
+      {
+        "name": "Firefly 年付版",
+        "billing": "年付",
+        "price": "¥96",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "Firefly Lite",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "Firefly Plus",
+        "billing": "月付",
+        "price": "¥45",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "Firefly Blaze",
+        "billing": "月付",
+        "price": "¥85",
+        "traffic": "600GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "Firefly Nova",
+        "billing": "月付",
+        "price": "¥150",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "Firefly 不限时",
+        "billing": "一次性付费",
+        "price": "¥100",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "27ms",
+        "download": "547Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "39ms",
+        "download": "135Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "42ms",
+        "download": "445Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "147Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "143ms",
+        "download": "30Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "如果你在找 2026 年靠谱的 IPLC 机场推荐，Firefly 算是专线机场推荐里性价比不错的一个选择。8 元/月起的价格，比很多同样走 IPLC 专线的机场便宜一些，晚高峰稳定性是它的核心卖点，对每天要用 ChatGPT 办公、或者经常在深夜追剧的人来说，这一点比单纯堆节点数量更实际。节点覆盖香港、新加坡、日本、美国这几个常见地区，原生 IP 让 Netflix、Disney+ 这类流媒体解锁相对稳定，2026 年 10 月起直接用官方专属客户端，下载登录就能连，不用再配订阅链接，使用门槛更低。不限设备数量也算是个加分项，家里几台设备一起用不会受限制。当然，专线机场的价格门槛终归比中转线路高，如果只是偶尔上网、预算有限，没必要非选它不可。\r\n\r\n------"
+  },
+  {
+    "rank": 10,
+    "name": "宇宙云",
+    "explicitId": "yuzhou",
+    "registerUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1",
+    "promoCode": "",
+    "baseData": "",
+    "plans": [],
+    "speedtests": [
+      {
+        "node": "暂无可核实实测数据",
+        "latency": "—",
+        "download": "—"
+      }
+    ],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 11,
+    "name": "U1S1",
+    "explicitId": "u1s1",
+    "registerUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f",
+    "promoCode": "akaka",
+    "baseData": "2025年运营 | 20元/月 120GB/月 | 优惠码 `akaka`",
+    "plans": [
+      {
+        "name": "u1s1·就是好用包",
+        "billing": "年付",
+        "price": "¥96",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "u1s1·普通人真够了包",
+        "billing": "月付",
+        "price": "¥20",
+        "traffic": "120GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "u1s1·你以为用不到包",
+        "billing": "月付",
+        "price": "¥40",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "u1s1·瘾大就拉满包",
+        "billing": "月付",
+        "price": "¥100",
+        "traffic": "700GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "u1s1·我全都要包",
+        "billing": "月付",
+        "price": "¥180",
+        "traffic": "1500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "24ms",
+        "download": "538Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "39ms",
+        "download": "107Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "46ms",
+        "download": "414Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "133Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "134ms",
+        "download": "20Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "U1S1 是 2025 年才上线的新机场，走 IPLC 专线，官方宣传 2000Mbps 高速带宽和晚高峰不限速，在高速机场推荐里算是敢喊出具体带宽数字的一个，实测反馈显示流媒体解锁和 ChatGPT 访问表现还可以。20 元 120GB 的套餐之外还有 1000GB 的一次性大流量包，适合短期内用量大、需要弹性补充流量的场景。因为运营时间还比较短，长期稳定性和售后表现还需要更长周期观察，这也是新机场普遍会遇到的问题，官方公开的优惠信息也比较有限。如果你愿意尝鲜，建议先用小额套餐测试，别一上来就冲大额年付。\r\n---"
+  },
+  {
+    "rank": 12,
+    "name": "灵猫网络",
+    "explicitId": "lingmao",
+    "registerUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak",
+    "promoCode": "lmao888",
+    "baseData": "2025年运营 | 19元/月 150GB/月 | 优惠码 `lmao888`",
+    "plans": [
+      {
+        "name": "灵猫·年付小包",
+        "billing": "年付",
+        "price": "¥85",
+        "traffic": "45GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "灵猫·年付Small",
+        "billing": "年付",
+        "price": "¥195",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "灵猫·年付Big",
+        "billing": "年付",
+        "price": "¥295",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "灵猫·季付Big",
+        "billing": "季付",
+        "price": "¥125",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "灵猫·月付Small",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "灵猫·月付Big",
+        "billing": "月付",
+        "price": "¥45",
+        "traffic": "300GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "22ms",
+        "download": "492Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "40ms",
+        "download": "109Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "46ms",
+        "download": "409Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "147Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "164ms",
+        "download": "19Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "灵猫走的是中转优化线路，7.1 元/月起，主打 1 倍流量、不限速、不限设备，这一点对家里多台设备同时用的人比较实用。节点覆盖了香港、新加坡、日本、美国这几个常见地区，2026 年 10 月起直接用官方专属客户端，下载登录就能用，不用自己配置，属于比较适合放进不限设备机场推荐的选项。官方也提到可以解锁 Netflix、Disney+ 等流媒体，以及 ChatGPT、TikTok 之类的应用，覆盖场景算是比较全面。不过具体解锁效果和线路参数会因账号和时段有差异，建议先用月付套餐测一测晚高峰体验，而不是直接冲年付套餐。\r\n\r\n---"
+  },
+  {
+    "rank": 13,
+    "name": "极连云",
+    "explicitId": "jilian",
+    "registerUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu",
+    "promoCode": "ji8888",
+    "baseData": "2024年运营 | 18元/月 100GB/月 | 优惠码 `ji8888`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 14,
+    "name": "光年梯",
+    "explicitId": "guangnian",
+    "registerUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE",
+    "promoCode": "gnt6666",
+    "baseData": "2025年运营 | 18元/月 110GB/月 | 优惠码 `gnt6666`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 15,
+    "name": "一翻云",
+    "explicitId": "yifan",
+    "registerUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r",
+    "promoCode": "yfy6666",
+    "baseData": "2025年运营 | 20元/月 150GB/月 | 优惠码 `yfy6666`",
+    "plans": [
+      {
+        "name": "轻享版",
+        "billing": "月付",
+        "price": "¥20",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "舒享版",
+        "billing": "月付",
+        "price": "¥35",
+        "traffic": "350GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "尊享版",
+        "billing": "月付",
+        "price": "¥55",
+        "traffic": "600GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "极致版",
+        "billing": "月付",
+        "price": "¥95",
+        "traffic": "1.2TB",
+        "cycle": "每月"
+      },
+      {
+        "name": "98¥·年付小包",
+        "billing": "年付",
+        "price": "¥98",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "轻享版·不限时包",
+        "billing": "一次性付费",
+        "price": "¥100",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "舒享版·不限时包",
+        "billing": "一次性付费",
+        "price": "¥200",
+        "traffic": "250GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "尊享版·不限时包",
+        "billing": "一次性付费",
+        "price": "¥400",
+        "traffic": "500GB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "23ms",
+        "download": "477Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "40ms",
+        "download": "117Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "42ms",
+        "download": "390Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "53ms",
+        "download": "136Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "180ms",
+        "download": "20Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "一翻云全节点走 IEPL 物理专线，搭配原生住宅 IP，官方称晚高峰 0 丢包、单节点 2Gbps 带宽。协议给了 Hysteria 2、VLESS-Reality 和 Shadowsocks 三种，客户端选择比较宽松。节点覆盖香港、日本、美国、新加坡、台湾五地，比不少同价位机场多了台湾这一站。不限速也不限设备数量，另外提供永久不过期的一次性流量包，适合用量不固定、不想按月续费的人。年付小包 98 元一年、每月 60GB，折合每月约 8.2 元；想要更多流量可以看月付档，轻享版 20 元给到 150GB。优惠码 1FLYYUN 可以再打 9 折。官方没有提供试用，想先验证线路没有零成本的办法。\r\n\r\n---"
+  },
+  {
+    "rank": 16,
+    "name": "SOGO 云",
+    "explicitId": "sogo",
+    "registerUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7",
+    "promoCode": "",
+    "baseData": "",
+    "plans": [
+      {
+        "name": "小包-年付版",
+        "billing": "年付",
+        "price": "¥98",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "基础版",
+        "billing": "月付",
+        "price": "¥25",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "优选版",
+        "billing": "月付",
+        "price": "¥45",
+        "traffic": "350GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "强化版",
+        "billing": "月付",
+        "price": "¥80",
+        "traffic": "550GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "顶配版",
+        "billing": "月付",
+        "price": "¥150",
+        "traffic": "1.1TB",
+        "cycle": "每月"
+      },
+      {
+        "name": "SOGO基础餐不限时版",
+        "billing": "一次性付费",
+        "price": "¥120",
+        "traffic": "120GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "SOGO优选餐不限时版",
+        "billing": "一次性付费",
+        "price": "¥220",
+        "traffic": "250GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "SOGO强化餐不限时版",
+        "billing": "一次性付费",
+        "price": "¥450",
+        "traffic": "500GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "SOGO至尊餐不限时版",
+        "billing": "一次性付费",
+        "price": "¥850",
+        "traffic": "1.0TB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "26ms",
+        "download": "488Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "39ms",
+        "download": "118Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "43ms",
+        "download": "401Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "57ms",
+        "download": "137Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "140ms",
+        "download": "17Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "Sogo 云由海外团队运营，全线 IEPL 专线接入并做了三网 BGP 优化，协议用 VLESS，不限速也不限设备数量。节点覆盖香港、台湾、日本、新加坡、美国、韩国等 15 个国家和地区，是本站收录里覆盖面最广的一家。需要留意的是它不提供订阅链接，只能通过自研客户端使用，Clash、Shadowrocket 这类第三方客户端用不了。年付小包 98 元一年、每月 60GB，折合每月约 8.2 元；月付从 25 元 150GB 起。优惠码 SOGO10000 可打 9 折。官方没有提供试用。\r\n\r\n---"
+  },
+  {
+    "rank": 17,
+    "name": "可信云",
+    "explicitId": "kexin",
+    "registerUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY",
+    "promoCode": "kkk333",
+    "baseData": "2024年运营 | 25元/月 150GB/月 | 优惠码 `kkk333`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 18,
+    "name": "速界",
+    "explicitId": "sujie",
+    "registerUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB",
+    "promoCode": "sss1111",
+    "baseData": "2024年运营 | 25元/月 150GB/月 | 优惠码 `sss1111`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 19,
+    "name": "闪跃",
+    "explicitId": "shanyue",
+    "registerUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm",
+    "promoCode": "",
+    "baseData": "",
+    "plans": [
+      {
+        "name": "闪跃年付版",
+        "billing": "年付",
+        "price": "¥96",
+        "traffic": "60GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "闪动 (Flicker)",
+        "billing": "月付",
+        "price": "¥24",
+        "traffic": "150GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "飞跃 (Leap)",
+        "billing": "月付",
+        "price": "¥44",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "瞬移 (Teleport)",
+        "billing": "月付",
+        "price": "¥84",
+        "traffic": "600GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "跃迁 (Warp)",
+        "billing": "月付",
+        "price": "¥134",
+        "traffic": "1000GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "23ms",
+        "download": "548Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "38ms",
+        "download": "110Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "44ms",
+        "download": "383Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "53ms",
+        "download": "144Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "143ms",
+        "download": "18Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "闪跃在专线机场推荐里定位偏高端，走的是纯 IPLC 专线，晚高峰不掉速是它反复强调的卖点，官方说法是依托强大骨干网接入实现的。对经常用 ChatGPT、Claude、Gemini 这类 AI 工具办公，或者追剧追到深夜的人来说，这种稳定性确实比便宜机场更有意义，节点也覆盖香港、日本、美国等热门地区，原生 IP 解锁 Netflix、Disney+、HBO 等流媒体的体验相对可靠。8 元/月的起步价放在 IPLC 机场推荐里不算贵，但比中转线路的机场肯定要高一些。如果你只是想偶尔上网查资料，这个价位没必要，适合的是长期高频、对稳定性有明确要求的用户。\r\n\r\n---"
+  },
+  {
+    "rank": 20,
+    "name": "全球云",
+    "explicitId": "quanqiu",
+    "registerUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C",
+    "promoCode": "",
+    "baseData": "",
+    "plans": [
+      {
+        "name": "BGP 智能优化·不限时轻量包",
+        "billing": "一次性付费",
+        "price": "¥100",
+        "traffic": "100GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "BGP 智能优化·不限时标准包",
+        "billing": "一次性付费",
+        "price": "¥360",
+        "traffic": "400GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "BGP 智能优化·不限时大容量包",
+        "billing": "一次性付费",
+        "price": "¥700",
+        "traffic": "800GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "轻量版",
+        "billing": "年付",
+        "price": "¥99",
+        "traffic": "59GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "BGP 智能优化·入门方案",
+        "billing": "月付",
+        "price": "¥20",
+        "traffic": "120GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "BGP 智能优化·进阶方案",
+        "billing": "月付",
+        "price": "¥40",
+        "traffic": "300GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "BGP 智能优化·高端方案",
+        "billing": "月付",
+        "price": "¥100",
+        "traffic": "700GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "BGP 智能优化·商业方案",
+        "billing": "月付",
+        "price": "¥180",
+        "traffic": "1500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "独享私人专线节点",
+        "billing": "月付",
+        "price": "¥680",
+        "traffic": "500GB",
+        "cycle": "每月"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "25ms",
+        "download": "489Mbps"
+      },
+      {
+        "node": "台湾",
+        "latency": "37ms",
+        "download": "117Mbps"
+      },
+      {
+        "node": "新加坡",
+        "latency": "45ms",
+        "download": "430Mbps"
+      },
+      {
+        "node": "日本",
+        "latency": "55ms",
+        "download": "133Mbps"
+      },
+      {
+        "node": "美国",
+        "latency": "138ms",
+        "download": "18Mbps"
+      }
+    ],
+    "unlock": "",
+    "intro": "全球云号称覆盖全球 60 多个节点，采用 Trojan 和 Shadowsocks 双协议，专线中转搭配 2Gbps+ 带宽资源，是这份榜单里节点规模比较大的一个，走的是专属客户端模式，下载 App 登录就能用，具体覆盖哪些平台以官网说明为准。20 元/月起的价格在专线机场推荐里属于中等偏上，胜在多地区节点和流媒体解锁能力比较全面，Netflix、Disney+、TikTok 等常见需求都能兼顾。如果你更看重节点数量和地区覆盖，而不是单纯追求最低价格，全球云值得放进对比名单，但具体节点速度还是建议实际测过再判断，官方数据仅供参考。\r\n\r\n---"
+  },
+  {
+    "rank": 21,
+    "name": "闪电鼠",
+    "explicitId": "shandianshu",
+    "registerUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh",
+    "promoCode": "sd88",
+    "baseData": "2024年运营 | 年付约5.6元/月 60GB/月 | 优惠码 `sd88`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 23,
+    "name": "云界线",
+    "explicitId": "yunjiexian",
+    "registerUrl": "https://qwerty.yunjiexianaff.com/?code=HBaZ91c6",
+    "promoCode": "yjx888",
+    "baseData": "2024年运营 | 年付约5.6元/月 60GB/月 | 优惠码 `yjx888`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 24,
+    "name": "榴莲云",
+    "explicitId": "liulianyun",
+    "registerUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE",
+    "promoCode": "ll88",
+    "baseData": "2024年运营 | 年付约5.6元/月 60GB/月 | 优惠码 `ll88`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 25,
+    "name": "神行加速",
+    "explicitId": "shenxing",
+    "registerUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE",
+    "promoCode": "xs0077",
+    "baseData": "2024年运营 | 年付约14元/月 120GB/月 | 优惠码 `xs0077`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 26,
+    "name": "环球梯",
+    "explicitId": "huanqiuti",
+    "registerUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH",
+    "promoCode": "HQ66",
+    "baseData": "2024年运营 | 年付约5.6元/月 60GB/月 | 优惠码 `HQ66`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  },
+  {
+    "rank": 27,
+    "name": "隐形人",
+    "explicitId": "yinxingren",
+    "registerUrl": "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT",
+    "promoCode": "yxr888",
+    "baseData": "2024年运营 | 24元/月 100GB/月 | 优惠码 `yxr888`",
+    "plans": [
+      {
+        "name": "隐形人 白银纪元",
+        "billing": "月付",
+        "price": "¥24",
+        "traffic": "144GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "隐形人 黄金序列",
+        "billing": "月付",
+        "price": "¥48",
+        "traffic": "360GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "隐形人 铂金至臻",
+        "billing": "月付",
+        "price": "¥105",
+        "traffic": "750GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "隐形人 钻石穹顶",
+        "billing": "月付",
+        "price": "¥185",
+        "traffic": "1.6TB",
+        "cycle": "每月"
+      },
+      {
+        "name": "王者定制版",
+        "billing": "月付",
+        "price": "¥680",
+        "traffic": "500GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "星耀风暴 365天不熄",
+        "billing": "年付",
+        "price": "¥109",
+        "traffic": "80GB",
+        "cycle": "每月"
+      },
+      {
+        "name": "一次性小流量",
+        "billing": "一次性付费",
+        "price": "¥229",
+        "traffic": "160GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "一次性标准流量包",
+        "billing": "一次性付费",
+        "price": "¥549",
+        "traffic": "420GB",
+        "cycle": "一次性"
+      },
+      {
+        "name": "一次性精英流量包",
+        "billing": "一次性付费",
+        "price": "¥1199",
+        "traffic": "1.0TB",
+        "cycle": "一次性"
+      }
+    ],
+    "speedtests": [
+      {
+        "node": "香港",
+        "latency": "—",
+        "download": "—"
+      },
+      {
+        "node": "日本",
+        "latency": "—",
+        "download": "—"
+      },
+      {
+        "node": "美国",
+        "latency": "—",
+        "download": "—"
+      },
+      {
+        "node": "新加坡",
+        "latency": "—",
+        "download": "—"
+      },
+      {
+        "node": "台湾",
+        "latency": "—",
+        "download": "—"
+      }
+    ],
+    "unlock": "",
+    "intro": "隐形人走企业级 IPLC 专线直连，官方称晚高峰零卡顿、秒开 4K/8K 流媒体。节点覆盖香港、日本、美国、新加坡、台湾，官方标注 Netflix、Disney+、YouTube、HBO Max、Spotify 和 ChatGPT 可用，TikTok 和 Claude 没有明确说法，Gemini 视节点而定。不限速，设备数量以套餐而定。它不提供订阅链接，只能用自带客户端，Clash、Shadowrocket 等第三方客户端用不了。年付小包 109 元一年、每月 80GB，折合每月约 9 元；月付档从 24 元 144GB 起，在本站收录里属于偏高的一档。优惠码 moon80 可打 8 折。官方没有提供试用。\r\n---"
+  },
+  {
+    "rank": 28,
+    "name": "梯子云",
+    "explicitId": "tiziyun",
+    "registerUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0",
+    "promoCode": "tiziyun",
+    "baseData": "2025年运营 | 年付约7.4元/月 60GB/月 | 优惠码 `tiziyun`",
+    "plans": [],
+    "speedtests": [],
+    "unlock": "",
+    "intro": ""
+  }
+]

@@ -1,0 +1,27 @@
+{{ $id := .id }}
+{{ $brands := .Site.Data.brands }}
+{{ $brand := dict }}
+{{ range $brands }}{{ if eq .id $id }}{{ $brand = . }}{{ end }}{{ end }}
+
+<div class="promo-card">
+  <div class="promo-card__content">
+    <h4>{{ $brand.name }}</h4>
+    <p>{{ delimit $brand.highlights "、" }}</p>
+    {{ if $brand.promoCode }}
+    <div class="promo-card__code">
+      <span>优惠码：</span>
+      <code id="code-{{ $id }}">{{ $brand.promoCode }}</code>
+      <button onclick="copyCode('{{ $brand.promoCode }}')">复制</button>
+    </div>
+    {{ end }}
+  </div>
+  {{ if and $brand.registerUrl (ne $brand.registerUrl "#") }}
+  <a href="{{ $brand.registerUrl }}" 
+     target="_blank" 
+     rel="nofollow sponsored noopener" 
+     class="promo-card__cta">
+    立即使用
+  </a>
+  {{ end }}
+  <p class="promo-card__disclosure">商业推广 · 含佣金链接 · 不影响用户支付价格</p>
+</div>

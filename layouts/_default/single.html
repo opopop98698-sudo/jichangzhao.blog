@@ -1,0 +1,52 @@
+{{ define "main" }}
+<article class="single-page">
+  <header class="article-header">
+    <nav class="breadcrumb" aria-label="面包屑导航">
+      <a href="/">首页</a> &gt; 
+      {{ if .CurrentSection }}
+      <a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.Title }}</a> &gt;
+      {{ end }}
+      <span>{{ .Title }}</span>
+    </nav>
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}<p class="lead">{{ .Description }}</p>{{ end }}
+    <div class="article-meta">
+      <span class="meta-author" style="display: inline-flex; align-items: center; gap: 0.4rem;">
+        <img src="{{ "images/avatar.webp" | relURL }}" alt="机场找技术团队" class="meta-author-avatar" width="22" height="22" loading="eager" style="border-radius: 50%; vertical-align: middle;">
+        作者：<a href="/about/#author" title="查看机场找技术团队背景档案" style="color: inherit; text-decoration: underline;">机场找技术团队</a>
+      </span>
+      <span>审核：网络协议审计组</span>
+      <span>发布日期：{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02" }}{{ else }}2026-10-19{{ end }}</span>
+      <span>最后更新：{{ if not .Lastmod.IsZero }}{{ .Lastmod.Format "2006-01-02" }}{{ else }}2026-10-20{{ end }}</span>
+      <span>字数：约 {{ .WordCount }} 字</span>
+      <span>分类：{{ .Section }}</span>
+    </div>
+  </header>
+  
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  <div class="author-bio-box" style="margin: 3rem 0; padding: 1.5rem; background: var(--color-bg-alt, #f8fafc); border: 1px solid var(--color-border, #e2e8f0); border-radius: 8px; display: flex; gap: 1.25rem; align-items: center;">
+    <img src="{{ "images/avatar.webp" | relURL }}" alt="机场找技术编辑团队" width="64" height="64" loading="lazy" style="border-radius: 50%; object-fit: cover; border: 2px solid var(--color-primary, #2563eb); flex-shrink: 0;">
+    <div class="author-bio-info" style="font-size: 0.95rem; line-height: 1.6;">
+      <h4 style="margin: 0 0 0.5rem; font-size: 1.1rem; color: var(--color-text, #0f172a);">本文由 <a href="/about/#author" style="color: var(--color-primary, #2563eb); text-decoration: none; font-weight: 600;">机场找技术团队</a> 编写并独立核验</h4>
+      <p style="margin: 0; color: var(--color-text-muted, #64748b);">团队深耕网络工程、BGP 路由调度、跨境专线延迟与流媒体协议逆向实测。所有技术实测数据均在电信/联通/移动三网真实物理节点采集，严格遵循独立第三方原则。查阅我们的 <a href="/methodology/" style="color: var(--color-primary, #2563eb);">评测方法论</a> 与 <a href="/about/">编辑审核准则</a>。</p>
+    </div>
+  </div>
+  
+  <footer class="article-footer">
+    <div class="article-notice">
+      <h4>📌 商业披露与合规提示</h4>
+      <p>本站为独立第三方选购评测站。本文含推广链接，通过链接注册可能为本站带来佣金，不影响用户支付价格。所有数据基于官方公开资料与实际测试，不代表任何品牌的绝对保证。请遵守当地网络相关法律法规，合法合规使用网络技术。</p>
+    </div>
+    
+    <div class="article-nav-links">
+      <a href="{{ if .CurrentSection }}{{ .CurrentSection.RelPermalink }}{{ else }}/{{ end }}" class="btn-back">
+        &larr; 返回 {{ if .CurrentSection }}{{ .CurrentSection.Title }}{{ else }}首页{{ end }}
+      </a>
+      <a href="/search/" class="btn-search">🔍 搜索更多机场与评测</a>
+    </div>
+  </footer>
+</article>
+{{ end }}

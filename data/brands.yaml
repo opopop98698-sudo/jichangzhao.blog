@@ -1,0 +1,544 @@
+# data/brands.yaml - Enriched with 2026 real test data & images
+- id: gsy
+  name: 光速云
+  rank: 1
+  isPrimary: true
+  registerUrl: "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
+  promoCode: "AMM"
+  since: "2020"
+  lineType: ["IEPL", "企业级内网专线"]
+  protocols: ["VLESS"]
+  priceFrom: "8元/月"
+  highlights: ["双线路架构", "3档套餐", "11地区节点"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/gsy-speedtest-2026.png"
+  avgLatency: "22ms"
+  topSpeed: "529Mbps"
+
+- id: feimao
+  name: 飞猫云
+  rank: 2
+  registerUrl: "https://guangs.flycataff.com/#/?code=6uq0Xe9y"
+  promoCode: "flycat888"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "7元/月"
+  highlights: ["7元档", "季付8折"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/feimao-speedtest-2026.png"
+  avgLatency: "21ms"
+  topSpeed: "526Mbps"
+
+- id: weifeng
+  name: 微风网络
+  rank: 3
+  registerUrl: "https://edp01.breezenetaff.com/#/?code=t3huofyI"
+  promoCode: "flat888"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "7元/月"
+  highlights: ["7元档", "季付9折"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/weifeng-speedtest-2026.png"
+  avgLatency: "25ms"
+  topSpeed: "546Mbps"
+
+- id: muguang
+  name: 暮光加速
+  rank: 4
+  registerUrl: "https://varnexa.twilightaff.com/#/?code=D1LHglg3"
+  promoCode: "muguang5555"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "20元/月"
+  highlights: ["20元档", "无独特卖点"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/muguang-speedtest-2026.png"
+  avgLatency: "26ms"
+  topSpeed: "509Mbps"
+
+- id: dalaoyun
+  name: 大佬云
+  rank: 5
+  registerUrl: "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN"
+  promoCode: "dly888"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "5.6元/月"
+  highlights: ["5.6元档", "季付7折"]
+  dataStatus: "vendor"
+
+- id: xingdaomeng
+  name: 星岛梦
+  rank: 6
+  registerUrl: "https://guangs.xingdaomeng.com/#/?code=1TynBYnR"
+  promoCode: "nmw888"
+  since: "2020"
+  lineType: ["企业级内网专线", "IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "8元/月"
+  highlights: ["2020年运营", "不限时套餐"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/xingdaomeng-speedtest-2026.png"
+  avgLatency: "27ms"
+  topSpeed: "504Mbps"
+
+- id: ermao
+  name: 二猫云
+  rank: 7
+  registerUrl: "https://guangs.2maoyunaff.cc/#/?code=7mjvgGbW"
+  promoCode: "ermao5555"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "20元/月"
+  highlights: ["20元档", "130G流量"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/ermao-speedtest-2026.png"
+  avgLatency: "22ms"
+  topSpeed: "481Mbps"
+
+- id: wuyou
+  name: 无忧链接
+  rank: 8
+  registerUrl: "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL"
+  promoCode: "wuyou666"
+  since: "2025"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "6元/月"
+  highlights: ["6元轻量", "订阅免转换"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/wuyou-speedtest-2026.jpg"
+  avgLatency: "23ms"
+  topSpeed: "531Mbps"
+
+- id: weitu
+  name: 唯兔云
+  rank: 9
+  registerUrl: "https://guangs.v2yunvipaff.com/#/?code=xIutqOBA"
+  promoCode: "weitu666"
+  since: "2023"
+  lineType: ["待核实"]
+  protocols: ["VLESS"]
+  priceFrom: "14.9元/月"
+  highlights: ["60+节点", "三网优化", "智能负载均衡"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/weitu-speedtest-2026.png"
+  avgLatency: "27ms"
+  topSpeed: "500Mbps"
+
+- id: firefly
+  name: Firefly
+  rank: 10
+  registerUrl: "https://vip02.fireflyaff.com/#/?code=2n7VURre"
+  promoCode: "firefly"
+  since: "2026"
+  lineType: ["IPLC 专线"]
+  protocols: ["VLESS"]
+  priceFrom: "8元/月"
+  highlights: ["IPLC线路", "不限速", "不限设备", "原生IP"]
+  dataStatus: "vendor"
+  avgLatency: "27ms"
+  topSpeed: "547Mbps"
+
+- id: yuzhou
+  name: 宇宙云
+  rank: 11
+  registerUrl: "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1"
+  promoCode: "YUZHOU553"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "14.9元/月"
+  highlights: ["14.9元档", "IEPL专线"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/yuzhou-speedtest-2026.png"
+  avgLatency: "—"
+  topSpeed: "—"
+
+- id: u1s1
+  name: U1S1
+  rank: 12
+  registerUrl: "https://guangs.vipaff.cc/#/?code=xhX5X22f"
+  promoCode: "akaka"
+  since: "2023"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "20元/月"
+  highlights: ["20元标准方案", "自研客户端"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/u1s1-speedtest-2026.png"
+  avgLatency: "24ms"
+  topSpeed: "538Mbps"
+
+- id: lingmao
+  name: 灵猫网络
+  rank: 13
+  registerUrl: "https://vip01.civetnet.com/#/?code=8MIAyxak"
+  promoCode: "lmao888"
+  since: "2024"
+  lineType: ["企业级内网专线"]
+  protocols: ["待核实"]
+  priceFrom: "19元/月"
+  highlights: ["19元150G", "不限时套餐"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/lingmao-speedtest-2026.png"
+  avgLatency: "22ms"
+  topSpeed: "492Mbps"
+
+- id: jilian
+  name: 极连云
+  rank: 14
+  registerUrl: "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu"
+  promoCode: "ji8888"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["待核实"]
+  priceFrom: "18元/月"
+  highlights: ["AI工具场景"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/jilian-speedtest-2026.png"
+
+- id: guangnian
+  name: 光年梯
+  rank: 15
+  registerUrl: "https://guangs.gntaff.com/#/?code=X1FoxjGE"
+  promoCode: "gnt6666"
+  since: "2025"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "18元/月"
+  highlights: ["18元110G", "AI/流媒体"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/guangnian-speedtest-2026.png"
+
+- id: yifan
+  name: 一翻云
+  rank: 16
+  registerUrl: "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r"
+  promoCode: "yfy6666"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "20元/月"
+  highlights: ["20元150G", "大流量"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/yifan-speedtest-2026.png"
+  avgLatency: "23ms"
+  topSpeed: "477Mbps"
+
+- id: sogo
+  name: SOGO 云
+  rank: 17
+  registerUrl: "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7"
+  promoCode: "sss777"
+  since: "2026"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "25元/月"
+  highlights: ["2026新品牌"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/sogo-speedtest-2026.png"
+  avgLatency: "26ms"
+  topSpeed: "488Mbps"
+
+- id: kexin
+  name: 可信云
+  rank: 18
+  registerUrl: "https://guangs.kosingaff.com/#/register?code=UYDtNlCY"
+  promoCode: "kkk333"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "25元/月"
+  highlights: ["诚实标注数据缺口"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/kexin-speedtest-2026.png"
+
+- id: sujie
+  name: 速界
+  rank: 19
+  registerUrl: "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB"
+  promoCode: "sss1111"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "25元/月"
+  highlights: ["主打AI工具"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/sujie-speedtest-2026.png"
+
+- id: shanyue
+  name: 闪跃
+  rank: 20
+  registerUrl: "https://vip02.flashleapaff.com/#/?code=3lgzm9mm"
+  promoCode: "shanyue"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "24元/月"
+  highlights: ["24元150G"]
+  dataStatus: "vendor"
+  avgLatency: "23ms"
+  topSpeed: "548Mbps"
+
+- id: quanqiu
+  name: 全球云
+  rank: 21
+  registerUrl: "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C"
+  promoCode: "qqy7777"
+  since: "2026"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "20元/月"
+  highlights: ["2026新品牌"]
+  dataStatus: "measured"
+  speedtestImage: "/images/speedtest/quanqiu-speedtest-2026.png"
+  avgLatency: "25ms"
+  topSpeed: "489Mbps"
+
+- id: shandianshu
+  name: 闪电鼠
+  rank: 22
+  registerUrl: "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh"
+  promoCode: "sd88"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "5.6元/月"
+  highlights: ["5.6元档", "季付7折"]
+  dataStatus: "vendor"
+
+- id: yunjiexian
+  name: 云界线
+  rank: 23
+  registerUrl: "https://qwerty.yunjiexianaff.com/?code=HBaZ91c6"
+  promoCode: "yjx888"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "5.6元/月"
+  highlights: ["5.6元档", "链接格式异常"]
+  dataStatus: "vendor"
+
+- id: liulianyun
+  name: 榴莲云
+  rank: 24
+  registerUrl: "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE"
+  promoCode: "ll88"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["待核实"]
+  priceFrom: "5.6元/月"
+  highlights: ["5.6元档", "协议未明"]
+  dataStatus: "vendor"
+
+- id: shenxing
+  name: 神行加速
+  rank: 25
+  registerUrl: "https://qwerty.shenxingaff.com/#/?code=gawDQqVE"
+  promoCode: "xs0077"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "14元/月"
+  highlights: ["14元档", "新用户7折"]
+  dataStatus: "vendor"
+
+- id: huanqiuti
+  name: 环球梯
+  rank: 26
+  registerUrl: "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH"
+  promoCode: "HQ66"
+  since: "2024"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "5.6元/月"
+  highlights: ["5.6元档", "链接格式异常"]
+  dataStatus: "vendor"
+
+- id: yinxingren
+  name: 隐形人
+  rank: 27
+  registerUrl: "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT"
+  promoCode: "yxr888"
+  since: "2024"
+  lineType: ["企业级IEPL", "原生机房"]
+  protocols: ["VLESS"]
+  priceFrom: "24元/月"
+  highlights: ["60+纯净IP", "2Gbps+带宽", "24h客服", "退款保障"]
+  dataStatus: "vendor"
+  avgLatency: "—"
+  topSpeed: "—"
+
+- id: tiziyun
+  name: 梯子云
+  rank: 28
+  registerUrl: "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0"
+  promoCode: "tiziyun"
+  since: "2025"
+  lineType: ["IEPL"]
+  protocols: ["VLESS"]
+  priceFrom: "7.4元/月"
+  highlights: ["自研全平台客户端", "一键登录", "通用订阅"]
+  dataStatus: "vendor"
+
+- id: wgetcloud
+  name: WgetCloud
+  rank: 29
+  registerUrl: "https://invite.wgetcloud.ltd/auth/register?code=VLG2xb"
+  lineType: ["IEPL"]
+  protocols: ["Trojan"]
+  priceFrom: "季付 ¥297"
+  highlights: ["59个全测速节点", "日本/美国/香港均超50MB/s", "亚洲近端低延迟"]
+  dataStatus: "vendor"
+  avgLatency: "69.4ms"
+  topSpeed: "462.04Mbps"
+
+- id: baiyueguang
+  name: 白月光
+  rank: 30
+  registerUrl: "https://www.sibker.com/register?invite_code=gg6puAId"
+  lineType: ["IEPL"]
+  protocols: ["Shadowsocks"]
+  priceFrom: "季付 ¥66"
+  highlights: ["108节点/79地区", "季付入门低门槛", "香港节点表现佳"]
+  dataStatus: "vendor"
+  avgLatency: "160.7ms"
+  topSpeed: "114.94Mbps"
+
+- id: flyingbird
+  name: FlyingBird
+  rank: 31
+  registerUrl: "#"
+  promoCode: "theo / year85"
+  lineType: ["IPLC 全专线"]
+  protocols: ["Shadowsocks"]
+  priceFrom: "月付 ¥15"
+  highlights: ["无倍率不限速", "支付宝/USDT支付", "老牌团队衍生"]
+  dataStatus: "vendor"
+  avgLatency: "123.8ms"
+  topSpeed: "488.83Mbps"
+
+- id: longmaoyun
+  name: 龙猫云
+  rank: 33
+  registerUrl: "#"
+  lineType: ["IPLC 全专线"]
+  protocols: ["Shadowsocks"]
+  priceFrom: "月付 ¥15"
+  highlights: ["最高2000Mbps", "教程完善", "支持支付宝/微信/USDT"]
+  dataStatus: "vendor"
+
+- id: fatcat
+  name: FATCAT
+  rank: 34
+  registerUrl: "#"
+  lineType: ["企业级 IEPL / IPLC"]
+  protocols: ["待核实"]
+  priceFrom: "月付 ¥20"
+  highlights: ["抗干扰抗封锁", "年付加强版性价比高", "多周期支持"]
+  dataStatus: "vendor"
+
+- id: tntcloud
+  name: TNTCloud
+  rank: 35
+  registerUrl: "#"
+  promoCode: "TNT85"
+  lineType: ["IPLC 内网专线"]
+  protocols: ["待核实"]
+  priceFrom: "月付 ¥20"
+  highlights: ["曾用名3A加速器", "支持跨境电商/TikTok定制", "季付限量包"]
+  dataStatus: "vendor"
+
+- id: qingyunti
+  name: 青云梯
+  rank: 36
+  registerUrl: "#"
+  promoCode: "qyt85 / qyt80"
+  lineType: ["企业级 IPLC"]
+  protocols: ["Shadowsocks"]
+  priceFrom: "年付 ¥96 (小包)"
+  highlights: ["运营6年老牌(V4Speed)", "三网优化+智能负载", "10+地区80+节点"]
+  dataStatus: "vendor"
+
+- id: shanshuiyun
+  name: 山水云
+  rank: 37
+  registerUrl: "https://sldm1.ssyylf.com/#/register?code=YD5iQ888"
+  lineType: ["待核实"]
+  protocols: ["待核实"]
+  priceFrom: "月付 ¥15"
+  highlights: ["27节点12地区", "美国节点最高22.54MB/s", "64G轻量年付88元"]
+  dataStatus: "vendor"
+  avgLatency: "349.3ms"
+  topSpeed: "180.29Mbps"
+
+- id: lingdongyun
+  name: 灵动云
+  rank: 38
+  registerUrl: "https://varnexa.lingdongaff.com/#/?code=wZvEhEoI"
+  lineType: ["IEPL 专线"]
+  protocols: ["VLESS"]
+  priceFrom: "月付 ¥20"
+  highlights: ["2025年开业", "主流AI解锁较好", "支持私人定制"]
+  dataStatus: "vendor"
+
+- id: langwang
+  name: 浪网
+  rank: 39
+  registerUrl: "https://varnexa.wavenetaff.com/#/?code=xwAM4tTd"
+  lineType: ["IEPL 专线"]
+  protocols: ["待核实"]
+  priceFrom: "月付 ¥30 (入门)"
+  highlights: ["商业/高端多层级", "支持定制线路", "流量包补充"]
+  dataStatus: "vendor"
+
+- id: edgenova
+  name: EdgeNova
+  rank: 40
+  registerUrl: "https://work.edgenovaaff.cc/#/register?code=cl3iB5YG"
+  promoCode: "TH888"
+  lineType: ["高速直连 / IPLC"]
+  protocols: ["待核实"]
+  priceFrom: "月付 ¥15 (限时)"
+  highlights: ["多线路自动分配", "支持年付小包", "新用户8折"]
+  dataStatus: "vendor"
+
+- id: firefly-2
+  name: 萤火虫
+  rank: 41
+  registerUrl: "https://vip02.fireflyaff.com/#/?code=jTp9wSgZ"
+  promoCode: "firefly"
+  lineType: ["IPLC 专线"]
+  protocols: ["VLESS"]
+  priceFrom: "年付 ¥96 (60G)"
+  highlights: ["8年团队", "不限速不限设备", "原生IP / ChatGPT全解"]
+  dataStatus: "vendor"
+
+- id: sslar
+  name: sslar
+  rank: 42
+  registerUrl: "#"
+  promoCode: "ko3eTt0w"
+  lineType: ["企业级 IEPL + 多线BGP"]
+  protocols: ["Shadowsocks", "VLESS"]
+  priceFrom: "月付 ¥17"
+  highlights: ["自研多平台客户端", "支持远程协助", "Eons/Akari等机房"]
+  dataStatus: "vendor"
+
+- id: cyberguard
+  name: CyberGuard
+  rank: 32
+  registerUrl: "https://cyberguard.best/#/register?code=AxXNNYng"
+  lineType: ["IEPL", "IPLC"]
+  protocols: ["Trojan", "VLESS"]
+  priceFrom: "月付 ¥32"
+  highlights: ["350G大流量", "不限时流量包可选", "12地区29节点"]
+  dataStatus: "vendor"
+

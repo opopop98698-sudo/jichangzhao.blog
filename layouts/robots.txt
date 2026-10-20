@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: yisouspider
+Allow: /
+
+Sitemap: https://jichangzhao.blog/sitemap.xml

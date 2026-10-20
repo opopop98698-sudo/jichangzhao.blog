@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="header-container">
+    <a href="/" class="site-logo">
+      <img src="/images/avatar.webp" alt="{{ .Site.Title }} 头像" class="site-logo-avatar" width="32" height="32" loading="eager">
+      <span>{{ .Site.Title }}</span>
+    </a>
+    <nav class="site-nav" id="site-nav">
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}" {{ if eq $.RelPermalink .URL }}class="active"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+    <button class="mobile-nav-toggle" id="mobile-nav-toggle" aria-label="切换导航菜单">☰</button>
+  </div>
+</header>

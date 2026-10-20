@@ -1,0 +1,13 @@
+{
+  "name": "jichangzhao-blog",
+  "version": "1.0.0",
+  "description": "机场找 - 快速帮用户找到合适机场（搜索决策型中文博客）",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify && npx pagefind --site public",
+    "clean": "node -e \"const fs = require('fs'); ['public', 'resources'].forEach(d => fs.existsSync(d) && fs.rmSync(d, {recursive: true, force: true}));\""
+  },
+  "devDependencies": {
+    "pagefind": "^1.1.0"
+  }
+}

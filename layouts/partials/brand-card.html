@@ -1,0 +1,50 @@
+{{ $id := .id }}
+{{ $brands := .Site.Data.brands }}
+{{ $brand := dict }}
+{{ range $brands }}
+  {{ if eq .id $id }}{{ $brand = . }}{{ end }}
+{{ end }}
+
+<div class="brand-card">
+  <div class="brand-card__header">
+    <span class="brand-card__rank {{ if eq $brand.rank 1 }}th-rank-gold{{ else if eq $brand.rank 2 }}th-rank-silver{{ else if eq $brand.rank 3 }}th-rank-bronze{{ end }}">#{{ $brand.rank }}</span>
+    {{ if $brand.isPrimary }}<span class="brand-card__primary">主推优选</span>{{ end }}
+    {{ if $brand.speedtestImage }}<span class="card-verified-badge">📷 跑分已核测</span>{{ end }}
+    <h3 class="brand-card__name">{{ $brand.name }}</h3>
+  </div>
+  <div class="brand-card__body">
+    <div class="card-price-row">
+      <span class="card-price-label">起步价格</span>
+      <span class="card-price-val">{{ $brand.priceFrom }}</span>
+    </div>
+    
+    <div class="card-meta-list">
+      <p><strong>骨干线路：</strong><span class="meta-tag-line">{{ delimit $brand.lineType " / " }}</span></p>
+      <p><strong>协议支持：</strong><span class="meta-tag-proto">{{ delimit $brand.protocols " / " }}</span></p>
+      {{ if $brand.avgLatency }}
+      <p><strong>实测表现：</strong><span class="pill-latency">⚡ {{ $brand.avgLatency }}</span> <span class="pill-bandwidth">🚀 {{ $brand.topSpeed }}</span></p>
+      {{ end }}
+      <p class="card-highlights"><strong>核心亮点：</strong>{{ delimit $brand.highlights " · " }}</p>
+    </div>
+
+    {{ if $brand.promoCode }}
+    <div class="card-promo-box" onclick="copyCode('{{ $brand.promoCode }}')" title="点击复制专属优惠码">
+      <span class="promo-label">专属优惠码</span>
+      <code class="promo-code-val">{{ $brand.promoCode }}</code>
+      <span class="btn-copy-mini">复制</span>
+    </div>
+    {{ end }}
+  </div>
+  <div class="brand-card__footer">
+    <a href="/brands/{{ $brand.id }}/" class="brand-card__detail">实测深度评测</a>
+    {{ if and $brand.registerUrl (ne $brand.registerUrl "#") }}
+    <a href="{{ $brand.registerUrl }}" 
+       target="_blank" 
+       rel="nofollow sponsored noopener" 
+       class="brand-card__cta">
+      注册直达 &rarr;
+    </a>
+    {{ end }}
+  </div>
+  <p class="brand-card__disclosure">含推广链接 · 通过链接注册可能为本站带来维护佣金 · 不影响支付价格</p>
+</div>

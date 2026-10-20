@@ -1,0 +1,131 @@
+{{ define "main" }}
+<div class="home-container">
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-badge">⚡ 2026 最新横向实测决策引擎</div>
+    <h1 class="hero-title">快速筛选适合你的高性价比机场</h1>
+    <p class="hero-desc">
+      聚合 42 个主流品牌全量实测档案。按预算、设备、用途与线路类型，30 秒帮你找到最稳、最划算的网络加速服务。
+    </p>
+    <div class="hero-actions">
+      <a href="/recommend/" class="btn-primary">查看 2026 主力推荐 &rarr;</a>
+      <a href="/finder/" class="btn-secondary">按条件精准找机场</a>
+      <a href="/search/" class="btn-ghost">🔍 站内搜索</a>
+    </div>
+  </section>
+
+  <!-- Quick Filter Pills -->
+  <section class="quick-filter-section">
+    <h2 class="section-title-sm">🎯 快速决策入口</h2>
+    <div class="filter-pills">
+      <a href="/cheap/under-10/" class="filter-pill"><span class="pill-tag">预算</span> 10元以下极简档</a>
+      <a href="/cheap/under-20/" class="filter-pill"><span class="pill-tag">预算</span> 10-20元主流档</a>
+      <a href="/scenarios/chatgpt/" class="filter-pill"><span class="pill-tag">用途</span> ChatGPT / AI办公</a>
+      <a href="/scenarios/netflix/" class="filter-pill"><span class="pill-tag">用途</span> 4K 流媒体追剧</a>
+      <a href="/recommend/multi-device/" class="filter-pill"><span class="pill-tag">设备</span> 不限并发多设备</a>
+      <a href="/compare/iepl-vs-iplc/" class="filter-pill"><span class="pill-tag">线路</span> IPLC / IEPL 专线</a>
+      <a href="/free/" class="filter-pill"><span class="pill-tag">试用</span> 免费试用与避坑</a>
+      <a href="/brands/" class="filter-pill"><span class="pill-tag">全览</span> 42个品牌完整档案</a>
+    </div>
+  </section>
+
+  <!-- TOP 3 Featured Recommendations -->
+  <section class="featured-section">
+    <div class="section-header-row">
+      <h2>🏆 2026 综合精选主力品牌推荐</h2>
+      <a href="/recommend/" class="view-all-link">查看完整推荐榜单 &rarr;</a>
+    </div>
+    <div class="card-grid top-brands-grid">
+      {{ partial "brand-card.html" (dict "id" "gsy" "Site" .Site) }}
+      {{ partial "brand-card.html" (dict "id" "feimao" "Site" .Site) }}
+      {{ partial "brand-card.html" (dict "id" "firefly" "Site" .Site) }}
+    </div>
+  </section>
+
+  <!-- Comparison Matrix Table -->
+  <section class="home-matrix-section">
+    <div class="section-header-row">
+      <h2>📊 核心主力机场横向多维度对比</h2>
+      <a href="/compare/" class="view-all-link">查看完整对比专题 &rarr;</a>
+    </div>
+    {{ partial "comparison-table.html" (dict "ids" "gsy,feimao,weifeng,firefly,weitu,yinxingren,wgetcloud,cyberguard" "Site" .Site) }}
+  </section>
+
+  <!-- 8 Core Categories -->
+  <section class="categories-section">
+    <h2>🧭 决策专题导航</h2>
+    <div class="category-grid">
+      <a href="/recommend/" class="category-card">
+        <div class="category-icon">🌟</div>
+        <h3>机场推荐</h3>
+        <p>多维度综合首选、新手闭眼入、日常主力与老牌新锐深度盘点。</p>
+      </a>
+      <a href="/finder/" class="category-card">
+        <div class="category-icon">🎯</div>
+        <h3>找机场</h3>
+        <p>按预算、单多设备、地区节点、专线类型及客户端精准筛选。</p>
+      </a>
+      <a href="/cheap/" class="category-card">
+        <div class="category-icon">💰</div>
+        <h3>便宜机场</h3>
+        <p>5.6元极限低价、10-20元高性价比、学生党轻量套餐与每GB单价拆解。</p>
+      </a>
+      <a href="/free/" class="category-card">
+        <div class="category-icon">🎁</div>
+        <h3>免费机场</h3>
+        <p>限时试用真实核验、公共节点安全边界与免费陷阱避坑指南。</p>
+      </a>
+      <a href="/scenarios/" class="category-card">
+        <div class="category-icon">🚀</div>
+        <h3>使用场景</h3>
+        <p>针对 ChatGPT/Claude、Netflix 4K、跨境电商、远程协作专门方案。</p>
+      </a>
+      <a href="/compare/" class="category-card">
+        <div class="category-icon">⚖️</div>
+        <h3>机场对比</h3>
+        <p>同价位横向PK、IEPL vs IPLC、自研 vs 通用客户端深度剖析。</p>
+      </a>
+      <a href="/brands/" class="category-card">
+        <div class="category-icon">📂</div>
+        <h3>品牌资料库</h3>
+        <p>收录全部 42 个品牌基础档案、线路协议、历史背景与动态更新。</p>
+      </a>
+      <a href="/guides/" class="category-card">
+        <div class="category-icon">📖</div>
+        <h3>购买指南</h3>
+        <p>从注册付款、客户端订阅导入到防失联与续费退款全流程教程。</p>
+      </a>
+    </div>
+  </section>
+
+  <!-- Comprehensive Knowledge Graph & Selection Guide -->
+  {{ if .Content }}
+  <section class="home-guide-section article-content" style="margin: 3.5rem 0; padding: 2rem 0; border-top: 1px solid var(--color-border);">
+    {{ .Content }}
+  </section>
+  {{ end }}
+
+  <!-- Trust & Integrity Statement -->
+  <section class="trust-section">
+    <h3>🛡️ 我们的客观评测准则</h3>
+    <div class="trust-grid">
+      <div class="trust-item">
+        <strong>1. 独立第三方立场</strong>
+        <p>本站不隶属于任何机场团队，所有打分与推荐基于真实运营数据与线路实测，不因佣金高低调整排序逻辑。</p>
+      </div>
+      <div class="trust-item">
+        <strong>2. 100% 透明商业披露</strong>
+        <p>所有推广链接均明确标注并添加 nofollow 属性，所得佣金用于维持服务器与节点测试成本，不影响用户价格。</p>
+      </div>
+      <div class="trust-item">
+        <strong>3. 拒绝造假与虚标</strong>
+        <p>未核实字段一律注明「待核实」，官方自述一律标明「品牌资料显示」，绝不编造测速截图与虚假好评。</p>
+      </div>
+      <div class="trust-item">
+        <strong>4. 严格合规红线</strong>
+        <p>严禁提供绕过审查教程与翻墙指南，不分发任何真实节点信息，纯粹聚焦网络协议与选型决策。</p>
+      </div>
+    </div>
+  </section>
+</div>
+{{ end }}

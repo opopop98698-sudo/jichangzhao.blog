@@ -1,0 +1,3186 @@
+{
+  "recommend": {
+    "all-around": [
+      {
+        "file": "annual-vs-monthly-value-rating.md",
+        "slug": "annual-vs-monthly-value-rating",
+        "url": "/recommend/all-around/annual-vs-monthly-value-rating/",
+        "title": "全价位性价比量化：月付体验与年付锁定的真实收益率",
+        "desc": "深入剖析 全价位性价比量化：月付体验与年付锁定的真实收益率。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "best-value-weighted-score.md",
+        "slug": "best-value-weighted-score",
+        "url": "/recommend/all-around/best-value-weighted-score/",
+        "title": "综合性价比最高的机场：价格、线路与售后加权评分",
+        "desc": "深入剖析 综合性价比最高的机场：价格、线路与售后加权评分。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "hidden-traps-unsuitable-for-beginners.md",
+        "slug": "hidden-traps-unsuitable-for-beginners",
+        "url": "/recommend/all-around/hidden-traps-unsuitable-for-beginners/",
+        "title": "综合推荐里的隐藏地雷：不适合新手的3个机场类型",
+        "desc": "深入剖析 综合推荐里的隐藏地雷：不适合新手的3个机场类型。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "overall-stability-and-speed-balance.md",
+        "slug": "overall-stability-and-speed-balance",
+        "url": "/recommend/all-around/overall-stability-and-speed-balance/",
+        "title": "综合推荐的平衡之道：稳定性与峰值速度如何兼得",
+        "desc": "深入剖析 综合推荐的平衡之道：稳定性与峰值速度如何兼得。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "top-10-overall-2026.md",
+        "slug": "top-10-overall-2026",
+        "url": "/recommend/all-around/top-10-overall-2026/",
+        "title": "2026年综合实力最强的10个机场推荐",
+        "desc": "深入剖析 2026年综合实力最强的10个机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "veteran-vs-new-3-years.md",
+        "slug": "veteran-vs-new-3-years",
+        "url": "/recommend/all-around/veteran-vs-new-3-years/",
+        "title": "老牌与新兴机场综合对比：3年运营门槛的意义",
+        "desc": "深入剖析 老牌与新兴机场综合对比：3年运营门槛的意义。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "beginners": [
+      {
+        "file": "6-common-traps-to-avoid.md",
+        "slug": "6-common-traps-to-avoid",
+        "url": "/recommend/beginners/6-common-traps-to-avoid/",
+        "title": "新手买机场最容易踩的6个坑：年付、免费节点、虚假测速",
+        "desc": "深入剖析 新手买机场最容易踩的6个坑：年付、免费节点、虚假测速。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "avoiding-inflated-bandwidth-claims.md",
+        "slug": "avoiding-inflated-bandwidth-claims",
+        "url": "/recommend/beginners/avoiding-inflated-bandwidth-claims/",
+        "title": "告别虚标测速：识别过度宣传的千兆公网陷阱",
+        "desc": "深入剖析 告别虚标测速：识别过度宣传的千兆公网陷阱。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "beginners-top-3-picks.md",
+        "slug": "beginners-top-3-picks",
+        "url": "/recommend/beginners/beginners-top-3-picks/",
+        "title": "新手第一次买机场，闭眼入的3个品牌",
+        "desc": "深入剖析 新手第一次买机场，闭眼入的3个品牌。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "one-click-client-list.md",
+        "slug": "one-click-client-list",
+        "url": "/recommend/beginners/one-click-client-list/",
+        "title": "支持一键导入订阅、傻瓜式客户端的机场清单",
+        "desc": "深入剖析 支持一键导入订阅、傻瓜式客户端的机场清单。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "verify-official-site-guide.md",
+        "slug": "verify-official-site-guide",
+        "url": "/recommend/beginners/verify-official-site-guide/",
+        "title": "新手买前必读：如何核实机场官网真伪防钓鱼",
+        "desc": "深入剖析 新手买前必读：如何核实机场官网真伪防钓鱼。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "zero-threshold-import-guide.md",
+        "slug": "zero-threshold-import-guide",
+        "url": "/recommend/beginners/zero-threshold-import-guide/",
+        "title": "小白5分钟配置教程：从复制订阅到畅通无阻",
+        "desc": "深入剖析 小白5分钟配置教程：从复制订阅到畅通无阻。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "daily-driver": [
+      {
+        "file": "5-warning-signs-to-switch.md",
+        "slug": "5-warning-signs-to-switch",
+        "url": "/recommend/daily-driver/5-warning-signs-to-switch/",
+        "title": "什么时候应该换主力机场：5个危险预警信号",
+        "desc": "深入剖析 什么时候应该换主力机场：5个危险预警信号。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "daily-driver-3-core-metrics.md",
+        "slug": "daily-driver-3-core-metrics",
+        "url": "/recommend/daily-driver/daily-driver-3-core-metrics/",
+        "title": "什么是“日常主力机场“？三大硬指标解析",
+        "desc": "深入剖析 什么是“日常主力机场“？三大硬指标解析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "demoting-main-to-backup.md",
+        "slug": "demoting-main-to-backup",
+        "url": "/recommend/daily-driver/demoting-main-to-backup/",
+        "title": "主力机场降级为备用机场的条件判断与平滑迁移",
+        "desc": "深入剖析 主力机场降级为备用机场的条件判断与平滑迁移。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dual-driver-failover-setup.md",
+        "slug": "dual-driver-failover-setup",
+        "url": "/recommend/daily-driver/dual-driver-failover-setup/",
+        "title": "双主力热备份架构：保障关键业务 99.9% 在线率",
+        "desc": "深入剖析 双主力热备份架构：保障关键业务 99.9% 在线率。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "peak-hours-resilience-for-main-driver.md",
+        "slug": "peak-hours-resilience-for-main-driver",
+        "url": "/recommend/daily-driver/peak-hours-resilience-for-main-driver/",
+        "title": "主力机场的晚高峰大考：丢包率与网络抖动评测",
+        "desc": "深入剖析 主力机场的晚高峰大考：丢包率与网络抖动评测。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "top-5-daily-drivers-2026.md",
+        "slug": "top-5-daily-drivers-2026",
+        "url": "/recommend/daily-driver/top-5-daily-drivers-2026/",
+        "title": "2026年最适合做主力机场的5个品牌深度分析",
+        "desc": "深入剖析 2026年最适合做主力机场的5个品牌深度分析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "emerging": [
+      {
+        "file": "2025-2026-new-brands-worth-watching.md",
+        "slug": "2025-2026-new-brands-worth-watching",
+        "url": "/recommend/emerging/2025-2026-new-brands-worth-watching/",
+        "title": "2025-2026年成立的新机场，哪些值得重点关注",
+        "desc": "深入剖析 2025-2026年成立的新机场，哪些值得重点关注。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、SOGO 云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "are-first-year-discounts-worth-it.md",
+        "slug": "are-first-year-discounts-worth-it",
+        "url": "/recommend/emerging/are-first-year-discounts-worth-it/",
+        "title": "新机场首年超低优惠套餐是否值得入手：短线博弈策略",
+        "desc": "深入剖析 新机场首年超低优惠套餐是否值得入手：短线博弈策略。基于 42 个品牌真实测速数据与横向对比，重点评测 EdgeNova、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "modern-protocols-in-new-brands.md",
+        "slug": "modern-protocols-in-new-brands",
+        "url": "/recommend/emerging/modern-protocols-in-new-brands/",
+        "title": "VLESS 与原生住宅 IP 普及潮：新锐品牌的破局之道",
+        "desc": "深入剖析 VLESS 与原生住宅 IP 普及潮：新锐品牌的破局之道。基于 42 个品牌真实测速数据与横向对比，重点评测 灵动云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "observing-new-brands-checklist.md",
+        "slug": "observing-new-brands-checklist",
+        "url": "/recommend/emerging/observing-new-brands-checklist/",
+        "title": "新品牌观察期法则：月付检验3个月的实战标准",
+        "desc": "深入剖析 新品牌观察期法则：月付检验3个月的实战标准。基于 42 个品牌真实测速数据与横向对比，重点评测 SOGO 云、可信云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "runaway-risk-assessment.md",
+        "slug": "runaway-risk-assessment",
+        "url": "/recommend/emerging/runaway-risk-assessment/",
+        "title": "新机场跑路概率分析：如何客观评估新品牌破产风险",
+        "desc": "深入剖析 新机场跑路概率分析：如何客观评估新品牌破产风险。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tech-dividends-of-new-brands.md",
+        "slug": "tech-dividends-of-new-brands",
+        "url": "/recommend/emerging/tech-dividends-of-new-brands/",
+        "title": "新机场的技术红利：更先进的架构与更低的初始负载",
+        "desc": "深入剖析 新机场的技术红利：更先进的架构与更低的初始负载。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、全球云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "enterprise": [
+      {
+        "file": "enterprise-in-depth-comparison.md",
+        "slug": "enterprise-in-depth-comparison",
+        "url": "/recommend/enterprise/enterprise-in-depth-comparison/",
+        "title": "隐形人、青云梯、WgetCloud 企业级服务深度横向对比",
+        "desc": "深入剖析 隐形人、青云梯、WgetCloud 企业级服务深度横向对比。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "enterprise-vs-personal-accelerator.md",
+        "slug": "enterprise-vs-personal-accelerator",
+        "url": "/recommend/enterprise/enterprise-vs-personal-accelerator/",
+        "title": "企业级机场与个人机场的区别：SLA与技术支持鸿沟",
+        "desc": "深入剖析 企业级机场与个人机场的区别：SLA与技术支持鸿沟。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "finance-reimbursement-and-invoicing.md",
+        "slug": "finance-reimbursement-and-invoicing",
+        "url": "/recommend/enterprise/finance-reimbursement-and-invoicing/",
+        "title": "企业财务报销与正规支付凭证获取完整流程",
+        "desc": "深入剖析 企业财务报销与正规支付凭证获取完整流程。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "high-bandwidth-dedicated-intranet.md",
+        "slug": "high-bandwidth-dedicated-intranet",
+        "url": "/recommend/enterprise/high-bandwidth-dedicated-intranet/",
+        "title": "2Gbps+ 物理带宽冗余与独享纯净 IP 池的技术价值",
+        "desc": "深入剖析 2Gbps+ 物理带宽冗余与独享纯净 IP 池的技术价值。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "multi-account-and-permissions.md",
+        "slug": "multi-account-and-permissions",
+        "url": "/recommend/enterprise/multi-account-and-permissions/",
+        "title": "多账号管理、团队子订阅分发与权限分配方案",
+        "desc": "深入剖析 多账号管理、团队子订阅分发与权限分配方案。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "team-compliance-guidelines.md",
+        "slug": "team-compliance-guidelines",
+        "url": "/recommend/enterprise/team-compliance-guidelines/",
+        "title": "团队与中小企业使用加速服务的合规说明与操作规范",
+        "desc": "深入剖析 团队与中小企业使用加速服务的合规说明与操作规范。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "heavy-traffic": [
+      {
+        "file": "500g-heavy-traffic-plans.md",
+        "slug": "500g-heavy-traffic-plans",
+        "url": "/recommend/heavy-traffic/500g-heavy-traffic-plans/",
+        "title": "500G+流量套餐机场盘点：重度下载与生产力首选",
+        "desc": "深入剖析 500G+流量套餐机场盘点：重度下载与生产力首选。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cost-per-gb-heavy-traffic.md",
+        "slug": "cost-per-gb-heavy-traffic",
+        "url": "/recommend/heavy-traffic/cost-per-gb-heavy-traffic/",
+        "title": "大流量套餐的每GB成本对比：算准每一分钱的价值",
+        "desc": "深入剖析 大流量套餐的每GB成本对比：算准每一分钱的价值。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、灵猫网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "fair-use-policy-in-heavy-traffic.md",
+        "slug": "fair-use-policy-in-heavy-traffic",
+        "url": "/recommend/heavy-traffic/fair-use-policy-in-heavy-traffic/",
+        "title": "FUP 公平使用原则揭秘：避免触发大流量限速阈值",
+        "desc": "深入剖析 FUP 公平使用原则揭秘：避免触发大流量限速阈值。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "large-capacity-package-showdown.md",
+        "slug": "large-capacity-package-showdown",
+        "url": "/recommend/heavy-traffic/large-capacity-package-showdown/",
+        "title": "350G 至 1000G 高阶大容量套餐横向对决",
+        "desc": "深入剖析 350G 至 1000G 高阶大容量套餐横向对决。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、闪跃，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-myths-and-real-quality.md",
+        "slug": "traffic-myths-and-real-quality",
+        "url": "/recommend/heavy-traffic/traffic-myths-and-real-quality/",
+        "title": "大流量用户的选择误区：流量大小绝对不等于线路质量",
+        "desc": "深入剖析 大流量用户的选择误区：流量大小绝对不等于线路质量。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "truth-about-unlimited-traffic.md",
+        "slug": "truth-about-unlimited-traffic",
+        "url": "/recommend/heavy-traffic/truth-about-unlimited-traffic/",
+        "title": "无限流量宣称的真相：哪些机场真的不限速不限制",
+        "desc": "深入剖析 无限流量宣称的真相：哪些机场真的不限速不限制。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "low-latency": [
+      {
+        "file": "gaming-udp-optimized-lines.md",
+        "slug": "gaming-udp-optimized-lines",
+        "url": "/recommend/low-latency/gaming-udp-optimized-lines/",
+        "title": "游戏加速机场推荐：全节点 UDP 优化与极低丢包专线",
+        "desc": "深入剖析 游戏加速机场推荐：全节点 UDP 优化与极低丢包专线。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "geographic-routing-optimization.md",
+        "slug": "geographic-routing-optimization",
+        "url": "/recommend/low-latency/geographic-routing-optimization/",
+        "title": "近端 BGP 接入与物理光缆路由对往返时延的影响",
+        "desc": "深入剖析 近端 BGP 接入与物理光缆路由对往返时延的影响。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、sslar，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "latency-and-line-types-iepl-iplc.md",
+        "slug": "latency-and-line-types-iepl-iplc",
+        "url": "/recommend/low-latency/latency-and-line-types-iepl-iplc/",
+        "title": "延迟与线路类型的物理关系：IEPL vs IPLC vs 中转",
+        "desc": "深入剖析 延迟与线路类型的物理关系：IEPL vs IPLC vs 中转。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "steam-and-discord-voice-booster.md",
+        "slug": "steam-and-discord-voice-booster",
+        "url": "/recommend/low-latency/steam-and-discord-voice-booster/",
+        "title": "Steam 游戏联机与 Discord 语音低延迟加速配置",
+        "desc": "深入剖析 Steam 游戏联机与 Discord 语音低延迟加速配置。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "under-50ms-low-latency-nodes.md",
+        "slug": "under-50ms-low-latency-nodes",
+        "url": "/recommend/low-latency/under-50ms-low-latency-nodes/",
+        "title": "延迟低于50ms的机场盘点：香港、日本与新加坡节点实测",
+        "desc": "深入剖析 延迟低于50ms的机场盘点：香港、日本与新加坡节点实测。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "video-conference-low-latency-selection.md",
+        "slug": "video-conference-low-latency-selection",
+        "url": "/recommend/low-latency/video-conference-low-latency-selection/",
+        "title": "视频会议与远程协作的低延迟机场：告别音画不同步",
+        "desc": "深入剖析 视频会议与远程协作的低延迟机场：告别音画不同步。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "multi-device": [
+      {
+        "file": "apple-tv-and-nas-proxy-setup.md",
+        "slug": "apple-tv-and-nas-proxy-setup",
+        "url": "/recommend/multi-device/apple-tv-and-nas-proxy-setup/",
+        "title": "Apple TV 与家庭 NAS 代理配置：多媒体中心加速指南",
+        "desc": "深入剖析 Apple TV 与家庭 NAS 代理配置：多媒体中心加速指南。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "concurrency-limits-explained.md",
+        "slug": "concurrency-limits-explained",
+        "url": "/recommend/multi-device/concurrency-limits-explained/",
+        "title": "机场并发设备数限制机制：连接数 vs IP数深度辨析",
+        "desc": "深入剖析 机场并发设备数限制机制：连接数 vs IP数深度辨析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cross-platform-compatibility.md",
+        "slug": "cross-platform-compatibility",
+        "url": "/recommend/multi-device/cross-platform-compatibility/",
+        "title": "Windows+Mac+Android+iOS 全平台兼容机场推荐",
+        "desc": "深入剖析 Windows+Mac+Android+iOS 全平台兼容机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "family-sharing-plan-selection.md",
+        "slug": "family-sharing-plan-selection",
+        "url": "/recommend/multi-device/family-sharing-plan-selection/",
+        "title": "家庭多设备共享机场：3-5人使用的套餐选择方案",
+        "desc": "深入剖析 家庭多设备共享机场：3-5人使用的套餐选择方案。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "router-openwrt-compatible-list.md",
+        "slug": "router-openwrt-compatible-list",
+        "url": "/recommend/multi-device/router-openwrt-compatible-list/",
+        "title": "路由器与软路由支持机场清单：OpenWrt与全屋加速",
+        "desc": "深入剖析 路由器与软路由支持机场清单：OpenWrt与全屋加速。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "unlimited-devices-list.md",
+        "slug": "unlimited-devices-list",
+        "url": "/recommend/multi-device/unlimited-devices-list/",
+        "title": "支持无限设备的机场盘点：光速云、梯子云与Firefly",
+        "desc": "深入剖析 支持无限设备的机场盘点：光速云、梯子云与Firefly。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "stability": [
+      {
+        "file": "3-years-continuous-stability-record.md",
+        "slug": "3-years-continuous-stability-record",
+        "url": "/recommend/stability/3-years-continuous-stability-record/",
+        "title": "连续3年稳定运营的机场：历史数据记录与用户社群反馈",
+        "desc": "深入剖析 连续3年稳定运营的机场：历史数据记录与用户社群反馈。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "balancing-stability-and-price.md",
+        "slug": "balancing-stability-and-price",
+        "url": "/recommend/stability/balancing-stability-and-price/",
+        "title": "稳定性与价格的平衡：稳定专线溢价到底该花多少",
+        "desc": "深入剖析 稳定性与价格的平衡：稳定专线溢价到底该花多少。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "disaster-recovery-in-stable-brands.md",
+        "slug": "disaster-recovery-in-stable-brands",
+        "url": "/recommend/stability/disaster-recovery-in-stable-brands/",
+        "title": "海底光缆中断时的应急容灾：专线双活与智能调度实测",
+        "desc": "深入剖析 海底光缆中断时的应急容灾：专线双活与智能调度实测。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "packet-loss-and-jitter-benchmarks.md",
+        "slug": "packet-loss-and-jitter-benchmarks",
+        "url": "/recommend/stability/packet-loss-and-jitter-benchmarks/",
+        "title": "网络抖动与丢包率监控：保障网页秒开的硬技术指标",
+        "desc": "深入剖析 网络抖动与丢包率监控：保障网页秒开的硬技术指标。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "peak-hours-stable-iepl-iplc.md",
+        "slug": "peak-hours-stable-iepl-iplc",
+        "url": "/recommend/stability/peak-hours-stable-iepl-iplc/",
+        "title": "晚高峰稳定的机场：IEPL/IPLC专线品牌横向实测",
+        "desc": "深入剖析 晚高峰稳定的机场：IEPL/IPLC专线品牌横向实测。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "what-defines-stable-accelerator.md",
+        "slug": "what-defines-stable-accelerator",
+        "url": "/recommend/stability/what-defines-stable-accelerator/",
+        "title": "什么样的机场算“稳定“？可用率、连续在线与丢包率",
+        "desc": "深入剖析 什么样的机场算“稳定“？可用率、连续在线与丢包率。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "veteran": [
+      {
+        "file": "are-veteran-brands-more-reliable.md",
+        "slug": "are-veteran-brands-more-reliable",
+        "url": "/recommend/veteran/are-veteran-brands-more-reliable/",
+        "title": "老牌机场一定更靠谱吗？运营时长与稳定性的相关性",
+        "desc": "深入剖析 老牌机场一定更靠谱吗？运营时长与稳定性的相关性。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "is-veteran-brand-premium-worth-it.md",
+        "slug": "is-veteran-brand-premium-worth-it",
+        "url": "/recommend/veteran/is-veteran-brand-premium-worth-it/",
+        "title": "老牌机场的价格溢价是否值得：品牌税还是品质保障",
+        "desc": "深入剖析 老牌机场的价格溢价是否值得：品牌税还是品质保障。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "over-3-years-running-comparison.md",
+        "slug": "over-3-years-running-comparison",
+        "url": "/recommend/veteran/over-3-years-running-comparison/",
+        "title": "运营3年以上的机场综合对比：老牌中坚的底蕴与实力",
+        "desc": "深入剖析 运营3年以上的机场综合对比：老牌中坚的底蕴与实力。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "qingyunti-6-years-history.md",
+        "slug": "qingyunti-6-years-history",
+        "url": "/recommend/veteran/qingyunti-6-years-history/",
+        "title": "青云梯等6年团队衍生品牌的抗风险能力拆解",
+        "desc": "深入剖析 青云梯等6年团队衍生品牌的抗风险能力拆解。基于 42 个品牌真实测速数据与横向对比，重点评测 青云梯、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "running-since-2020-brands.md",
+        "slug": "running-since-2020-brands",
+        "url": "/recommend/veteran/running-since-2020-brands/",
+        "title": "2020年至今稳定运营的机场：光速云与星岛梦深度回顾",
+        "desc": "深入剖析 2020年至今稳定运营的机场：光速云与星岛梦深度回顾。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "veteran-infrastructure-advantages.md",
+        "slug": "veteran-infrastructure-advantages",
+        "url": "/recommend/veteran/veteran-infrastructure-advantages/",
+        "title": "老牌专线供应链优势：长约机房带宽与自研调度节点",
+        "desc": "深入剖析 老牌专线供应链优势：长约机房带宽与自研调度节点。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "finder": {
+    "by-budget": [
+      {
+        "file": "20-to-50-budget-analysis.md",
+        "slug": "20-to-50-budget-analysis",
+        "url": "/finder/by-budget/20-to-50-budget-analysis/",
+        "title": "每月20-50元的机场：品质价值与溢价分析",
+        "desc": "深入剖析 每月20-50元的机场：品质价值与溢价分析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "high-budget-return-on-investment.md",
+        "slug": "high-budget-return-on-investment",
+        "url": "/finder/by-budget/high-budget-return-on-investment/",
+        "title": "月预算超过 30 元后的边际效应递减与选型策略",
+        "desc": "深入剖析 月预算超过 30 元后的边际效应递减与选型策略。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、SOGO 云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "over-50-high-end-quality-analysis.md",
+        "slug": "over-50-high-end-quality-analysis",
+        "url": "/finder/by-budget/over-50-high-end-quality-analysis/",
+        "title": "50元以上的高端机场：谁在为极高品质付费",
+        "desc": "深入剖析 50元以上的高端机场：谁在为极高品质付费。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ultra-low-budget-under-10.md",
+        "slug": "ultra-low-budget-under-10",
+        "url": "/finder/by-budget/ultra-low-budget-under-10/",
+        "title": "预算极低（<10元）：飞猫云、微风网络、大佬云评测",
+        "desc": "深入剖析 预算极低（<10元）：飞猫云、微风网络、大佬云评测。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "under-20-real-plans-comparison.md",
+        "slug": "under-20-real-plans-comparison",
+        "url": "/finder/by-budget/under-20-real-plans-comparison/",
+        "title": "每月20元以下的机场：8个真实套餐参数横向对比",
+        "desc": "深入剖析 每月20元以下的机场：8个真实套餐参数横向对比。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "worry-free-entry-budget-plan.md",
+        "slug": "worry-free-entry-budget-plan",
+        "url": "/finder/by-budget/worry-free-entry-budget-plan/",
+        "title": "无忧链接等6元轻量套餐在极低预算下的真实体验",
+        "desc": "深入剖析 无忧链接等6元轻量套餐在极低预算下的真实体验。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、大佬云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-client": [
+      {
+        "file": "brands-with-proprietary-clients.md",
+        "slug": "brands-with-proprietary-clients",
+        "url": "/finder/by-client/brands-with-proprietary-clients/",
+        "title": "提供自研客户端的机场：光速云、梯子云与Firefly",
+        "desc": "深入剖析 提供自研客户端的机场：光速云、梯子云与Firefly。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "clash-v2ray-singbox-compatible-brands.md",
+        "slug": "clash-v2ray-singbox-compatible-brands",
+        "url": "/finder/by-client/clash-v2ray-singbox-compatible-brands/",
+        "title": "支持Clash/v2ray/sing-box的机场：自由导入全格式",
+        "desc": "深入剖析 支持Clash/v2ray/sing-box的机场：自由导入全格式。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "custom-app-safety-audit.md",
+        "slug": "custom-app-safety-audit",
+        "url": "/finder/by-client/custom-app-safety-audit/",
+        "title": "自研客户端的安全性与权限审核：如何确保无后台窃密",
+        "desc": "深入剖析 自研客户端的安全性与权限审核：如何确保无后台窃密。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、sslar，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "no-conversion-subscription-import.md",
+        "slug": "no-conversion-subscription-import",
+        "url": "/finder/by-client/no-conversion-subscription-import/",
+        "title": "订阅导入免转换机场：无忧链接等免转换优势解析",
+        "desc": "深入剖析 订阅导入免转换机场：无忧链接等免转换优势解析。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "proprietary-vs-universal-subscription.md",
+        "slug": "proprietary-vs-universal-subscription",
+        "url": "/finder/by-client/proprietary-vs-universal-subscription/",
+        "title": "自研客户端 vs 通用订阅：小白便利与极客折腾的选择",
+        "desc": "深入剖析 自研客户端 vs 通用订阅：小白便利与极客折腾的选择。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "universal-subscription-rule-customization.md",
+        "slug": "universal-subscription-rule-customization",
+        "url": "/finder/by-client/universal-subscription-rule-customization/",
+        "title": "通用订阅的进阶玩法：ACL4SSR 规则与私有分流配置",
+        "desc": "深入剖析 通用订阅的进阶玩法：ACL4SSR 规则与私有分流配置。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、唯兔云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-device": [
+      {
+        "file": "home-and-office-5-plus-devices.md",
+        "slug": "home-and-office-5-plus-devices",
+        "url": "/finder/by-device/home-and-office-5-plus-devices/",
+        "title": "家庭+办公：5台以上设备同时在线的稳定方案",
+        "desc": "深入剖析 家庭+办公：5台以上设备同时在线的稳定方案。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ipad-and-secondary-devices-sharing.md",
+        "slug": "ipad-and-secondary-devices-sharing",
+        "url": "/finder/by-device/ipad-and-secondary-devices-sharing/",
+        "title": "平板电脑与副机共享加速：规避账号风控的最佳实践",
+        "desc": "深入剖析 平板电脑与副机共享加速：规避账号风控的最佳实践。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "iphone-android-only-recommendations.md",
+        "slug": "iphone-android-only-recommendations",
+        "url": "/finder/by-device/iphone-android-only-recommendations/",
+        "title": "只有iPhone/Android手机：移动端续航与免后台断连机场",
+        "desc": "深入剖析 只有iPhone/Android手机：移动端续航与免后台断连机场。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "macbook-macos-dedicated-clients.md",
+        "slug": "macbook-macos-dedicated-clients",
+        "url": "/finder/by-device/macbook-macos-dedicated-clients/",
+        "title": "MacBook 与 macOS 平台优质适配机场与客户端选择",
+        "desc": "深入剖析 MacBook 与 macOS 平台优质适配机场与客户端选择。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "phone-plus-pc-unlimited-devices.md",
+        "slug": "phone-plus-pc-unlimited-devices",
+        "url": "/finder/by-device/phone-plus-pc-unlimited-devices/",
+        "title": "手机+电脑双端日常：不限并发设备数的优质机场",
+        "desc": "深入剖析 手机+电脑双端日常：不限并发设备数的优质机场。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "windows-pc-only-recommendations.md",
+        "slug": "windows-pc-only-recommendations",
+        "url": "/finder/by-device/windows-pc-only-recommendations/",
+        "title": "只有Windows电脑：最佳体验与轻量客户端机场推荐",
+        "desc": "深入剖析 只有Windows电脑：最佳体验与轻量客户端机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-history": [
+      {
+        "file": "how-to-verify-new-brands-stability.md",
+        "slug": "how-to-verify-new-brands-stability",
+        "url": "/finder/by-history/how-to-verify-new-brands-stability/",
+        "title": "新品牌如何验证稳定性：从试用到转正的三步法",
+        "desc": "深入剖析 新品牌如何验证稳定性：从试用到转正的三步法。基于 42 个品牌真实测速数据与横向对比，重点评测 SOGO 云、可信云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "new-brands-2023-2025-pros-cons.md",
+        "slug": "new-brands-2023-2025-pros-cons",
+        "url": "/finder/by-history/new-brands-2023-2025-pros-cons/",
+        "title": "2023-2025年新品牌：技术优势与风险综合透视",
+        "desc": "深入剖析 2023-2025年新品牌：技术优势与风险综合透视。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "newcomer-promotions-tactics.md",
+        "slug": "newcomer-promotions-tactics",
+        "url": "/finder/by-history/newcomer-promotions-tactics/",
+        "title": "新锐机场开业大促背后的商业逻辑与避险防守策略",
+        "desc": "深入剖析 新锐机场开业大促背后的商业逻辑与避险防守策略。基于 42 个品牌真实测速数据与横向对比，重点评测 EdgeNova、灵动云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "over-5-years-brands-gsy-xdm.md",
+        "slug": "over-5-years-brands-gsy-xdm",
+        "url": "/finder/by-history/over-5-years-brands-gsy-xdm/",
+        "title": "2020年前运营至今的机场：光速云与星岛梦稳健评测",
+        "desc": "深入剖析 2020年前运营至今的机场：光速云与星岛梦稳健评测。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "verifying-stability-of-5-year-brands.md",
+        "slug": "verifying-stability-of-5-year-brands",
+        "url": "/finder/by-history/verifying-stability-of-5-year-brands/",
+        "title": "运营5年以上机场的稳定性验证：数据模型与长期口碑",
+        "desc": "深入剖析 运营5年以上机场的稳定性验证：数据模型与长期口碑。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "veteran-pricing-evolution.md",
+        "slug": "veteran-pricing-evolution",
+        "url": "/finder/by-history/veteran-pricing-evolution/",
+        "title": "老牌机场多年价格走势：如何看待历史价格调整",
+        "desc": "深入剖析 老牌机场多年价格走势：如何看待历史价格调整。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-line-type": [
+      {
+        "file": "bgp-multi-line-tunnel-acceleration.md",
+        "slug": "bgp-multi-line-tunnel-acceleration",
+        "url": "/finder/by-line-type/bgp-multi-line-tunnel-acceleration/",
+        "title": "多线 BGP 入口与专线传输：电信、联通、移动三网优化",
+        "desc": "深入剖析 多线 BGP 入口与专线传输：电信、联通、移动三网优化。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、sslar，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "direct-lines-specific-scenarios.md",
+        "slug": "direct-lines-specific-scenarios",
+        "url": "/finder/by-line-type/direct-lines-specific-scenarios/",
+        "title": "直连线路机场：低成本下的特定场景与备用方案",
+        "desc": "深入剖析 直连线路机场：低成本下的特定场景与备用方案。基于 42 个品牌真实测速数据与横向对比，重点评测 EdgeNova、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "hybrid-line-architecture-benefits.md",
+        "slug": "hybrid-line-architecture-benefits",
+        "url": "/finder/by-line-type/hybrid-line-architecture-benefits/",
+        "title": "混合线路架构分析：主力专线配中转容灾的实效性",
+        "desc": "深入剖析 混合线路架构分析：主力专线配中转容灾的实效性。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "iepl-dedicated-line-list.md",
+        "slug": "iepl-dedicated-line-list",
+        "url": "/finder/by-line-type/iepl-dedicated-line-list/",
+        "title": "IEPL 专线机场清单：延迟与稳定性的核心优势拆解",
+        "desc": "深入剖析 IEPL 专线机场清单：延迟与稳定性的核心优势拆解。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "iplc-dedicated-line-list.md",
+        "slug": "iplc-dedicated-line-list",
+        "url": "/finder/by-line-type/iplc-dedicated-line-list/",
+        "title": "IPLC 专线机场清单：点对点跨境内网线路质量对比",
+        "desc": "深入剖析 IPLC 专线机场清单：点对点跨境内网线路质量对比。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "relay-lines-cost-effective-choice.md",
+        "slug": "relay-lines-cost-effective-choice",
+        "url": "/finder/by-line-type/relay-lines-cost-effective-choice/",
+        "title": "公网中转线路机场：高性价比的适用人群与风险边界",
+        "desc": "深入剖析 公网中转线路机场：高性价比的适用人群与风险边界。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-payment": [
+      {
+        "file": "alipay-accelerator-first-choice.md",
+        "slug": "alipay-accelerator-first-choice",
+        "url": "/finder/by-payment/alipay-accelerator-first-choice/",
+        "title": "支付宝收款机场：为什么国内用户优先推荐支付宝通道",
+        "desc": "深入剖析 支付宝收款机场：为什么国内用户优先推荐支付宝通道。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "alipay-wechat-supported-brands.md",
+        "slug": "alipay-wechat-supported-brands",
+        "url": "/finder/by-payment/alipay-wechat-supported-brands/",
+        "title": "支持支付宝与微信支付的机场盘点：方便快捷的主流选择",
+        "desc": "深入剖析 支持支付宝与微信支付的机场盘点：方便快捷的主流选择。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "anonymous-payment-best-practices.md",
+        "slug": "anonymous-payment-best-practices",
+        "url": "/finder/by-payment/anonymous-payment-best-practices/",
+        "title": "匿名购买最佳实践：从邮箱到结算的隐私闭环指南",
+        "desc": "深入剖析 匿名购买最佳实践：从邮箱到结算的隐私闭环指南。基于 42 个品牌真实测速数据与横向对比，重点评测 FlyingBird、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "credit-card-supported-for-overseas.md",
+        "slug": "credit-card-supported-for-overseas",
+        "url": "/finder/by-payment/credit-card-supported-for-overseas/",
+        "title": "支持国际信用卡与PayPal的机场：海外留学生与外企用户",
+        "desc": "深入剖析 支持国际信用卡与PayPal的机场：海外留学生与外企用户。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "third-party-checkout-risk-control.md",
+        "slug": "third-party-checkout-risk-control",
+        "url": "/finder/by-payment/third-party-checkout-risk-control/",
+        "title": "第三方发卡与个人聚合码支付的资金安全与账单核对",
+        "desc": "深入剖析 第三方发卡与个人聚合码支付的资金安全与账单核对。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "usdt-payment-privacy-first.md",
+        "slug": "usdt-payment-privacy-first",
+        "url": "/finder/by-payment/usdt-payment-privacy-first/",
+        "title": "支持USDT等虚拟币支付的机场：隐私保护优先的极客方案",
+        "desc": "深入剖析 支持USDT等虚拟币支付的机场：隐私保护优先的极客方案。基于 42 个品牌真实测速数据与横向对比，重点评测 FlyingBird、龙猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-region": [
+      {
+        "file": "europe-uk-germany-france-nodes.md",
+        "slug": "europe-uk-germany-france-nodes",
+        "url": "/finder/by-region/europe-uk-germany-france-nodes/",
+        "title": "需要欧洲节点：英国/德国/法国节点丰富且纯净的机场",
+        "desc": "深入剖析 需要欧洲节点：英国/德国/法国节点丰富且纯净的机场。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "hong-kong-nodes-top-10.md",
+        "slug": "hong-kong-nodes-top-10",
+        "url": "/finder/by-region/hong-kong-nodes-top-10/",
+        "title": "需要香港节点：10个香港优质专线机场实测推荐",
+        "desc": "深入剖析 需要香港节点：10个香港优质专线机场实测推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "japan-singapore-low-latency.md",
+        "slug": "japan-singapore-low-latency",
+        "url": "/finder/by-region/japan-singapore-low-latency/",
+        "title": "需要日本/新加坡节点：亚洲近端低延迟专线机场",
+        "desc": "深入剖析 需要日本/新加坡节点：亚洲近端低延迟专线机场。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "niche-regions-australia-southeast-asia.md",
+        "slug": "niche-regions-australia-southeast-asia",
+        "url": "/finder/by-region/niche-regions-australia-southeast-asia/",
+        "title": "冷门地区节点盘点：马来西亚、澳大利亚与土耳其节点",
+        "desc": "深入剖析 冷门地区节点盘点：马来西亚、澳大利亚与土耳其节点。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、白月光，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "taiwan-and-korea-regional-nodes.md",
+        "slug": "taiwan-and-korea-regional-nodes",
+        "url": "/finder/by-region/taiwan-and-korea-regional-nodes/",
+        "title": "台湾与韩国节点专项测评：流媒体版权与特殊业务加速",
+        "desc": "深入剖析 台湾与韩国节点专项测评：流媒体版权与特殊业务加速。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "us-west-and-east-nodes.md",
+        "slug": "us-west-and-east-nodes",
+        "url": "/finder/by-region/us-west-and-east-nodes/",
+        "title": "需要美国节点：美西与美东千兆大带宽机场横评",
+        "desc": "深入剖析 需要美国节点：美西与美东千兆大带宽机场横评。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "by-usage": [
+      {
+        "file": "academic-research-stable-low-latency.md",
+        "slug": "academic-research-stable-low-latency",
+        "url": "/finder/by-usage/academic-research-stable-low-latency/",
+        "title": "学术研究用途：稳定与低延迟的权威文献检索机场",
+        "desc": "深入剖析 学术研究用途：稳定与低延迟的权威文献检索机场。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "gaming-udp-optimized-recommendations.md",
+        "slug": "gaming-udp-optimized-recommendations",
+        "url": "/finder/by-usage/gaming-udp-optimized-recommendations/",
+        "title": "游戏加速：UDP 优化与海外服务器联机机场推荐",
+        "desc": "深入剖析 游戏加速：UDP 优化与海外服务器联机机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "github-developer-accelerator-guide.md",
+        "slug": "github-developer-accelerator-guide",
+        "url": "/finder/by-usage/github-developer-accelerator-guide/",
+        "title": "程序员专属：GitHub、Docker 与海外代码仓库秒级同步",
+        "desc": "深入剖析 程序员专属：GitHub、Docker 与海外代码仓库秒级同步。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "remote-work-enterprise-recommendations.md",
+        "slug": "remote-work-enterprise-recommendations",
+        "url": "/finder/by-usage/remote-work-enterprise-recommendations/",
+        "title": "远程办公：跨国企业级远程办公与即时通讯方案",
+        "desc": "深入剖析 远程办公：跨国企业级远程办公与即时通讯方案。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "social-media-tiktok-instagram-booster.md",
+        "slug": "social-media-tiktok-instagram-booster",
+        "url": "/finder/by-usage/social-media-tiktok-instagram-booster/",
+        "title": "海外社交平台：TikTok、Instagram 与 X (Twitter) 顺畅浏览",
+        "desc": "深入剖析 海外社交平台：TikTok、Instagram 与 X (Twitter) 顺畅浏览。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "streaming-netflix-youtube-unlock.md",
+        "slug": "streaming-netflix-youtube-unlock",
+        "url": "/finder/by-usage/streaming-netflix-youtube-unlock/",
+        "title": "流媒体观看：Netflix 与 YouTube 4K 解锁稳定机场",
+        "desc": "深入剖析 流媒体观看：Netflix 与 YouTube 4K 解锁稳定机场。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "cheap": {
+    "annual-deals": [
+      {
+        "file": "biggest-annual-discounts-ranking.md",
+        "slug": "biggest-annual-discounts-ranking",
+        "url": "/cheap/annual-deals/biggest-annual-discounts-ranking/",
+        "title": "年付折扣最大的机场盘点：季9折/年8折/2年7折横评",
+        "desc": "深入剖析 年付折扣最大的机场盘点：季9折/年8折/2年7折横评。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "black-friday-and-holiday-promos.md",
+        "slug": "black-friday-and-holiday-promos",
+        "url": "/cheap/annual-deals/black-friday-and-holiday-promos/",
+        "title": "黑五、双十一与元旦周年庆：抓住年度最大促销窗口",
+        "desc": "深入剖析 黑五、双十一与元旦周年庆：抓住年度最大促销窗口。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、EdgeNova，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "evaluating-runaway-risks-of-annual-plans.md",
+        "slug": "evaluating-runaway-risks-of-annual-plans",
+        "url": "/cheap/annual-deals/evaluating-runaway-risks-of-annual-plans/",
+        "title": "年付机场跑路风险：如何通过运营年限与财报模型评估",
+        "desc": "深入剖析 年付机场跑路风险：如何通过运营年限与财报模型评估。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "hedging-annual-risk-with-cheap-backup.md",
+        "slug": "hedging-annual-risk-with-cheap-backup",
+        "url": "/cheap/annual-deals/hedging-annual-risk-with-cheap-backup/",
+        "title": "年付主力的对冲策略：5元极简备用机场兜底指南",
+        "desc": "深入剖析 年付主力的对冲策略：5元极简备用机场兜底指南。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "real-savings-of-annual-billing-100g.md",
+        "slug": "real-savings-of-annual-billing-100g",
+        "url": "/cheap/annual-deals/real-savings-of-annual-billing-100g/",
+        "title": "年付的实际节省计算：以主流100G套餐为例的复利账单",
+        "desc": "深入剖析 年付的实际节省计算：以主流100G套餐为例的复利账单。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "user-groups-unsuitable-for-annual-plans.md",
+        "slug": "user-groups-unsuitable-for-annual-plans",
+        "url": "/cheap/annual-deals/user-groups-unsuitable-for-annual-plans/",
+        "title": "年付不适合的用户群体：网络环境不确定与低频使用者",
+        "desc": "深入剖析 年付不适合的用户群体：网络环境不确定与低频使用者。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "casual": [
+      {
+        "file": "backup-accelerator-low-cost-low-commitment.md",
+        "slug": "backup-accelerator-low-cost-low-commitment",
+        "url": "/cheap/casual/backup-accelerator-low-cost-low-commitment/",
+        "title": "备用机场选择原则：极低持有成本与极低承诺投入",
+        "desc": "深入剖析 备用机场选择原则：极低持有成本与极低承诺投入。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "infrequent-users-plan-selection.md",
+        "slug": "infrequent-users-plan-selection",
+        "url": "/cheap/casual/infrequent-users-plan-selection/",
+        "title": "每月只用几次：低频用户的机场套餐最佳选择",
+        "desc": "深入剖析 每月只用几次：低频用户的机场套餐最佳选择。基于 42 个品牌真实测速数据与横向对比，重点评测 灵猫网络、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "keeping-backup-links-fresh.md",
+        "slug": "keeping-backup-links-fresh",
+        "url": "/cheap/casual/keeping-backup-links-fresh/",
+        "title": "防止备用机场过期：自动化健康检查与节点保活技巧",
+        "desc": "深入剖析 防止备用机场过期：自动化健康检查与节点保活技巧。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "main-plus-backup-cost-control-strategy.md",
+        "slug": "main-plus-backup-cost-control-strategy",
+        "url": "/cheap/casual/main-plus-backup-cost-control-strategy/",
+        "title": "主力+备用组合的成本控制：双机场月花费不超过30元",
+        "desc": "深入剖析 主力+备用组合的成本控制：双机场月花费不超过30元。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "one-time-traffic-pack-vs-monthly-subscription.md",
+        "slug": "one-time-traffic-pack-vs-monthly-subscription",
+        "url": "/cheap/casual/one-time-traffic-pack-vs-monthly-subscription/",
+        "title": "一次性不限时流量包 vs 月付周期套餐：哪种更划算",
+        "desc": "深入剖析 一次性不限时流量包 vs 月付周期套餐：哪种更划算。基于 42 个品牌真实测速数据与横向对比，重点评测 灵猫网络、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "pay-as-you-go-data-packages.md",
+        "slug": "pay-as-you-go-data-packages",
+        "url": "/cheap/casual/pay-as-you-go-data-packages/",
+        "title": "不限时流量包支持品牌盘点：永不清零的备用神器",
+        "desc": "深入剖析 不限时流量包支持品牌盘点：永不清零的备用神器。基于 42 个品牌真实测速数据与横向对比，重点评测 灵猫网络、星岛梦，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "cost-per-gb": [
+      {
+        "file": "cost-per-gb-formula-and-benchmark.md",
+        "slug": "cost-per-gb-formula-and-benchmark",
+        "url": "/cheap/cost-per-gb/cost-per-gb-formula-and-benchmark/",
+        "title": "每GB成本计算公式：价格÷实际可用流量的权威算法",
+        "desc": "深入剖析 每GB成本计算公式：价格÷实际可用流量的权威算法。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "impact-of-traffic-multiplier-on-real-cost.md",
+        "slug": "impact-of-traffic-multiplier-on-real-cost",
+        "url": "/cheap/cost-per-gb/impact-of-traffic-multiplier-on-real-cost/",
+        "title": "流量倍率对每GB成本的影响：3.0倍率背后的价格刺客",
+        "desc": "深入剖析 流量倍率对每GB成本的影响：3.0倍率背后的价格刺客。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "low-cost-per-gb-does-not-mean-good-value.md",
+        "slug": "low-cost-per-gb-does-not-mean-good-value",
+        "url": "/cheap/cost-per-gb/low-cost-per-gb-does-not-mean-good-value/",
+        "title": "每GB成本低≠性价比高：不能忽视的丢包率与节点响应",
+        "desc": "深入剖析 每GB成本低≠性价比高：不能忽视的丢包率与节点响应。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "lowest-cost-per-gb-accelerators-ranking.md",
+        "slug": "lowest-cost-per-gb-accelerators-ranking",
+        "url": "/cheap/cost-per-gb/lowest-cost-per-gb-accelerators-ranking/",
+        "title": "每GB成本最低的机场盘点：大流量高吞吐选手排行榜",
+        "desc": "深入剖析 每GB成本最低的机场盘点：大流量高吞吐选手排行榜。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、闪跃，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "unit-cost-breakdown-across-42-brands.md",
+        "slug": "unit-cost-breakdown-across-42-brands",
+        "url": "/cheap/cost-per-gb/unit-cost-breakdown-across-42-brands/",
+        "title": "42个品牌单位流量成本透视：谁是最划算的流量提供商",
+        "desc": "深入剖析 42个品牌单位流量成本透视：谁是最划算的流量提供商。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "unused-traffic-waste-calculation.md",
+        "slug": "unused-traffic-waste-calculation",
+        "url": "/cheap/cost-per-gb/unused-traffic-waste-calculation/",
+        "title": "每月剩余流量浪费核算：贪多买大包反而更亏的心理误区",
+        "desc": "深入剖析 每月剩余流量浪费核算：贪多买大包反而更亏的心理误区。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、U1S1，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "free-trial": [
+      {
+        "file": "exit-strategy-when-trial-is-unsatisfactory.md",
+        "slug": "exit-strategy-when-trial-is-unsatisfactory",
+        "url": "/cheap/free-trial/exit-strategy-when-trial-is-unsatisfactory/",
+        "title": "试用不满意时的退出策略：清理本地订阅防残留请求",
+        "desc": "深入剖析 试用不满意时的退出策略：清理本地订阅防残留请求。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-transition-from-trial-to-paid.md",
+        "slug": "how-to-transition-from-trial-to-paid",
+        "url": "/cheap/free-trial/how-to-transition-from-trial-to-paid/",
+        "title": "试用满意后如何转化为长期使用：衔接优惠券与周期选择",
+        "desc": "深入剖析 试用满意后如何转化为长期使用：衔接优惠券与周期选择。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "one-yuan-experience-packs-review.md",
+        "slug": "one-yuan-experience-packs-review",
+        "url": "/cheap/free-trial/one-yuan-experience-packs-review/",
+        "title": "1元体验包的价值：比起纯免费更可靠的低门槛试金石",
+        "desc": "深入剖析 1元体验包的价值：比起纯免费更可靠的低门槛试金石。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "speed-test-checklist-during-trial.md",
+        "slug": "speed-test-checklist-during-trial",
+        "url": "/cheap/free-trial/speed-test-checklist-during-trial/",
+        "title": "试用期必测的6个关键节点：晚高峰、UDP与流媒体",
+        "desc": "深入剖析 试用期必测的6个关键节点：晚高峰、UDP与流媒体。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "trial-duration-and-quota-comparison.md",
+        "slug": "trial-duration-and-quota-comparison",
+        "url": "/cheap/free-trial/trial-duration-and-quota-comparison/",
+        "title": "试用期长度与免费流量限制对比：谁家最显诚意",
+        "desc": "深入剖析 试用期长度与免费流量限制对比：谁家最显诚意。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "verified-free-trial-accelerators-list.md",
+        "slug": "verified-free-trial-accelerators-list",
+        "url": "/cheap/free-trial/verified-free-trial-accelerators-list/",
+        "title": "支持免费试用的机场清单（2026实测持续核验中）",
+        "desc": "深入剖析 支持免费试用的机场清单（2026实测持续核验中）。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "low-traffic": [
+      {
+        "file": "100g-plans-comparison-13-to-15-yuan.md",
+        "slug": "100g-plans-comparison-13-to-15-yuan",
+        "url": "/cheap/low-traffic/100g-plans-comparison-13-to-15-yuan/",
+        "title": "每月100G套餐对比：13-15元档最佳日常平衡之选",
+        "desc": "深入剖析 每月100G套餐对比：13-15元档最佳日常平衡之选。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、宇宙云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "actual-consumption-of-100g-for-students-office.md",
+        "slug": "actual-consumption-of-100g-for-students-office",
+        "url": "/cheap/low-traffic/actual-consumption-of-100g-for-students-office/",
+        "title": "100G套餐的真实消耗：学生党与办公族的单月账单实测",
+        "desc": "深入剖析 100G套餐的真实消耗：学生党与办公族的单月账单实测。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "is-50g-per-month-enough.md",
+        "slug": "is-50g-per-month-enough",
+        "url": "/cheap/low-traffic/is-50g-per-month-enough/",
+        "title": "每月50G够用吗？轻度文字查阅与代码开发流量规划",
+        "desc": "深入剖析 每月50G够用吗？轻度文字查阅与代码开发流量规划。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "lightweight-mobile-consumption-monitoring.md",
+        "slug": "lightweight-mobile-consumption-monitoring",
+        "url": "/cheap/low-traffic/lightweight-mobile-consumption-monitoring/",
+        "title": "轻度用户流量消耗监测：后台静默流量的控制技巧",
+        "desc": "深入剖析 轻度用户流量消耗监测：后台静默流量的控制技巧。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "stretching-100g-data-usage-tips.md",
+        "slug": "stretching-100g-data-usage-tips",
+        "url": "/cheap/low-traffic/stretching-100g-data-usage-tips/",
+        "title": "把100G当成200G用：分流规则去广告与视频画质优化",
+        "desc": "深入剖析 把100G当成200G用：分流规则去广告与视频画质优化。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "under-50g-low-cost-plans-6-to-7-yuan.md",
+        "slug": "under-50g-low-cost-plans-6-to-7-yuan",
+        "url": "/cheap/low-traffic/under-50g-low-cost-plans-6-to-7-yuan/",
+        "title": "50G低成本套餐机场：6元档与7元档超值清单",
+        "desc": "深入剖析 50G低成本套餐机场：6元档与7元档超值清单。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "student": [
+      {
+        "file": "academic-plans-for-students.md",
+        "slug": "academic-plans-for-students",
+        "url": "/cheap/student/academic-plans-for-students/",
+        "title": "学生党学术用途机场推荐：Google Scholar、Sci-Hub与arXiv",
+        "desc": "深入剖析 学生党学术用途机场推荐：Google Scholar、Sci-Hub与arXiv。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dorm-roommates-sharing-solution.md",
+        "slug": "dorm-roommates-sharing-solution",
+        "url": "/cheap/student/dorm-roommates-sharing-solution/",
+        "title": "室友合租机场方案：多端并发与平摊账单指南",
+        "desc": "深入剖析 室友合租机场方案：多端并发与平摊账单指南。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dormitory-network-optimization.md",
+        "slug": "dormitory-network-optimization",
+        "url": "/cheap/student/dormitory-network-optimization/",
+        "title": "校园网与宿舍路由器专用机场配置：突破校园网限制",
+        "desc": "深入剖析 校园网与宿舍路由器专用机场配置：突破校园网限制。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "entertainment-plans-for-students.md",
+        "slug": "entertainment-plans-for-students",
+        "url": "/cheap/student/entertainment-plans-for-students/",
+        "title": "学生党娱乐用途机场推荐：B站港澳台、YouTube与Steam加速",
+        "desc": "深入剖析 学生党娱乐用途机场推荐：B站港澳台、YouTube与Steam加速。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "student-budget-under-50-plans.md",
+        "slug": "student-budget-under-50-plans",
+        "url": "/cheap/student/student-budget-under-50-plans/",
+        "title": "学生党月预算50元内的机场方案：兼顾科研与追剧",
+        "desc": "深入剖析 学生党月预算50元内的机场方案：兼顾科研与追剧。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "student-identity-discount-accelerators.md",
+        "slug": "student-identity-discount-accelerators",
+        "url": "/cheap/student/student-identity-discount-accelerators/",
+        "title": "支持学生认证优惠或专属优惠码的机场盘点",
+        "desc": "深入剖析 支持学生认证优惠或专属优惠码的机场盘点。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "under-10": [
+      {
+        "file": "5-6-yuan-plans-detailed-comparison.md",
+        "slug": "5-6-yuan-plans-detailed-comparison",
+        "url": "/cheap/under-10/5-6-yuan-plans-detailed-comparison/",
+        "title": "5.6元/月机场对比：闪电鼠、大佬云、云界线深度横测",
+        "desc": "深入剖析 5.6元/月机场对比：闪电鼠、大佬云、云界线深度横测。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "6-to-7-yuan-plans-feimao-weifeng-wuyou.md",
+        "slug": "6-to-7-yuan-plans-feimao-weifeng-wuyou",
+        "url": "/cheap/under-10/6-to-7-yuan-plans-feimao-weifeng-wuyou/",
+        "title": "6-7元/月机场：飞猫云、微风网络、无忧链接高性价比之选",
+        "desc": "深入剖析 6-7元/月机场：飞猫云、微风网络、无忧链接高性价比之选。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "common-traps-in-budget-accelerators.md",
+        "slug": "common-traps-in-budget-accelerators",
+        "url": "/cheap/under-10/common-traps-in-budget-accelerators/",
+        "title": "低价机场的常见套路：倍率刺客、虚假节点与强制年付",
+        "desc": "深入剖析 低价机场的常见套路：倍率刺客、虚假节点与强制年付。基于 42 个品牌真实测速数据与横向对比，重点评测 榴莲云、环球梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-safely-use-sub-10-yuan-plans.md",
+        "slug": "how-to-safely-use-sub-10-yuan-plans",
+        "url": "/cheap/under-10/how-to-safely-use-sub-10-yuan-plans/",
+        "title": "如何安全使用10元内廉价机场：备用机与沙箱环境配置",
+        "desc": "深入剖析 如何安全使用10元内廉价机场：备用机与沙箱环境配置。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "service-baseline-under-10-yuan.md",
+        "slug": "service-baseline-under-10-yuan",
+        "url": "/cheap/under-10/service-baseline-under-10-yuan/",
+        "title": "10元以下机场的服务下限：流量虚标、线路挤兑与售后缺失",
+        "desc": "深入剖析 10元以下机场的服务下限：流量虚标、线路挤兑与售后缺失。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ultra-budget-node-speed-test.md",
+        "slug": "ultra-budget-node-speed-test",
+        "url": "/cheap/under-10/ultra-budget-node-speed-test/",
+        "title": "几块钱一个月能跑多快？10元以下平价机场晚高峰测速",
+        "desc": "深入剖析 几块钱一个月能跑多快？10元以下平价机场晚高峰测速。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "under-20": [
+      {
+        "file": "14-9-yuan-tier-yuzhou-vs-weitu.md",
+        "slug": "14-9-yuan-tier-yuzhou-vs-weitu",
+        "url": "/cheap/under-20/14-9-yuan-tier-yuzhou-vs-weitu/",
+        "title": "14.9元档横向PK：宇宙云与唯兔云节点与线路对比",
+        "desc": "深入剖析 14.9元档横向PK：宇宙云与唯兔云节点与线路对比。基于 42 个品牌真实测速数据与横向对比，重点评测 宇宙云、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "18-to-19-yuan-jilian-guangnian-lingmao.md",
+        "slug": "18-to-19-yuan-jilian-guangnian-lingmao",
+        "url": "/cheap/under-20/18-to-19-yuan-jilian-guangnian-lingmao/",
+        "title": "18-19元档：极连云、光年梯、灵猫网络主流中坚评测",
+        "desc": "深入剖析 18-19元档：极连云、光年梯、灵猫网络主流中坚评测。基于 42 个品牌真实测速数据与横向对比，重点评测 极连云、光年梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "20-yuan-vs-30-yuan-upgrade-necessity.md",
+        "slug": "20-yuan-vs-30-yuan-upgrade-necessity",
+        "url": "/cheap/under-20/20-yuan-vs-30-yuan-upgrade-necessity/",
+        "title": "从20元档升级到30元档：你的网络体验到底能提升多少",
+        "desc": "深入剖析 从20元档升级到30元档：你的网络体验到底能提升多少。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "balance-of-price-and-performance-20-yuan.md",
+        "slug": "balance-of-price-and-performance-20-yuan",
+        "url": "/cheap/under-20/balance-of-price-and-performance-20-yuan/",
+        "title": "20元机场的平衡之道：主流用户的最佳体验基准线",
+        "desc": "深入剖析 20元机场的平衡之道：主流用户的最佳体验基准线。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、二猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "best-value-under-20-yuan.md",
+        "slug": "best-value-under-20-yuan",
+        "url": "/cheap/under-20/best-value-under-20-yuan/",
+        "title": "10-20元价格区间：兼顾专线品质与充足流量的黄金分割线",
+        "desc": "深入剖析 10-20元价格区间：兼顾专线品质与充足流量的黄金分割线。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "top-value-20-yuan-u1s1-yifan.md",
+        "slug": "top-value-20-yuan-u1s1-yifan",
+        "url": "/cheap/under-20/top-value-20-yuan-u1s1-yifan/",
+        "title": "20元档高性价比机场：U1S1、一翻云大流量实战对比",
+        "desc": "深入剖析 20元档高性价比机场：U1S1、一翻云大流量实战对比。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、U1S1，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "free": {
+    "bonus-data": [
+      {
+        "file": "daily-check-in-traffic-mechanisms.md",
+        "slug": "daily-check-in-traffic-mechanisms",
+        "url": "/free/bonus-data/daily-check-in-traffic-mechanisms/",
+        "title": "每日签到免费领流量：哪些机场支持签到且真正不扣费",
+        "desc": "深入剖析 每日签到免费领流量：哪些机场支持签到且真正不扣费。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "first-month-free-and-registration-bonus.md",
+        "slug": "first-month-free-and-registration-bonus",
+        "url": "/free/bonus-data/first-month-free-and-registration-bonus/",
+        "title": "提供首月免费或注册赠送流量的机场盘点与领取规则",
+        "desc": "深入剖析 提供首月免费或注册赠送流量的机场盘点与领取规则。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "holiday-and-festival-bonus-traffic-summary.md",
+        "slug": "holiday-and-festival-bonus-traffic-summary",
+        "url": "/free/bonus-data/holiday-and-festival-bonus-traffic-summary/",
+        "title": "节日活动赠送流量盘点：双十一、元旦与周年庆福利汇总",
+        "desc": "深入剖析 节日活动赠送流量盘点：双十一、元旦与周年庆福利汇总。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、EdgeNova，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "invitation-referral-rebate-mechanism.md",
+        "slug": "invitation-referral-rebate-mechanism",
+        "url": "/free/bonus-data/invitation-referral-rebate-mechanism/",
+        "title": "邀请返利机制：如何通过分享好友免费获取月度流量",
+        "desc": "深入剖析 邀请返利机制：如何通过分享好友免费获取月度流量。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "maximizing-new-user-bonus-traffic.md",
+        "slug": "maximizing-new-user-bonus-traffic",
+        "url": "/free/bonus-data/maximizing-new-user-bonus-traffic/",
+        "title": "新手福利最大化利用：小额赠送流量的测速价值",
+        "desc": "深入剖析 新手福利最大化利用：小额赠送流量的测速价值。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "real-usage-restrictions-on-bonus-traffic.md",
+        "slug": "real-usage-restrictions-on-bonus-traffic",
+        "url": "/free/bonus-data/real-usage-restrictions-on-bonus-traffic/",
+        "title": "赠送流量的真实使用限制：限速、仅限直连与有效期陷阱",
+        "desc": "深入剖析 赠送流量的真实使用限制：限速、仅限直连与有效期陷阱。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "free-vs-paid": [
+      {
+        "file": "10-dimensional-comparison-free-vs-paid.md",
+        "slug": "10-dimensional-comparison-free-vs-paid",
+        "url": "/free/free-vs-paid/10-dimensional-comparison-free-vs-paid/",
+        "title": "免费机场 vs 付费机场：10个维度的全方位深度对比",
+        "desc": "深入剖析 免费机场 vs 付费机场：10个维度的全方位深度对比。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "calculating-time-wasted-on-free-nodes.md",
+        "slug": "calculating-time-wasted-on-free-nodes",
+        "url": "/free/free-vs-paid/calculating-time-wasted-on-free-nodes/",
+        "title": "免费反而更贵的经济账：每天折腾失效节点的时间成本核算",
+        "desc": "深入剖析 免费反而更贵的经济账：每天折腾失效节点的时间成本核算。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "can-free-accelerators-be-used-long-term.md",
+        "slug": "can-free-accelerators-be-used-long-term",
+        "url": "/free/free-vs-paid/can-free-accelerators-be-used-long-term/",
+        "title": "免费机场能长期稳定使用吗？长期测试数据与最终结论",
+        "desc": "深入剖析 免费机场能长期稳定使用吗？长期测试数据与最终结论。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "infrastructure-cost-gap-analysis.md",
+        "slug": "infrastructure-cost-gap-analysis",
+        "url": "/free/free-vs-paid/infrastructure-cost-gap-analysis/",
+        "title": "机房带宽与专线租赁成本：透析免费与商业专线的鸿沟",
+        "desc": "深入剖析 机房带宽与专线租赁成本：透析免费与商业专线的鸿沟。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "when-can-you-use-free-accelerators.md",
+        "slug": "when-can-you-use-free-accelerators",
+        "url": "/free/free-vs-paid/when-can-you-use-free-accelerators/",
+        "title": "什么情况下可以临时使用免费机场：纯文字学术检索边界",
+        "desc": "深入剖析 什么情况下可以临时使用免费机场：纯文字学术检索边界。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "when-must-you-upgrade-to-paid-service.md",
+        "slug": "when-must-you-upgrade-to-paid-service",
+        "url": "/free/free-vs-paid/when-must-you-upgrade-to-paid-service/",
+        "title": "什么时候必须升级到付费服务：生产力与账号资产安全红线",
+        "desc": "深入剖析 什么时候必须升级到付费服务：生产力与账号资产安全红线。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "open-source-clients": [
+      {
+        "file": "clash-verge-rev-v2rayn-singbox-clients.md",
+        "slug": "clash-verge-rev-v2rayn-singbox-clients",
+        "url": "/free/open-source-clients/clash-verge-rev-v2rayn-singbox-clients/",
+        "title": "Clash Verge Rev、v2rayN 与 sing-box 主流开源客户端推荐",
+        "desc": "深入剖析 Clash Verge Rev、v2rayN 与 sing-box 主流开源客户端推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cost-effectiveness-self-built-vs-commercial.md",
+        "slug": "cost-effectiveness-self-built-vs-commercial",
+        "url": "/free/open-source-clients/cost-effectiveness-self-built-vs-commercial/",
+        "title": "自建节点 vs 商业专线机场：2026性价比与可用性终极对决",
+        "desc": "深入剖析 自建节点 vs 商业专线机场：2026性价比与可用性终极对决。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cost-of-self-built-nodes-vps-traffic.md",
+        "slug": "cost-of-self-built-nodes-vps-traffic",
+        "url": "/free/open-source-clients/cost-of-self-built-nodes-vps-traffic/",
+        "title": "自建节点的真实成本核算：海外 VPS 租金、IP封锁与时间维护",
+        "desc": "深入剖析 自建节点的真实成本核算：海外 VPS 租金、IP封锁与时间维护。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ip-blocked-risks-in-self-hosting.md",
+        "slug": "ip-blocked-risks-in-self-hosting",
+        "url": "/free/open-source-clients/ip-blocked-risks-in-self-hosting/",
+        "title": "自建单节点抗风险极差：IP被墙后的换IP重装沉没成本",
+        "desc": "深入剖析 自建单节点抗风险极差：IP被墙后的换IP重装沉没成本。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "open-source-client-configuration-guide.md",
+        "slug": "open-source-client-configuration-guide",
+        "url": "/free/open-source-clients/open-source-client-configuration-guide/",
+        "title": "主流开源客户端配置全流程：从内核选型到规则集集成",
+        "desc": "深入剖析 主流开源客户端配置全流程：从内核选型到规则集集成。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "open-source-does-not-mean-free-service.md",
+        "slug": "open-source-does-not-mean-free-service",
+        "url": "/free/open-source-clients/open-source-does-not-mean-free-service/",
+        "title": "核心概念辨析：开源软件不等于免费加速服务的本质区别",
+        "desc": "深入剖析 核心概念辨析：开源软件不等于免费加速服务的本质区别。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "public-nodes": [
+      {
+        "file": "malicious-traffic-injection-defense.md",
+        "slug": "malicious-traffic-injection-defense",
+        "url": "/free/public-nodes/malicious-traffic-injection-defense/",
+        "title": "恶意流量注入与嗅探防御：HTTPS 加密真的能完全保护你吗",
+        "desc": "深入剖析 恶意流量注入与嗅探防御：HTTPS 加密真的能完全保护你吗。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "privacy-risks-data-interception-dns-hijacking.md",
+        "slug": "privacy-risks-data-interception-dns-hijacking",
+        "url": "/free/public-nodes/privacy-risks-data-interception-dns-hijacking/",
+        "title": "免费节点的隐私风险：数据截获、DNS劫持与中间人钓鱼",
+        "desc": "深入剖析 免费节点的隐私风险：数据截获、DNS劫持与中间人钓鱼。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "protocol-distribution-of-free-nodes.md",
+        "slug": "protocol-distribution-of-free-nodes",
+        "url": "/free/public-nodes/protocol-distribution-of-free-nodes/",
+        "title": "免费节点的协议类型分布：为什么大部分都是古老的 SS/Vmess",
+        "desc": "深入剖析 免费节点的协议类型分布：为什么大部分都是古老的 SS/Vmess。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "public-node-pool-survival-rates.md",
+        "slug": "public-node-pool-survival-rates",
+        "url": "/free/public-nodes/public-node-pool-survival-rates/",
+        "title": "公共节点池的半衰期定律：为什么24小时内必定大面积失效",
+        "desc": "深入剖析 公共节点池的半衰期定律：为什么24小时内必定大面积失效。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "real-sources-of-public-nodes-github-tg.md",
+        "slug": "real-sources-of-public-nodes-github-tg",
+        "url": "/free/public-nodes/real-sources-of-public-nodes-github-tg/",
+        "title": "公开免费节点的真实来源：GitHub 爬虫、TG群与扫描肉鸡",
+        "desc": "深入剖析 公开免费节点的真实来源：GitHub 爬虫、TG群与扫描肉鸡。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "security-boundaries-when-using-free-nodes.md",
+        "slug": "security-boundaries-when-using-free-nodes",
+        "url": "/free/public-nodes/security-boundaries-when-using-free-nodes/",
+        "title": "使用免费节点的安全边界：什么事情绝对不能在免费节点做",
+        "desc": "深入剖析 使用免费节点的安全边界：什么事情绝对不能在免费节点做。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "public-welfare": [
+      {
+        "file": "avoiding-fake-welfare-honey-traps.md",
+        "slug": "avoiding-fake-welfare-honey-traps",
+        "url": "/free/public-welfare/avoiding-fake-welfare-honey-traps/",
+        "title": "识别假借「公益免费」名义的钓鱼陷阱：恶意客户端排查",
+        "desc": "深入剖析 识别假借「公益免费」名义的钓鱼陷阱：恶意客户端排查。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "community-funded-node-projects.md",
+        "slug": "community-funded-node-projects",
+        "url": "/free/public-welfare/community-funded-node-projects/",
+        "title": "社区众筹与赞助型公益节点的实际运转机制与网络瓶颈",
+        "desc": "深入剖析 社区众筹与赞助型公益节点的实际运转机制与网络瓶颈。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "difference-between-welfare-and-commercial.md",
+        "slug": "difference-between-welfare-and-commercial",
+        "url": "/free/public-welfare/difference-between-welfare-and-commercial/",
+        "title": "公益项目与商业付费的本质区别：售后工单与故障恢复时效",
+        "desc": "深入剖析 公益项目与商业付费的本质区别：售后工单与故障恢复时效。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "public-welfare-proxy-projects-status.md",
+        "slug": "public-welfare-proxy-projects-status",
+        "url": "/free/public-welfare/public-welfare-proxy-projects-status/",
+        "title": "公益免费网络项目盘点：现状、支持方背景与服务边界",
+        "desc": "深入剖析 公益免费网络项目盘点：现状、支持方背景与服务边界。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "risks-of-sudden-shutdown-of-welfare-projects.md",
+        "slug": "risks-of-sudden-shutdown-of-welfare-projects",
+        "url": "/free/public-welfare/risks-of-sudden-shutdown-of-welfare-projects/",
+        "title": "公益项目突然停运的风险：缺乏 SLA 保证下的业务停摆",
+        "desc": "深入剖析 公益项目突然停运的风险：缺乏 SLA 保证下的业务停摆。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "sustainability-of-public-welfare-projects.md",
+        "slug": "sustainability-of-public-welfare-projects",
+        "url": "/free/public-welfare/sustainability-of-public-welfare-projects/",
+        "title": "公益项目的可持续性分析：缺乏商业回报下的运维困境",
+        "desc": "深入剖析 公益项目的可持续性分析：缺乏商业回报下的运维困境。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、闪电鼠，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "security-risks": [
+      {
+        "file": "building-a-secure-proxy-defense-line.md",
+        "slug": "building-a-secure-proxy-defense-line",
+        "url": "/free/security-risks/building-a-secure-proxy-defense-line/",
+        "title": "个人网络安全防线构建：从 DNS 泄漏防护到专线加密通道",
+        "desc": "深入剖析 个人网络安全防线构建：从 DNS 泄漏防护到专线加密通道。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "data-collection-risks-of-free-accelerators.md",
+        "slug": "data-collection-risks-of-free-accelerators",
+        "url": "/free/security-risks/data-collection-risks-of-free-accelerators/",
+        "title": "免费机场的数据收集风险：设备标识、浏览记录与敏感信息",
+        "desc": "深入剖析 免费机场的数据收集风险：设备标识、浏览记录与敏感信息。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "permission-and-privilege-risks-of-free-apps.md",
+        "slug": "permission-and-privilege-risks-of-free-apps",
+        "url": "/free/security-risks/permission-and-privilege-risks-of-free-apps/",
+        "title": "免费客户端的权限陷阱：过度申请系统敏感权限深度剖析",
+        "desc": "深入剖析 免费客户端的权限陷阱：过度申请系统敏感权限深度剖析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "security-baseline-for-free-resource-usage.md",
+        "slug": "security-baseline-for-free-resource-usage",
+        "url": "/free/security-risks/security-baseline-for-free-resource-usage/",
+        "title": "免费资源使用的安全底线法则：沙盒、双重认证与隔离",
+        "desc": "深入剖析 免费资源使用的安全底线法则：沙盒、双重认证与隔离。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tls-sniffing-in-untrusted-nodes.md",
+        "slug": "tls-sniffing-in-untrusted-nodes",
+        "url": "/free/security-risks/tls-sniffing-in-untrusted-nodes/",
+        "title": "非受信节点的 TLS 嗅探与会话重放风险：如何保护账号凭证",
+        "desc": "深入剖析 非受信节点的 TLS 嗅探与会话重放风险：如何保护账号凭证。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "when-should-you-abandon-free-resources.md",
+        "slug": "when-should-you-abandon-free-resources",
+        "url": "/free/security-risks/when-should-you-abandon-free-resources/",
+        "title": "何时应该彻底放弃免费资源：遭遇账号异地登录警告的自救",
+        "desc": "深入剖析 何时应该彻底放弃免费资源：遭遇账号异地登录警告的自救。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、隐形人，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "time-limited": [
+      {
+        "file": "considerations-when-converting-trial-to-paid.md",
+        "slug": "considerations-when-converting-trial-to-paid",
+        "url": "/free/time-limited/considerations-when-converting-trial-to-paid/",
+        "title": "试用转付费时的注意事项：避免重复注册与优惠码叠加",
+        "desc": "深入剖析 试用转付费时的注意事项：避免重复注册与优惠码叠加。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "evaluating-trial-speed-limits.md",
+        "slug": "evaluating-trial-speed-limits",
+        "url": "/free/time-limited/evaluating-trial-speed-limits/",
+        "title": "试用期节点的限速规则：如何测试出真实带宽上限",
+        "desc": "深入剖析 试用期节点的限速规则：如何测试出真实带宽上限。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "free-trial-accelerators-duration-and-quota.md",
+        "slug": "free-trial-accelerators-duration-and-quota",
+        "url": "/free/time-limited/free-trial-accelerators-duration-and-quota/",
+        "title": "支持免费试用的机场盘点：期限、额度与限制全面对比",
+        "desc": "深入剖析 支持免费试用的机场盘点：期限、额度与限制全面对比。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "speed-test-and-stability-verification-in-trial.md",
+        "slug": "speed-test-and-stability-verification-in-trial",
+        "url": "/free/time-limited/speed-test-and-stability-verification-in-trial/",
+        "title": "试用期的测速与稳定性验证方法：重点盯防晚高峰丢包",
+        "desc": "深入剖析 试用期的测速与稳定性验证方法：重点盯防晚高峰丢包。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "trial-account-registration-and-restrictions.md",
+        "slug": "trial-account-registration-and-restrictions",
+        "url": "/free/time-limited/trial-account-registration-and-restrictions/",
+        "title": "试用账号的获取方式与限制：免手机号与临时邮箱支持度",
+        "desc": "深入剖析 试用账号的获取方式与限制：免手机号与临时邮箱支持度。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "trial-safety-and-isolation.md",
+        "slug": "trial-safety-and-isolation",
+        "url": "/free/time-limited/trial-safety-and-isolation/",
+        "title": "试用环境的安全性隔离：测试机配置与防止真实凭据泄露",
+        "desc": "深入剖析 试用环境的安全性隔离：测试机配置与防止真实凭据泄露。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "verification": [
+      {
+        "file": "2026-running-free-accelerators-verification.md",
+        "slug": "2026-running-free-accelerators-verification",
+        "url": "/free/verification/2026-running-free-accelerators-verification/",
+        "title": "2026年仍在运营的免费机场（持续核验实录）",
+        "desc": "深入剖析 2026年仍在运营的免费机场（持续核验实录）。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "alternatives-after-free-resources-expire.md",
+        "slug": "alternatives-after-free-resources-expire",
+        "url": "/free/verification/alternatives-after-free-resources-expire/",
+        "title": "免费资源失效后的紧急备选方案：平价专线无缝接驳",
+        "desc": "深入剖析 免费资源失效后的紧急备选方案：平价专线无缝接驳。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "github-open-source-nodes-usability-analysis.md",
+        "slug": "github-open-source-nodes-usability-analysis",
+        "url": "/free/verification/github-open-source-nodes-usability-analysis/",
+        "title": "开源免费项目：GitHub 公开分享节点的可用性与存活率分析",
+        "desc": "深入剖析 开源免费项目：GitHub 公开分享节点的可用性与存活率分析。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "preventing-service-interruption-free-users.md",
+        "slug": "preventing-service-interruption-free-users",
+        "url": "/free/verification/preventing-service-interruption-free-users/",
+        "title": "避免断网的兜底策略：免费试用转低价月付实操",
+        "desc": "深入剖析 避免断网的兜底策略：免费试用转低价月付实操。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "verification-criteria-for-free-resources.md",
+        "slug": "verification-criteria-for-free-resources",
+        "url": "/free/verification/verification-criteria-for-free-resources/",
+        "title": "免费资源真实性核验标准：如何识别钓鱼与虚假宣传",
+        "desc": "深入剖析 免费资源真实性核验标准：如何识别钓鱼与虚假宣传。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "why-free-accelerators-fail-business-model.md",
+        "slug": "why-free-accelerators-fail-business-model",
+        "url": "/free/verification/why-free-accelerators-fail-business-model/",
+        "title": "免费机场为什么频繁失效？商业模型与服务器成本拆解",
+        "desc": "深入剖析 免费机场为什么频繁失效？商业模型与服务器成本拆解。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "scenarios": {
+    "academic": [
+      {
+        "file": "access-requirements-for-academic-websites.md",
+        "slug": "access-requirements-for-academic-websites",
+        "url": "/scenarios/academic/access-requirements-for-academic-websites/",
+        "title": "海外学术数据库访问特点：高频检索下的防验证码弹窗",
+        "desc": "深入剖析 海外学术数据库访问特点：高频检索下的防验证码弹窗。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "campus-network-proxy-conflicts-resolution.md",
+        "slug": "campus-network-proxy-conflicts-resolution",
+        "url": "/scenarios/academic/campus-network-proxy-conflicts-resolution/",
+        "title": "校园网认证系统与系统代理冲突排查与分流规则调优",
+        "desc": "深入剖析 校园网认证系统与系统代理冲突排查与分流规则调优。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "compliance-guidelines-for-academic-use.md",
+        "slug": "compliance-guidelines-for-academic-use",
+        "url": "/scenarios/academic/compliance-guidelines-for-academic-use/",
+        "title": "高校学术用途使用外部加速网络的合规指南与规范",
+        "desc": "深入剖析 高校学术用途使用外部加速网络的合规指南与规范。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "google-scholar-and-ieee-accessible-accelerators.md",
+        "slug": "google-scholar-and-ieee-accessible-accelerators",
+        "url": "/scenarios/academic/google-scholar-and-ieee-accessible-accelerators/",
+        "title": "Google Scholar、IEEE 与 Web of Science 文献检索流畅机场",
+        "desc": "深入剖析 Google Scholar、IEEE 与 Web of Science 文献检索流畅机场。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "plan-selection-advice-for-academic-researchers.md",
+        "slug": "plan-selection-advice-for-academic-researchers",
+        "url": "/scenarios/academic/plan-selection-advice-for-academic-researchers/",
+        "title": "研究生与科研人员的机场选型建议：稳定低开销方案",
+        "desc": "深入剖析 研究生与科研人员的机场选型建议：稳定低开销方案。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "scihub-and-arxiv-paper-download-speedup.md",
+        "slug": "scihub-and-arxiv-paper-download-speedup",
+        "url": "/scenarios/academic/scihub-and-arxiv-paper-download-speedup/",
+        "title": "Sci-Hub 与 arXiv 顶会论文批量下载加速网络配置",
+        "desc": "深入剖析 Sci-Hub 与 arXiv 顶会论文批量下载加速网络配置。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "ai-coding": [
+      {
+        "file": "cursor-claude-code-proxy-configuration.md",
+        "slug": "cursor-claude-code-proxy-configuration",
+        "url": "/scenarios/ai-coding/cursor-claude-code-proxy-configuration/",
+        "title": "Cursor 与 Claude Code 开发环境代理配置与防超时方案",
+        "desc": "深入剖析 Cursor 与 Claude Code 开发环境代理配置与防超时方案。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、速界，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "docker-pull-and-kubernetes-image-speedup.md",
+        "slug": "docker-pull-and-kubernetes-image-speedup",
+        "url": "/scenarios/ai-coding/docker-pull-and-kubernetes-image-speedup/",
+        "title": "Docker 镜像拉取与海外官方源加速实战配置",
+        "desc": "深入剖析 Docker 镜像拉取与海外官方源加速实战配置。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "github-copilot-supported-accelerators.md",
+        "slug": "github-copilot-supported-accelerators",
+        "url": "/scenarios/ai-coding/github-copilot-supported-accelerators/",
+        "title": "GitHub Copilot 与 Cursor 可用机场推荐：代码秒级补全",
+        "desc": "深入剖析 GitHub Copilot 与 Cursor 可用机场推荐：代码秒级补全。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "jetbrains-ai-assistant-network-setup.md",
+        "slug": "jetbrains-ai-assistant-network-setup",
+        "url": "/scenarios/ai-coding/jetbrains-ai-assistant-network-setup/",
+        "title": "JetBrains AI Assistant 与 VSCode 插件网络代理设置指南",
+        "desc": "深入剖析 JetBrains AI Assistant 与 VSCode 插件网络代理设置指南。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "package-manager-proxy-npm-pip-cargo.md",
+        "slug": "package-manager-proxy-npm-pip-cargo",
+        "url": "/scenarios/ai-coding/package-manager-proxy-npm-pip-cargo/",
+        "title": "包管理器加速配置：npm、pip、cargo、Go 模块秒速下载",
+        "desc": "深入剖析 包管理器加速配置：npm、pip、cargo、Go 模块秒速下载。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "terminal-proxy-configuration-accelerator-requirements.md",
+        "slug": "terminal-proxy-configuration-accelerator-requirements",
+        "url": "/scenarios/ai-coding/terminal-proxy-configuration-accelerator-requirements/",
+        "title": "终端命令行代理配置机场要求：PowerShell、Bash 与 cURL",
+        "desc": "深入剖析 终端命令行代理配置机场要求：PowerShell、Bash 与 cURL。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "chatgpt": [
+      {
+        "file": "chatgpt-available-accelerators-gsy-firefly.md",
+        "slug": "chatgpt-available-accelerators-gsy-firefly",
+        "url": "/scenarios/chatgpt/chatgpt-available-accelerators-gsy-firefly/",
+        "title": "ChatGPT可用机场首选：光速云、Firefly原生IP全解实测",
+        "desc": "深入剖析 ChatGPT可用机场首选：光速云、Firefly原生IP全解实测。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "claude-and-gemini-compatible-accelerators.md",
+        "slug": "claude-and-gemini-compatible-accelerators",
+        "url": "/scenarios/chatgpt/claude-and-gemini-compatible-accelerators/",
+        "title": "Claude 与 Google Gemini 可用机场横向对比：告别地区风控",
+        "desc": "深入剖析 Claude 与 Google Gemini 可用机场横向对比：告别地区风控。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、速界，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "midjourney-and-sora-ai-support.md",
+        "slug": "midjourney-and-sora-ai-support",
+        "url": "/scenarios/chatgpt/midjourney-and-sora-ai-support/",
+        "title": "Midjourney 与 Sora 生成式 AI 工具的大带宽超低延迟网络匹配",
+        "desc": "深入剖析 Midjourney 与 Sora 生成式 AI 工具的大带宽超低延迟网络匹配。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、灵动云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "plan-selection-for-ai-office-workers.md",
+        "slug": "plan-selection-for-ai-office-workers",
+        "url": "/scenarios/chatgpt/plan-selection-for-ai-office-workers/",
+        "title": "AI重度办公用户的机场套餐选择：长连接保活与不掉线秘诀",
+        "desc": "深入剖析 AI重度办公用户的机场套餐选择：长连接保活与不掉线秘诀。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "solving-chatgpt-access-denied-1020.md",
+        "slug": "solving-chatgpt-access-denied-1020",
+        "url": "/scenarios/chatgpt/solving-chatgpt-access-denied-1020/",
+        "title": "彻底解决 ChatGPT Access Denied 1020 报错的技术实战",
+        "desc": "深入剖析 彻底解决 ChatGPT Access Denied 1020 报错的技术实战。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "stable-solution-for-multiple-ai-tools.md",
+        "slug": "stable-solution-for-multiple-ai-tools",
+        "url": "/scenarios/chatgpt/stable-solution-for-multiple-ai-tools/",
+        "title": "多AI工具同时使用的稳定方案：分流规则与专用节点指定",
+        "desc": "深入剖析 多AI工具同时使用的稳定方案：分流规则与专用节点指定。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、速界，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "cross-border": [
+      {
+        "file": "commercial-use-compliance-notices.md",
+        "slug": "commercial-use-compliance-notices",
+        "url": "/scenarios/cross-border/commercial-use-compliance-notices/",
+        "title": "商业用途的合规说明与网络安全边界：外贸企业的技术规范",
+        "desc": "深入剖析 商业用途的合规说明与网络安全边界：外贸企业的技术规范。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cross-border-ecommerce-operation-recommendations.md",
+        "slug": "cross-border-ecommerce-operation-recommendations",
+        "url": "/scenarios/cross-border/cross-border-ecommerce-operation-recommendations/",
+        "title": "跨境电商运营的机场推荐：纯净固定 IP 与防封号策略",
+        "desc": "深入剖析 跨境电商运营的机场推荐：纯净固定 IP 与防封号策略。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、TNTCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dedicated-static-ip-vs-shared-nodes.md",
+        "slug": "dedicated-static-ip-vs-shared-nodes",
+        "url": "/scenarios/cross-border/dedicated-static-ip-vs-shared-nodes/",
+        "title": "独享静态 IP vs 共享动态节点：跨境电商店铺防关联抉择",
+        "desc": "深入剖析 独享静态 IP vs 共享动态节点：跨境电商店铺防关联抉择。基于 42 个品牌真实测速数据与横向对比，重点评测 TNTCloud、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "shopify-and-paypal-risk-control-defense.md",
+        "slug": "shopify-and-paypal-risk-control-defense",
+        "url": "/scenarios/cross-border/shopify-and-paypal-risk-control-defense/",
+        "title": "独立站 Shopify 与 PayPal 提现防风控：网络环境搭建法则",
+        "desc": "深入剖析 独立站 Shopify 与 PayPal 提现防风控：网络环境搭建法则。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "stability-requirements-for-business-grade-service.md",
+        "slug": "stability-requirements-for-business-grade-service",
+        "url": "/scenarios/cross-border/stability-requirements-for-business-grade-service/",
+        "title": "商业级网络服务的稳定性要求：0丢包专线与工单快速通道",
+        "desc": "深入剖析 商业级网络服务的稳定性要求：0丢包专线与工单快速通道。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tiktok-livestream-and-amazon-operation-plans.md",
+        "slug": "tiktok-livestream-and-amazon-operation-plans",
+        "url": "/scenarios/cross-border/tiktok-livestream-and-amazon-operation-plans/",
+        "title": "TikTok 跨境直播与亚马逊多店铺运营的专线加速方案",
+        "desc": "深入剖析 TikTok 跨境直播与亚马逊多店铺运营的专线加速方案。基于 42 个品牌真实测速数据与横向对比，重点评测 TNTCloud、隐形人，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "gaming": [
+      {
+        "file": "difference-between-game-booster-and-regular-proxy.md",
+        "slug": "difference-between-game-booster-and-regular-proxy",
+        "url": "/scenarios/gaming/difference-between-game-booster-and-regular-proxy/",
+        "title": "专业游戏加速器 vs 通用专线机场：技术架构与适用人群辨析",
+        "desc": "深入剖析 专业游戏加速器 vs 通用专线机场：技术架构与适用人群辨析。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "epic-games-and-blizzard-battlenet-booster.md",
+        "slug": "epic-games-and-blizzard-battlenet-booster",
+        "url": "/scenarios/gaming/epic-games-and-blizzard-battlenet-booster/",
+        "title": "Epic Games 与暴雪战网国际服登录下载加速方案",
+        "desc": "深入剖析 Epic Games 与暴雪战网国际服登录下载加速方案。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "low-latency-udp-optimization-comparison.md",
+        "slug": "low-latency-udp-optimization-comparison",
+        "url": "/scenarios/gaming/low-latency-udp-optimization-comparison/",
+        "title": "低延迟专线 UDP 转发优化对比：如何将联机延迟压至 40ms",
+        "desc": "深入剖析 低延迟专线 UDP 转发优化对比：如何将联机延迟压至 40ms。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "mobile-games-overseas-servers-acceleration.md",
+        "slug": "mobile-games-overseas-servers-acceleration",
+        "url": "/scenarios/gaming/mobile-games-overseas-servers-acceleration/",
+        "title": "海外手游国际服低延迟加速机场：亚服、韩服与美服实测",
+        "desc": "深入剖析 海外手游国际服低延迟加速机场：亚服、韩服与美服实测。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "nat-type-optimization-for-gamers.md",
+        "slug": "nat-type-optimization-for-gamers",
+        "url": "/scenarios/gaming/nat-type-optimization-for-gamers/",
+        "title": "全锥型 NAT (Full Cone NAT) 优化：彻底告别联机匹配失败",
+        "desc": "深入剖析 全锥型 NAT (Full Cone NAT) 优化：彻底告别联机匹配失败。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、sslar，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "steam-and-console-gaming-accelerators.md",
+        "slug": "steam-and-console-gaming-accelerators",
+        "url": "/scenarios/gaming/steam-and-console-gaming-accelerators/",
+        "title": "Steam、PS5 与 Switch 主机海外联机加速机场推荐",
+        "desc": "深入剖析 Steam、PS5 与 Switch 主机海外联机加速机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "home-sharing": [
+      {
+        "file": "family-member-access-and-permissions-management.md",
+        "slug": "family-member-access-and-permissions-management",
+        "url": "/scenarios/home-sharing/family-member-access-and-permissions-management/",
+        "title": "家庭成员账号分配与儿童内容过滤安全配置",
+        "desc": "深入剖析 家庭成员账号分配与儿童内容过滤安全配置。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "family-multi-device-sharing-solution.md",
+        "slug": "family-multi-device-sharing-solution",
+        "url": "/scenarios/home-sharing/family-multi-device-sharing-solution/",
+        "title": "家庭多设备共享加速方案：一家老小不同需求的统一分流",
+        "desc": "深入剖析 家庭多设备共享加速方案：一家老小不同需求的统一分流。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "multi-device-concurrency-limits-explained.md",
+        "slug": "multi-device-concurrency-limits-explained",
+        "url": "/scenarios/home-sharing/multi-device-concurrency-limits-explained/",
+        "title": "多设备并发连接数限制解析：如何避免触发机场封禁",
+        "desc": "深入剖析 多设备并发连接数限制解析：如何避免触发机场封禁。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "router-openwrt-compatibility-for-families.md",
+        "slug": "router-openwrt-compatibility-for-families",
+        "url": "/scenarios/home-sharing/router-openwrt-compatibility-for-families/",
+        "title": "家用软路由与 OpenWrt 固件集成机场订阅指南",
+        "desc": "深入剖析 家用软路由与 OpenWrt 固件集成机场订阅指南。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "smart-tv-and-iot-proxy-bypass.md",
+        "slug": "smart-tv-and-iot-proxy-bypass",
+        "url": "/scenarios/home-sharing/smart-tv-and-iot-proxy-bypass/",
+        "title": "智能电视与全屋智能家居白名单绕过规则配置",
+        "desc": "深入剖析 智能电视与全屋智能家居白名单绕过规则配置。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-budget-allocation-for-households.md",
+        "slug": "traffic-budget-allocation-for-households",
+        "url": "/scenarios/home-sharing/traffic-budget-allocation-for-households/",
+        "title": "全家共享月度流量预算规划：防止一人看剧全家断网",
+        "desc": "深入剖析 全家共享月度流量预算规划：防止一人看剧全家断网。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、一翻云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "netflix": [
+      {
+        "file": "bilibili-taiwan-hongkong-unlock.md",
+        "slug": "bilibili-taiwan-hongkong-unlock",
+        "url": "/scenarios/netflix/bilibili-taiwan-hongkong-unlock/",
+        "title": "Bilibili 港澳台特供番剧解锁节点推荐：低成本畅享版权库",
+        "desc": "深入剖析 Bilibili 港澳台特供番剧解锁节点推荐：低成本畅享版权库。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "disney-plus-and-hbo-max-unlocked-list.md",
+        "slug": "disney-plus-and-hbo-max-unlocked-list",
+        "url": "/scenarios/netflix/disney-plus-and-hbo-max-unlocked-list/",
+        "title": "Disney+、HBO Max 与 Prime Video 全解锁机场清单",
+        "desc": "深入剖析 Disney+、HBO Max 与 Prime Video 全解锁机场清单。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "matching-price-and-traffic-for-streaming.md",
+        "slug": "matching-price-and-traffic-for-streaming",
+        "url": "/scenarios/netflix/matching-price-and-traffic-for-streaming/",
+        "title": "流媒体专线机场的价格与流量匹配：每小时观影成本拆解",
+        "desc": "深入剖析 流媒体专线机场的价格与流量匹配：每小时观影成本拆解。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "netflix-unlock-supported-accelerators-test.md",
+        "slug": "netflix-unlock-supported-accelerators-test",
+        "url": "/scenarios/netflix/netflix-unlock-supported-accelerators-test/",
+        "title": "支持Netflix非自制剧解锁的机场实测：真实解锁评测记录",
+        "desc": "深入剖析 支持Netflix非自制剧解锁的机场实测：真实解锁评测记录。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-requirements-for-heavy-streamers.md",
+        "slug": "traffic-requirements-for-heavy-streamers",
+        "url": "/scenarios/netflix/traffic-requirements-for-heavy-streamers/",
+        "title": "流媒体重度用户的流量需求测算：单月需要多少 GB 4K 流量",
+        "desc": "深入剖析 流媒体重度用户的流量需求测算：单月需要多少 GB 4K 流量。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tv-box-and-appletv-streaming-setup.md",
+        "slug": "tv-box-and-appletv-streaming-setup",
+        "url": "/scenarios/netflix/tv-box-and-appletv-streaming-setup/",
+        "title": "电视盒子与 Apple TV 极清观影网络配置：大屏秒开不转圈",
+        "desc": "深入剖析 电视盒子与 Apple TV 极清观影网络配置：大屏秒开不转圈。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "remote-work": [
+      {
+        "file": "bandwidth-requirements-for-team-collaboration.md",
+        "slug": "bandwidth-requirements-for-team-collaboration",
+        "url": "/scenarios/remote-work/bandwidth-requirements-for-team-collaboration/",
+        "title": "团队跨国协作的带宽吞吐要求：多人并发下的负载表现",
+        "desc": "深入剖析 团队跨国协作的带宽吞吐要求：多人并发下的负载表现。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cloud-storage-google-drive-dropbox-speedup.md",
+        "slug": "cloud-storage-google-drive-dropbox-speedup",
+        "url": "/scenarios/remote-work/cloud-storage-google-drive-dropbox-speedup/",
+        "title": "Google Drive、Dropbox 与 OneDrive 海外极速上传方案",
+        "desc": "深入剖析 Google Drive、Dropbox 与 OneDrive 海外极速上传方案。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "latency-and-packet-loss-requirements-video-call.md",
+        "slug": "latency-and-packet-loss-requirements-video-call",
+        "url": "/scenarios/remote-work/latency-and-packet-loss-requirements-video-call/",
+        "title": "跨国视频会议的延迟与丢包率硬要求：为什么公网中转不行",
+        "desc": "深入剖析 跨国视频会议的延迟与丢包率硬要求：为什么公网中转不行。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "slack-and-teams-instant-messaging.md",
+        "slug": "slack-and-teams-instant-messaging",
+        "url": "/scenarios/remote-work/slack-and-teams-instant-messaging/",
+        "title": "Slack、Teams 与 Notion 跨国办公协同：告别断流重连",
+        "desc": "深入剖析 Slack、Teams 与 Notion 跨国办公协同：告别断流重连。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-needs-for-large-file-transfers.md",
+        "slug": "traffic-needs-for-large-file-transfers",
+        "url": "/scenarios/remote-work/traffic-needs-for-large-file-transfers/",
+        "title": "大文件远程传输与海外网盘同步的流量需求与峰值带宽",
+        "desc": "深入剖析 大文件远程传输与海外网盘同步的流量需求与峰值带宽。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "zoom-google-meet-stable-accelerators.md",
+        "slug": "zoom-google-meet-stable-accelerators",
+        "url": "/scenarios/remote-work/zoom-google-meet-stable-accelerators/",
+        "title": "Zoom 与 Google Meet 稳定机场推荐：高码率音视频流畅",
+        "desc": "深入剖析 Zoom 与 Google Meet 稳定机场推荐：高码率音视频流畅。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "streaming": [
+      {
+        "file": "bandwidth-and-stability-for-livestream-push.md",
+        "slug": "bandwidth-and-stability-for-livestream-push",
+        "url": "/scenarios/streaming/bandwidth-and-stability-for-livestream-push/",
+        "title": "直播推流上行带宽与丢包率硬指标：如何做到 0 掉帧",
+        "desc": "深入剖析 直播推流上行带宽与丢包率硬指标：如何做到 0 掉帧。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "copyright-and-regional-ip-for-creators.md",
+        "slug": "copyright-and-regional-ip-for-creators",
+        "url": "/scenarios/streaming/copyright-and-regional-ip-for-creators/",
+        "title": "海外版权库与创作者中心原生 IP 识别避坑指南",
+        "desc": "深入剖析 海外版权库与创作者中心原生 IP 识别避坑指南。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dedicated-accelerator-solutions-for-creators.md",
+        "slug": "dedicated-accelerator-solutions-for-creators",
+        "url": "/scenarios/streaming/dedicated-accelerator-solutions-for-creators/",
+        "title": "视频创作者专属大容量高速机场方案：兼顾素材与发布",
+        "desc": "深入剖析 视频创作者专属大容量高速机场方案：兼顾素材与发布。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "obs-studio-proxy-configuration-guide.md",
+        "slug": "obs-studio-proxy-configuration-guide",
+        "url": "/scenarios/streaming/obs-studio-proxy-configuration-guide/",
+        "title": "OBS Studio 直播推流软件绑定代理专线实战教程",
+        "desc": "深入剖析 OBS Studio 直播推流软件绑定代理专线实战教程。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "overseas-content-platforms-access-requirements.md",
+        "slug": "overseas-content-platforms-access-requirements",
+        "url": "/scenarios/streaming/overseas-content-platforms-access-requirements/",
+        "title": "海外内容创作者的访问需求：多平台素材库极速下载",
+        "desc": "深入剖析 海外内容创作者的访问需求：多平台素材库极速下载。基于 42 个品牌真实测速数据与横向对比，重点评测 CyberGuard、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "youtube-twitch-livestreaming-accelerators.md",
+        "slug": "youtube-twitch-livestreaming-accelerators",
+        "url": "/scenarios/streaming/youtube-twitch-livestreaming-accelerators/",
+        "title": "YouTube 与 Twitch 海外直播推流专用机场推荐",
+        "desc": "深入剖析 YouTube 与 Twitch 海外直播推流专用机场推荐。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "youtube-4k": [
+      {
+        "file": "8k-hdr-high-bitrate-streaming-test.md",
+        "slug": "8k-hdr-high-bitrate-streaming-test",
+        "url": "/scenarios/youtube-4k/8k-hdr-high-bitrate-streaming-test/",
+        "title": "8K HDR 极端高码率实测：哪些顶级专线能做到随拖随播",
+        "desc": "深入剖析 8K HDR 极端高码率实测：哪些顶级专线能做到随拖随播。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "browser-extensions-for-video-optimization.md",
+        "slug": "browser-extensions-for-video-optimization",
+        "url": "/scenarios/youtube-4k/browser-extensions-for-video-optimization/",
+        "title": "配合浏览器插件提升流媒体体验：分流规则与自动降码率",
+        "desc": "深入剖析 配合浏览器插件提升流媒体体验：分流规则与自动降码率。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "multi-device-concurrent-playback-accelerator.md",
+        "slug": "multi-device-concurrent-playback-accelerator",
+        "url": "/scenarios/youtube-4k/multi-device-concurrent-playback-accelerator/",
+        "title": "多设备同时播放 4K 视频的机场选择：并发吞吐不降速",
+        "desc": "深入剖析 多设备同时播放 4K 视频的机场选择：并发吞吐不降速。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-consumption-calculation-for-4k-video.md",
+        "slug": "traffic-consumption-calculation-for-4k-video",
+        "url": "/scenarios/youtube-4k/traffic-consumption-calculation-for-4k-video/",
+        "title": "4K播放的真实流量消耗计算：每小时到底耗费多少 GB",
+        "desc": "深入剖析 4K播放的真实流量消耗计算：每小时到底耗费多少 GB。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "troubleshooting-and-fixing-video-buffering.md",
+        "slug": "troubleshooting-and-fixing-video-buffering",
+        "url": "/scenarios/youtube-4k/troubleshooting-and-fixing-video-buffering/",
+        "title": "YouTube 缓冲卡顿排查与修复：TCP 拥塞与本地 DNS 优化",
+        "desc": "深入剖析 YouTube 缓冲卡顿排查与修复：TCP 拥塞与本地 DNS 优化。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "youtube-4k-supported-bandwidth-requirements.md",
+        "slug": "youtube-4k-supported-bandwidth-requirements",
+        "url": "/scenarios/youtube-4k/youtube-4k-supported-bandwidth-requirements/",
+        "title": "支持YouTube 4K 60fps流媒体流畅播放的机场带宽标准",
+        "desc": "深入剖析 支持YouTube 4K 60fps流媒体流畅播放的机场带宽标准。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "compare": {
+    "custom-vs-universal": [
+      {
+        "file": "clash-meta-singbox-advanced-features.md",
+        "slug": "clash-meta-singbox-advanced-features",
+        "url": "/compare/custom-vs-universal/clash-meta-singbox-advanced-features/",
+        "title": "通用内核的高阶能力：基于地理位置与进程名的精准分流",
+        "desc": "深入剖析 通用内核的高阶能力：基于地理位置与进程名的精准分流。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "flexibility-of-universal-vs-convenience-of-custom.md",
+        "slug": "flexibility-of-universal-vs-convenience-of-custom",
+        "url": "/compare/custom-vs-universal/flexibility-of-universal-vs-convenience-of-custom/",
+        "title": "通用订阅的灵活性 vs 自研的便利性：两大流派的终极决选",
+        "desc": "深入剖析 通用订阅的灵活性 vs 自研的便利性：两大流派的终极决选。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "proprietary-clients-gsy-tiziyun-firefly.md",
+        "slug": "proprietary-clients-gsy-tiziyun-firefly",
+        "url": "/compare/custom-vs-universal/proprietary-clients-gsy-tiziyun-firefly/",
+        "title": "自研客户端优秀品牌盘点：光速云、梯子云与Firefly深度测评",
+        "desc": "深入剖析 自研客户端优秀品牌盘点：光速云、梯子云与Firefly深度测评。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "stability-and-feature-completeness-of-custom-apps.md",
+        "slug": "stability-and-feature-completeness-of-custom-apps",
+        "url": "/compare/custom-vs-universal/stability-and-feature-completeness-of-custom-apps/",
+        "title": "自研客户端的稳定性与功能完整度：从一键启动到故障报修",
+        "desc": "深入剖析 自研客户端的稳定性与功能完整度：从一键启动到故障报修。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "universal-subscription-freedom-of-clients.md",
+        "slug": "universal-subscription-freedom-of-clients",
+        "url": "/compare/custom-vs-universal/universal-subscription-freedom-of-clients/",
+        "title": "通用订阅支持机场：自由选择客户端与无绑定随时迁移",
+        "desc": "深入剖析 通用订阅支持机场：自由选择客户端与无绑定随时迁移。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "user-experience-gap-for-non-tech-users.md",
+        "slug": "user-experience-gap-for-non-tech-users",
+        "url": "/compare/custom-vs-universal/user-experience-gap-for-non-tech-users/",
+        "title": "非技术用户的体验鸿沟：为什么普通用户更爱自研客户端",
+        "desc": "深入剖析 非技术用户的体验鸿沟：为什么普通用户更爱自研客户端。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "data-vs-price": [
+      {
+        "file": "100g-vs-200g-vs-500g-traffic-tier-selection.md",
+        "slug": "100g-vs-200g-vs-500g-traffic-tier-selection",
+        "url": "/compare/data-vs-price/100g-vs-200g-vs-500g-traffic-tier-selection/",
+        "title": "100G vs 200G vs 500G：不同流量档位的适用人群与选购法则",
+        "desc": "深入剖析 100G vs 200G vs 500G：不同流量档位的适用人群与选购法则。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cost-of-exceeding-monthly-data-cap.md",
+        "slug": "cost-of-exceeding-monthly-data-cap",
+        "url": "/compare/data-vs-price/cost-of-exceeding-monthly-data-cap/",
+        "title": "流量用尽后的加油包单价对比：避免临时充值的溢价陷阱",
+        "desc": "深入剖析 流量用尽后的加油包单价对比：避免临时充值的溢价陷阱。基于 42 个品牌真实测速数据与横向对比，重点评测 浪网、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-identify-fake-inflated-traffic.md",
+        "slug": "how-to-identify-fake-inflated-traffic",
+        "url": "/compare/data-vs-price/how-to-identify-fake-inflated-traffic/",
+        "title": "虚标流量的识别方法：后台计量与第三方流量监测对照",
+        "desc": "深入剖析 虚标流量的识别方法：后台计量与第三方流量监测对照。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "multiplier-1-vs-2-real-traffic-consumption.md",
+        "slug": "multiplier-1-vs-2-real-traffic-consumption",
+        "url": "/compare/data-vs-price/multiplier-1-vs-2-real-traffic-consumption/",
+        "title": "倍率1.0 vs 倍率2.0的真实流量消耗：100G如何变成50G",
+        "desc": "深入剖析 倍率1.0 vs 倍率2.0的真实流量消耗：100G如何变成50G。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "optimal-combination-of-traffic-and-price.md",
+        "slug": "optimal-combination-of-traffic-and-price",
+        "url": "/compare/data-vs-price/optimal-combination-of-traffic-and-price/",
+        "title": "流量与价格的最优组合：如何找到性价比最高的甜蜜点",
+        "desc": "深入剖析 流量与价格的最优组合：如何找到性价比最高的甜蜜点。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "zero-multiplier-nodes-authenticity-check.md",
+        "slug": "zero-multiplier-nodes-authenticity-check",
+        "url": "/compare/data-vs-price/zero-multiplier-nodes-authenticity-check/",
+        "title": "0.1 倍率与免费节点的真相：是福利还是低劣废弃线路",
+        "desc": "深入剖析 0.1 倍率与免费节点的真相：是福利还是低劣废弃线路。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "head-to-head": [
+      {
+        "file": "20-yuan-vs-50-yuan-is-it-worth-the-extra.md",
+        "slug": "20-yuan-vs-50-yuan-is-it-worth-the-extra",
+        "url": "/compare/head-to-head/20-yuan-vs-50-yuan-is-it-worth-the-extra/",
+        "title": "20元 vs 50元：多花一倍以上的价格，体验到底值不值",
+        "desc": "深入剖析 20元 vs 50元：多花一倍以上的价格，体验到底值不值。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cheap-entry-vs-enterprise-grade.md",
+        "slug": "cheap-entry-vs-enterprise-grade",
+        "url": "/compare/head-to-head/cheap-entry-vs-enterprise-grade/",
+        "title": "7元入门专线 vs 24元企业级专线：飞猫云跨级挑战隐形人",
+        "desc": "深入剖析 7元入门专线 vs 24元企业级专线：飞猫云跨级挑战隐形人。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dalaoyun-vs-shandianshu-ultra-cheap-duel.md",
+        "slug": "dalaoyun-vs-shandianshu-ultra-cheap-duel",
+        "url": "/compare/head-to-head/dalaoyun-vs-shandianshu-ultra-cheap-duel/",
+        "title": "大佬云 vs 闪电鼠：5.6元极限低价档双雄实测",
+        "desc": "深入剖析 大佬云 vs 闪电鼠：5.6元极限低价档双雄实测。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "gsy-vs-feimao-veteran-vs-newcomer.md",
+        "slug": "gsy-vs-feimao-veteran-vs-newcomer",
+        "url": "/compare/head-to-head/gsy-vs-feimao-veteran-vs-newcomer/",
+        "title": "光速云 vs 飞猫云：2020老牌王者 vs 2023新锐标杆深度PK",
+        "desc": "深入剖析 光速云 vs 飞猫云：2020老牌王者 vs 2023新锐标杆深度PK。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "iepl-vs-iplc-firefly-vs-gsy.md",
+        "slug": "iepl-vs-iplc-firefly-vs-gsy",
+        "url": "/compare/head-to-head/iepl-vs-iplc-firefly-vs-gsy/",
+        "title": "IEPL vs IPLC：Firefly 专线对决光速云双线路架构",
+        "desc": "深入剖析 IEPL vs IPLC：Firefly 专线对决光速云双线路架构。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "xingdaomeng-vs-lingmao-enterprise-intranet.md",
+        "slug": "xingdaomeng-vs-lingmao-enterprise-intranet",
+        "url": "/compare/head-to-head/xingdaomeng-vs-lingmao-enterprise-intranet/",
+        "title": "星岛梦 vs 灵猫网络：企业级内网专线老牌与新秀对决",
+        "desc": "深入剖析 星岛梦 vs 灵猫网络：企业级内网专线老牌与新秀对决。基于 42 个品牌真实测速数据与横向对比，重点评测 星岛梦、灵猫网络，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "iepl-vs-iplc": [
+      {
+        "file": "cost-and-performance-comparison-iepl-iplc.md",
+        "slug": "cost-and-performance-comparison-iepl-iplc",
+        "url": "/compare/iepl-vs-iplc/cost-and-performance-comparison-iepl-iplc/",
+        "title": "两种跨境专线的成本、抗抖动与吞吐性能权威对比",
+        "desc": "深入剖析 两种跨境专线的成本、抗抖动与吞吐性能权威对比。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "latency-and-stability-tested-iepl-vs-iplc.md",
+        "slug": "latency-and-stability-tested-iepl-vs-iplc",
+        "url": "/compare/iepl-vs-iplc/latency-and-stability-tested-iepl-vs-iplc/",
+        "title": "IEPL机场 vs IPLC机场：实测往返延迟与丢包率数据对比",
+        "desc": "深入剖析 IEPL机场 vs IPLC机场：实测往返延迟与丢包率数据对比。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "regulatory-and-legal-status-iepl-iplc.md",
+        "slug": "regulatory-and-legal-status-iepl-iplc",
+        "url": "/compare/iepl-vs-iplc/regulatory-and-legal-status-iepl-iplc/",
+        "title": "合规性与跨境资质解析：企业级专线如何做到长治久安",
+        "desc": "深入剖析 合规性与跨境资质解析：企业级专线如何做到长治久安。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "technical-differences-between-iepl-and-iplc.md",
+        "slug": "technical-differences-between-iepl-and-iplc",
+        "url": "/compare/iepl-vs-iplc/technical-differences-between-iepl-and-iplc/",
+        "title": "IEPL与IPLC的物理原理差异：以太网二层隧道 vs 电信硬租线",
+        "desc": "深入剖析 IEPL与IPLC的物理原理差异：以太网二层隧道 vs 电信硬租线。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "underwater-cable-outage-impact-on-dedicated-lines.md",
+        "slug": "underwater-cable-outage-impact-on-dedicated-lines",
+        "url": "/compare/iepl-vs-iplc/underwater-cable-outage-impact-on-dedicated-lines/",
+        "title": "海缆故障大事件复盘：专线如何应对物理光缆中断危机",
+        "desc": "深入剖析 海缆故障大事件复盘：专线如何应对物理光缆中断危机。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "when-to-choose-iepl-and-when-iplc.md",
+        "slug": "when-to-choose-iepl-and-when-iplc",
+        "url": "/compare/iepl-vs-iplc/when-to-choose-iepl-and-when-iplc/",
+        "title": "选购分水岭：什么应用场景选IEPL，什么场景必须上IPLC",
+        "desc": "深入剖析 选购分水岭：什么应用场景选IEPL，什么场景必须上IPLC。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "line-and-streaming": [
+      {
+        "file": "bgp-entry-node-resilience-tested.md",
+        "slug": "bgp-entry-node-resilience-tested",
+        "url": "/compare/line-and-streaming/bgp-entry-node-resilience-tested/",
+        "title": "多线 BGP 入口容灾能力实测：遭遇单省断网时的自动调度",
+        "desc": "深入剖析 多线 BGP 入口容灾能力实测：遭遇单省断网时的自动调度。基于 42 个品牌真实测速数据与横向对比，重点评测 sslar、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "dns-unlock-vs-full-native-routing.md",
+        "slug": "dns-unlock-vs-full-native-routing",
+        "url": "/compare/line-and-streaming/dns-unlock-vs-full-native-routing/",
+        "title": "DNS 劫持解锁 vs 全路由原生广播：两种流媒体解锁的优劣",
+        "desc": "深入剖析 DNS 劫持解锁 vs 全路由原生广播：两种流媒体解锁的优劣。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "iepl-vs-iplc-vs-relay-vs-direct-all-round.md",
+        "slug": "iepl-vs-iplc-vs-relay-vs-direct-all-round",
+        "url": "/compare/line-and-streaming/iepl-vs-iplc-vs-relay-vs-direct-all-round/",
+        "title": "IEPL vs IPLC vs 中转 vs 直连：四大主流线路架构全景对比",
+        "desc": "深入剖析 IEPL vs IPLC vs 中转 vs 直连：四大主流线路架构全景对比。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "native-ip-vs-broadcast-ip-unlock-capabilities.md",
+        "slug": "native-ip-vs-broadcast-ip-unlock-capabilities",
+        "url": "/compare/line-and-streaming/native-ip-vs-broadcast-ip-unlock-capabilities/",
+        "title": "原生IP vs 广播IP：解锁能力鸿沟与被风控概率对比",
+        "desc": "深入剖析 原生IP vs 广播IP：解锁能力鸿沟与被风控概率对比。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "streaming-unlock-netflix-disney-chatgpt-comparison.md",
+        "slug": "streaming-unlock-netflix-disney-chatgpt-comparison",
+        "url": "/compare/line-and-streaming/streaming-unlock-netflix-disney-chatgpt-comparison/",
+        "title": "流媒体与AI工具解锁能力全横评：Netflix/Disney+/ChatGPT",
+        "desc": "深入剖析 流媒体与AI工具解锁能力全横评：Netflix/Disney+/ChatGPT。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "triple-net-optimization-vs-single-line.md",
+        "slug": "triple-net-optimization-vs-single-line",
+        "url": "/compare/line-and-streaming/triple-net-optimization-vs-single-line/",
+        "title": "三网优化 vs 单线中转：电信、联通与移动用户的不同体验",
+        "desc": "深入剖析 三网优化 vs 单线中转：电信、联通与移动用户的不同体验。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、青云梯，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "monthly-vs-annual": [
+      {
+        "file": "dispute-resolution-for-annual-subscribers.md",
+        "slug": "dispute-resolution-for-annual-subscribers",
+        "url": "/compare/monthly-vs-annual/dispute-resolution-for-annual-subscribers/",
+        "title": "年付用户遭遇服务降级时的止损与售后申诉指南",
+        "desc": "深入剖析 年付用户遭遇服务降级时的止损与售后申诉指南。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "quarterly-billing-the-hidden-sweet-spot.md",
+        "slug": "quarterly-billing-the-hidden-sweet-spot",
+        "url": "/compare/monthly-vs-annual/quarterly-billing-the-hidden-sweet-spot/",
+        "title": "季付（Quarterly）：兼顾8折优惠与灵活性控制的最佳折中",
+        "desc": "深入剖析 季付（Quarterly）：兼顾8折优惠与灵活性控制的最佳折中。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "real-savings-of-annual-discounts.md",
+        "slug": "real-savings-of-annual-discounts",
+        "url": "/compare/monthly-vs-annual/real-savings-of-annual-discounts/",
+        "title": "年付折扣的真实节省计算：省下的钱够不够抵御跑路风险",
+        "desc": "深入剖析 年付折扣的真实节省计算：省下的钱够不够抵御跑路风险。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "runaway-risk-and-opportunity-cost.md",
+        "slug": "runaway-risk-and-opportunity-cost",
+        "url": "/compare/monthly-vs-annual/runaway-risk-and-opportunity-cost/",
+        "title": "月付 vs 年付：跑路沉没成本与更好替代品出现的机会成本",
+        "desc": "深入剖析 月付 vs 年付：跑路沉没成本与更好替代品出现的机会成本。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "total-annual-cost-monthly-vs-annual.md",
+        "slug": "total-annual-cost-monthly-vs-annual",
+        "url": "/compare/monthly-vs-annual/total-annual-cost-monthly-vs-annual/",
+        "title": "月付 vs 年付：以实际一年使用为周期的真实总账单对比",
+        "desc": "深入剖析 月付 vs 年付：以实际一年使用为周期的真实总账单对比。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "who-should-pay-annually-and-who-monthly.md",
+        "slug": "who-should-pay-annually-and-who-monthly",
+        "url": "/compare/monthly-vs-annual/who-should-pay-annually-and-who-monthly/",
+        "title": "画像决策：什么类型的用户适合年付，什么用户必须月付",
+        "desc": "深入剖析 画像决策：什么类型的用户适合年付，什么用户必须月付。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "new-vs-old": [
+      {
+        "file": "2020-veteran-vs-2025-newcomer-5-year-gap.md",
+        "slug": "2020-veteran-vs-2025-newcomer-5-year-gap",
+        "url": "/compare/new-vs-old/2020-veteran-vs-2025-newcomer-5-year-gap/",
+        "title": "2020老牌 vs 2025新锐：5年的时间沉淀到底意味着什么",
+        "desc": "深入剖析 2020老牌 vs 2025新锐：5年的时间沉淀到底意味着什么。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "first-year-promo-vs-long-term-stable-pricing.md",
+        "slug": "first-year-promo-vs-long-term-stable-pricing",
+        "url": "/compare/new-vs-old/first-year-promo-vs-long-term-stable-pricing/",
+        "title": "新机场首年开业狂欢价 vs 老牌长期稳定价格：博弈策略",
+        "desc": "深入剖析 新机场首年开业狂欢价 vs 老牌长期稳定价格：博弈策略。基于 42 个品牌真实测速数据与横向对比，重点评测 EdgeNova、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "long-term-usage-cost-comparison.md",
+        "slug": "long-term-usage-cost-comparison",
+        "url": "/compare/new-vs-old/long-term-usage-cost-comparison/",
+        "title": "长期连续使用3年的总成本对比：频繁换机场的隐性开销",
+        "desc": "深入剖析 长期连续使用3年的总成本对比：频繁换机场的隐性开销。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "price-stickiness-in-veteran-services.md",
+        "slug": "price-stickiness-in-veteran-services",
+        "url": "/compare/new-vs-old/price-stickiness-in-veteran-services/",
+        "title": "老牌机场的价格黏性：为什么很多老用户宁愿不换也不折腾",
+        "desc": "深入剖析 老牌机场的价格黏性：为什么很多老用户宁愿不换也不折腾。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tech-dividends-vs-veteran-stability.md",
+        "slug": "tech-dividends-vs-veteran-stability",
+        "url": "/compare/new-vs-old/tech-dividends-vs-veteran-stability/",
+        "title": "新锐机场的技术红利 vs 老牌机场的成熟运维：如何权衡",
+        "desc": "深入剖析 新锐机场的技术红利 vs 老牌机场的成熟运维：如何权衡。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "user-churn-and-brand-survival-rate.md",
+        "slug": "user-churn-and-brand-survival-rate",
+        "url": "/compare/new-vs-old/user-churn-and-brand-survival-rate/",
+        "title": "机场行业的残酷生存率：历经周期洗牌后存活品牌的特征",
+        "desc": "深入剖析 机场行业的残酷生存率：历经周期洗牌后存活品牌的特征。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、青云梯，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "same-price": [
+      {
+        "file": "20-yuan-plans-detailed-bandwidth-test.md",
+        "slug": "20-yuan-plans-detailed-bandwidth-test",
+        "url": "/compare/same-price/20-yuan-plans-detailed-bandwidth-test/",
+        "title": "20元档主力机场晚高峰单线程带宽测速对撞",
+        "desc": "深入剖析 20元档主力机场晚高峰单线程带宽测速对撞。基于 42 个品牌真实测速数据与横向对比，重点评测 二猫云、全球云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "20-yuan-tier-5-brands-comparison.md",
+        "slug": "20-yuan-tier-5-brands-comparison",
+        "url": "/compare/same-price/20-yuan-tier-5-brands-comparison/",
+        "title": "20元档5家机场对比：U1S1、二猫云、一翻云、全球云与暮光加速",
+        "desc": "深入剖析 20元档5家机场对比：U1S1、二猫云、一翻云、全球云与暮光加速。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "5-6-yuan-comprehensive-comparison.md",
+        "slug": "5-6-yuan-comprehensive-comparison",
+        "url": "/compare/same-price/5-6-yuan-comprehensive-comparison/",
+        "title": "5.6元档机场全面对比：闪电鼠 vs 大佬云 vs 云界线",
+        "desc": "深入剖析 5.6元档机场全面对比：闪电鼠 vs 大佬云 vs 云界线。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "7-yuan-tier-feimao-vs-weifeng.md",
+        "slug": "7-yuan-tier-feimao-vs-weifeng",
+        "url": "/compare/same-price/7-yuan-tier-feimao-vs-weifeng/",
+        "title": "7元档神仙打架：飞猫云 vs 微风网络综合参数对决",
+        "desc": "深入剖析 7元档神仙打架：飞猫云 vs 微风网络综合参数对决。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "sub-10-yuan-traffic-vs-speed-showdown.md",
+        "slug": "sub-10-yuan-traffic-vs-speed-showdown",
+        "url": "/compare/same-price/sub-10-yuan-traffic-vs-speed-showdown/",
+        "title": "10元以下平价机场：流量大小与高峰速度谁更可靠",
+        "desc": "深入剖析 10元以下平价机场：流量大小与高峰速度谁更可靠。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ultimate-value-comparison-20-yuan.md",
+        "slug": "ultimate-value-comparison-20-yuan",
+        "url": "/compare/same-price/ultimate-value-comparison-20-yuan/",
+        "title": "20元档性价比终极对比：谁才是 2026 最强中坚主力",
+        "desc": "深入剖析 20元档性价比终极对比：谁才是 2026 最强中坚主力。基于 42 个品牌真实测速数据与横向对比，重点评测 一翻云、U1S1，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "brands": {
+    "benchmarks": [
+      {
+        "file": "citing-internal-and-external-benchmark-data.md",
+        "slug": "citing-internal-and-external-benchmark-data",
+        "url": "/brands/benchmarks/citing-internal-and-external-benchmark-data/",
+        "title": "权威性能测试跑分方法论：Speedtest、Fast与Ping.pe",
+        "desc": "深入剖析 权威性能测试跑分方法论：Speedtest、Fast与Ping.pe。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "current-brand-status-verified-vs-vendor.md",
+        "slug": "current-brand-status-verified-vs-vendor",
+        "url": "/brands/benchmarks/current-brand-status-verified-vs-vendor/",
+        "title": "全网服务商当前运营状态：已核验 vs 品牌资料显示",
+        "desc": "深入剖析 全网服务商当前运营状态：已核验 vs 品牌资料显示。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、可信云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "historical-benchmark-archive-2026.md",
+        "slug": "historical-benchmark-archive-2026",
+        "url": "/brands/benchmarks/historical-benchmark-archive-2026/",
+        "title": "2026年度加速性能基准评测报告全量归档",
+        "desc": "深入剖析 2026年度加速性能基准评测报告全量归档。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "in-depth-reviews-index-for-all-brands.md",
+        "slug": "in-depth-reviews-index-for-all-brands",
+        "url": "/brands/benchmarks/in-depth-reviews-index-for-all-brands/",
+        "title": "42个品牌深度单篇横向实测档案总索引入口",
+        "desc": "深入剖析 42个品牌深度单篇横向实测档案总索引入口。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "official-website-availability-check.md",
+        "slug": "official-website-availability-check",
+        "url": "/brands/benchmarks/official-website-availability-check/",
+        "title": "官网可用性与健康度自动化检测结果公布（实时状态）",
+        "desc": "深入剖析 官网可用性与健康度自动化检测结果公布（实时状态）。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "reporting-data-inaccuracies-guide.md",
+        "slug": "reporting-data-inaccuracies-guide",
+        "url": "/brands/benchmarks/reporting-data-inaccuracies-guide/",
+        "title": "读者纠错与数据勘误通道：共建透明客观的决策平台",
+        "desc": "深入剖析 读者纠错与数据勘误通道：共建透明客观的决策平台。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "clients": [
+      {
+        "file": "auto-update-and-node-sync-in-custom-apps.md",
+        "slug": "auto-update-and-node-sync-in-custom-apps",
+        "url": "/brands/clients/auto-update-and-node-sync-in-custom-apps/",
+        "title": "自研客户端的节点自动同步与线路健康检查机制",
+        "desc": "深入剖析 自研客户端的节点自动同步与线路健康检查机制。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "brands-providing-custom-clients-list.md",
+        "slug": "brands-providing-custom-clients-list",
+        "url": "/brands/clients/brands-providing-custom-clients-list/",
+        "title": "提供官方自研客户端的品牌全量清单与功能评测",
+        "desc": "深入剖析 提供官方自研客户端的品牌全量清单与功能评测。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "brands-supporting-clash-v2ray-singbox.md",
+        "slug": "brands-supporting-clash-v2ray-singbox",
+        "url": "/brands/clients/brands-supporting-clash-v2ray-singbox/",
+        "title": "支持Clash/v2ray/sing-box通用订阅的品牌全览",
+        "desc": "深入剖析 支持Clash/v2ray/sing-box通用订阅的品牌全览。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "platform-coverage-windows-mac-android-ios.md",
+        "slug": "platform-coverage-windows-mac-android-ios",
+        "url": "/brands/clients/platform-coverage-windows-mac-android-ios/",
+        "title": "自研客户端的全平台覆盖情况：Win、Mac、Android、iOS实机测试",
+        "desc": "深入剖析 自研客户端的全平台覆盖情况：Win、Mac、Android、iOS实机测试。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "shadowrocket-and-quantumult-x-compatibility.md",
+        "slug": "shadowrocket-and-quantumult-x-compatibility",
+        "url": "/brands/clients/shadowrocket-and-quantumult-x-compatibility/",
+        "title": "iOS 端小火箭（Shadowrocket）与圈X（QX）极速导入支持度",
+        "desc": "深入剖析 iOS 端小火箭（Shadowrocket）与圈X（QX）极速导入支持度。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "subscription-format-compatibility-comparison.md",
+        "slug": "subscription-format-compatibility-comparison",
+        "url": "/brands/clients/subscription-format-compatibility-comparison/",
+        "title": "订阅格式兼容性评测：Base64、Clash YAML 与 JSON 格式解析",
+        "desc": "深入剖析 订阅格式兼容性评测：Base64、Clash YAML 与 JSON 格式解析。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "features": [
+      {
+        "file": "after-sales-policies-and-sla-comparison.md",
+        "slug": "after-sales-policies-and-sla-comparison",
+        "url": "/brands/features/after-sales-policies-and-sla-comparison/",
+        "title": "售后保障与 SLA 协议横评：故障补偿机制哪家最厚道",
+        "desc": "深入剖析 售后保障与 SLA 协议横评：故障补偿机制哪家最厚道。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "ai-platform-compatibility-comparison.md",
+        "slug": "ai-platform-compatibility-comparison",
+        "url": "/brands/features/ai-platform-compatibility-comparison/",
+        "title": "OpenAI、Claude 与 Gemini 平台支持能力深度对撞",
+        "desc": "深入剖析 OpenAI、Claude 与 Gemini 平台支持能力深度对撞。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、速界，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "custom-routes-and-traffic-packs-support.md",
+        "slug": "custom-routes-and-traffic-packs-support",
+        "url": "/brands/features/custom-routes-and-traffic-packs-support/",
+        "title": "支持按需定制线路与流量加油包的高级功能对比",
+        "desc": "深入剖析 支持按需定制线路与流量加油包的高级功能对比。基于 42 个品牌真实测速数据与横向对比，重点评测 浪网、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "customer-support-response-speed-comparison.md",
+        "slug": "customer-support-response-speed-comparison",
+        "url": "/brands/features/customer-support-response-speed-comparison/",
+        "title": "工单客服响应时效横向对比：谁能在10分钟内解决问题",
+        "desc": "深入剖析 工单客服响应时效横向对比：谁能在10分钟内解决问题。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "remote-assistance-support-brands.md",
+        "slug": "remote-assistance-support-brands",
+        "url": "/brands/features/remote-assistance-support-brands/",
+        "title": "支持远程协助与一对一小白配置辅导的机场盘点",
+        "desc": "深入剖析 支持远程协助与一对一小白配置辅导的机场盘点。基于 42 个品牌真实测速数据与横向对比，重点评测 sslar、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "streaming-media-unlocking-comparison.md",
+        "slug": "streaming-media-unlocking-comparison",
+        "url": "/brands/features/streaming-media-unlocking-comparison/",
+        "title": "42个品牌流媒体解锁能力全景横向大对比表",
+        "desc": "深入剖析 42个品牌流媒体解锁能力全景横向大对比表。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "history": [
+      {
+        "file": "brand-rebranding-and-domain-transitions.md",
+        "slug": "brand-rebranding-and-domain-transitions",
+        "url": "/brands/history/brand-rebranding-and-domain-transitions/",
+        "title": "品牌更名与防关联重塑历史：TNTCloud、青云梯等团队前身",
+        "desc": "深入剖析 品牌更名与防关联重塑历史：TNTCloud、青云梯等团队前身。基于 42 个品牌真实测速数据与横向对比，重点评测 TNTCloud、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "client-software-iteration-history.md",
+        "slug": "client-software-iteration-history",
+        "url": "/brands/history/client-software-iteration-history/",
+        "title": "客户端软件架构演进历程：从简单 SS 包装到现代化内核",
+        "desc": "深入剖析 客户端软件架构演进历程：从简单 SS 包装到现代化内核。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "gsy-4-years-price-changes-review.md",
+        "slug": "gsy-4-years-price-changes-review",
+        "url": "/brands/history/gsy-4-years-price-changes-review/",
+        "title": "光速云4年运营价格变化史：从初期测试到成熟主力定价",
+        "desc": "深入剖析 光速云4年运营价格变化史：从初期测试到成熟主力定价。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "inflation-and-bandwidth-cost-impact.md",
+        "slug": "inflation-and-bandwidth-cost-impact",
+        "url": "/brands/history/inflation-and-bandwidth-cost-impact/",
+        "title": "跨国机房带宽通胀对机场套餐单价的传导机制分析",
+        "desc": "深入剖析 跨国机房带宽通胀对机场套餐单价的传导机制分析。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、青云梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "leading-brands-price-trend-analysis.md",
+        "slug": "leading-brands-price-trend-analysis",
+        "url": "/brands/history/leading-brands-price-trend-analysis/",
+        "title": "头部加速品牌近3年价格走势透视：专线成本推动型演进",
+        "desc": "深入剖析 头部加速品牌近3年价格走势透视：专线成本推动型演进。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-policy-adjustments-archive.md",
+        "slug": "traffic-policy-adjustments-archive",
+        "url": "/brands/history/traffic-policy-adjustments-archive/",
+        "title": "流量重置政策与公平使用条款（FUP）调整历史回顾",
+        "desc": "深入剖析 流量重置政策与公平使用条款（FUP）调整历史回顾。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "logs": [
+      {
+        "file": "2026-new-brands-launch-records.md",
+        "slug": "2026-new-brands-launch-records",
+        "url": "/brands/logs/2026-new-brands-launch-records/",
+        "title": "2026年最新品牌入驻与公测记录跟踪（持续更新）",
+        "desc": "深入剖析 2026年最新品牌入驻与公测记录跟踪（持续更新）。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、SOGO 云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "domain-changes-and-announcements-archive.md",
+        "slug": "domain-changes-and-announcements-archive",
+        "url": "/brands/logs/domain-changes-and-announcements-archive/",
+        "title": "品牌备用域名更换与官方公告归档检索",
+        "desc": "深入剖析 品牌备用域名更换与官方公告归档检索。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "historical-price-adjustments-log.md",
+        "slug": "historical-price-adjustments-log",
+        "url": "/brands/logs/historical-price-adjustments-log/",
+        "title": "各品牌历史价格调整与套餐缩水/扩容事件档案",
+        "desc": "深入剖析 各品牌历史价格调整与套餐缩水/扩容事件档案。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "infrastructure-upgrades-milestones.md",
+        "slug": "infrastructure-upgrades-milestones",
+        "url": "/brands/logs/infrastructure-upgrades-milestones/",
+        "title": "机房搬迁与光缆上游扩容重大事件历史时间线",
+        "desc": "深入剖析 机房搬迁与光缆上游扩容重大事件历史时间线。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "outage-and-maintenance-incident-reports.md",
+        "slug": "outage-and-maintenance-incident-reports",
+        "url": "/brands/logs/outage-and-maintenance-incident-reports/",
+        "title": "近期网络波动、机房割接与节点恢复复盘报告",
+        "desc": "深入剖析 近期网络波动、机房割接与节点恢复复盘报告。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "veteran-brands-service-change-notifications.md",
+        "slug": "veteran-brands-service-change-notifications",
+        "url": "/brands/logs/veteran-brands-service-change-notifications/",
+        "title": "老牌机场近期服务调整与客户端更新公告速报",
+        "desc": "深入剖析 老牌机场近期服务调整与客户端更新公告速报。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "plans": [
+      {
+        "file": "high-end-enterprise-plans-cost-breakdown.md",
+        "slug": "high-end-enterprise-plans-cost-breakdown",
+        "url": "/brands/plans/high-end-enterprise-plans-cost-breakdown/",
+        "title": "高端企业与定制版套餐价格解构：溢价背后的硬件成本",
+        "desc": "深入剖析 高端企业与定制版套餐价格解构：溢价背后的硬件成本。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "mainstream-plans-price-range-analysis.md",
+        "slug": "mainstream-plans-price-range-analysis",
+        "url": "/brands/plans/mainstream-plans-price-range-analysis/",
+        "title": "主流套餐价格区间盘点：15元至30元优质套餐性价比矩阵",
+        "desc": "深入剖析 主流套餐价格区间盘点：15元至30元优质套餐性价比矩阵。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "package-renewal-and-upgrade-rules.md",
+        "slug": "package-renewal-and-upgrade-rules",
+        "url": "/brands/plans/package-renewal-and-upgrade-rules/",
+        "title": "套餐升级、流量叠加与重置日计算规则深度解析",
+        "desc": "深入剖析 套餐升级、流量叠加与重置日计算规则深度解析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "promo-codes-and-discount-policies-summary.md",
+        "slug": "promo-codes-and-discount-policies-summary",
+        "url": "/brands/plans/promo-codes-and-discount-policies-summary/",
+        "title": "全网各品牌最新优惠码与长期折扣政策汇总（每日核验）",
+        "desc": "深入剖析 全网各品牌最新优惠码与长期折扣政策汇总（每日核验）。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "starting-prices-comparison-table-42-brands.md",
+        "slug": "starting-prices-comparison-table-42-brands",
+        "url": "/brands/plans/starting-prices-comparison-table-42-brands/",
+        "title": "42个品牌起步价完整对比大表：谁是全网门槛最低之选",
+        "desc": "深入剖析 42个品牌起步价完整对比大表：谁是全网门槛最低之选。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "traffic-tiers-device-limits-and-multipliers.md",
+        "slug": "traffic-tiers-device-limits-and-multipliers",
+        "url": "/brands/plans/traffic-tiers-device-limits-and-multipliers/",
+        "title": "套餐关键细节：流量档位、并发设备限制与节点倍率规则",
+        "desc": "深入剖析 套餐关键细节：流量档位、并发设备限制与节点倍率规则。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "profiles": [
+      {
+        "file": "42-brands-complete-profiles-overview.md",
+        "slug": "42-brands-complete-profiles-overview",
+        "url": "/brands/profiles/42-brands-complete-profiles-overview/",
+        "title": "42个机场品牌完整档案全览（含2026最新14家收录）",
+        "desc": "深入剖析 42个机场品牌完整档案全览（含2026最新14家收录）。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "classified-by-line-types-iepl-iplc-vendor.md",
+        "slug": "classified-by-line-types-iepl-iplc-vendor",
+        "url": "/brands/profiles/classified-by-line-types-iepl-iplc-vendor/",
+        "title": "按线路类型分类：IEPL、IPLC、企业专线与待核实全览",
+        "desc": "深入剖析 按线路类型分类：IEPL、IPLC、企业专线与待核实全览。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "classified-by-operating-years-2020-to-2026.md",
+        "slug": "classified-by-operating-years-2020-to-2026",
+        "url": "/brands/profiles/classified-by-operating-years-2020-to-2026/",
+        "title": "按运营年份分类：2020老牌、2023中坚与2026新锐梯队分布",
+        "desc": "深入剖析 按运营年份分类：2020老牌、2023中坚与2026新锐梯队分布。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "full-rankings-methodology-explained.md",
+        "slug": "full-rankings-methodology-explained",
+        "url": "/brands/profiles/full-rankings-methodology-explained/",
+        "title": "42个品牌综合排名算法揭秘：线路、价格与口碑加权体系",
+        "desc": "深入剖析 42个品牌综合排名算法揭秘：线路、价格与口碑加权体系。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "protocol-adoption-across-all-brands.md",
+        "slug": "protocol-adoption-across-all-brands",
+        "url": "/brands/profiles/protocol-adoption-across-all-brands/",
+        "title": "传输协议全景图：VLESS 为何成为 2026 最主流的加速协议",
+        "desc": "深入剖析 传输协议全景图：VLESS 为何成为 2026 最主流的加速协议。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "top-10-brands-in-depth-profile-review.md",
+        "slug": "top-10-brands-in-depth-profile-review",
+        "url": "/brands/profiles/top-10-brands-in-depth-profile-review/",
+        "title": "前十品牌深度档案：光速云、飞猫云、微风网络等主力盘点",
+        "desc": "深入剖析 前十品牌深度档案：光速云、飞猫云、微风网络等主力盘点。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "reviews": [
+      {
+        "file": "cross-verification-of-brand-data.md",
+        "slug": "cross-verification-of-brand-data",
+        "url": "/brands/reviews/cross-verification-of-brand-data/",
+        "title": "多维度交叉核验品牌参数：杜绝官方单方面夸大宣传",
+        "desc": "深入剖析 多维度交叉核验品牌参数：杜绝官方单方面夸大宣传。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "forum-and-community-evaluations.md",
+        "slug": "forum-and-community-evaluations",
+        "url": "/brands/reviews/forum-and-community-evaluations/",
+        "title": "V2EX、Hostloc 等技术社区对各主流机场的综合评价沉淀",
+        "desc": "深入剖析 V2EX、Hostloc 等技术社区对各主流机场的综合评价沉淀。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "identifying-fake-shill-reviews.md",
+        "slug": "identifying-fake-shill-reviews",
+        "url": "/brands/reviews/identifying-fake-shill-reviews/",
+        "title": "如何甄别网络水军刷评：识别伪造测速与虚假返利带货",
+        "desc": "深入剖析 如何甄别网络水军刷评：识别伪造测速与虚假返利带货。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "public-data-cited-from-external-review-sites.md",
+        "slug": "public-data-cited-from-external-review-sites",
+        "url": "/brands/reviews/public-data-cited-from-external-review-sites/",
+        "title": "引用第三方独立测速平台公开数据的客观交叉比对",
+        "desc": "深入剖析 引用第三方独立测速平台公开数据的客观交叉比对。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、唯兔云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "real-feedback-from-tg-and-communities.md",
+        "slug": "real-feedback-from-tg-and-communities",
+        "url": "/brands/reviews/real-feedback-from-tg-and-communities/",
+        "title": "各品牌TG官方交流群与技术社群真实用户口碑实录",
+        "desc": "深入剖析 各品牌TG官方交流群与技术社群真实用户口碑实录。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "user-satisfaction-score-ranking.md",
+        "slug": "user-satisfaction-score-ranking",
+        "url": "/brands/reviews/user-satisfaction-score-ranking/",
+        "title": "全站42个品牌真实用户满意度打分排行榜（2026核定）",
+        "desc": "深入剖析 全站42个品牌真实用户满意度打分排行榜（2026核定）。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "risk-ratings": [
+      {
+        "file": "brands-requiring-close-observation.md",
+        "slug": "brands-requiring-close-observation",
+        "url": "/brands/risk-ratings/brands-requiring-close-observation/",
+        "title": "处于重点观察期的品牌特征：频繁更换收款账户与域名",
+        "desc": "深入剖析 处于重点观察期的品牌特征：频繁更换收款账户与域名。基于 42 个品牌真实测速数据与横向对比，重点评测 云界线、环球梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "diversified-investment-brand-portfolio.md",
+        "slug": "diversified-investment-brand-portfolio",
+        "url": "/brands/risk-ratings/diversified-investment-brand-portfolio/",
+        "title": "分散投资的品牌组合模型：双机场甚至三机场科学搭配",
+        "desc": "深入剖析 分散投资的品牌组合模型：双机场甚至三机场科学搭配。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "emergency-migration-checklist-when-outage-hits.md",
+        "slug": "emergency-migration-checklist-when-outage-hits",
+        "url": "/brands/risk-ratings/emergency-migration-checklist-when-outage-hits/",
+        "title": "主机场突发宕机时的5分钟应急迁移清单",
+        "desc": "深入剖析 主机场突发宕机时的5分钟应急迁移清单。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-spot-sudden-network-downgrades.md",
+        "slug": "how-to-spot-sudden-network-downgrades",
+        "url": "/brands/risk-ratings/how-to-spot-sudden-network-downgrades/",
+        "title": "线路悄然降级的识别方法：专线偷换为公网中转检测",
+        "desc": "深入剖析 线路悄然降级的识别方法：专线偷换为公网中转检测。基于 42 个品牌真实测速数据与横向对比，重点评测 唯兔云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "primary-and-backup-pairing-strategy.md",
+        "slug": "primary-and-backup-pairing-strategy",
+        "url": "/brands/risk-ratings/primary-and-backup-pairing-strategy/",
+        "title": "主力+备用机场组合实战：20元高品质专线配6元平价备用",
+        "desc": "深入剖析 主力+备用机场组合实战：20元高品质专线配6元平价备用。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "warning-signals-of-high-risk-brands.md",
+        "slug": "warning-signals-of-high-risk-brands",
+        "url": "/brands/risk-ratings/warning-signals-of-high-risk-brands/",
+        "title": "高风险跑路机场的5大前兆信号：超大折扣与客服失联",
+        "desc": "深入剖析 高风险跑路机场的5大前兆信号：超大折扣与客服失联。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "tiers": [
+      {
+        "file": "migrating-up-the-tier-pyramid.md",
+        "slug": "migrating-up-the-tier-pyramid",
+        "url": "/brands/tiers/migrating-up-the-tier-pyramid/",
+        "title": "消费进阶路线图：如何从低阶尝鲜平滑升级至高端专线",
+        "desc": "深入剖析 消费进阶路线图：如何从低阶尝鲜平滑升级至高端专线。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "price-tiers-breakdown-5-to-50-plus.md",
+        "slug": "price-tiers-breakdown-5-to-50-plus",
+        "url": "/brands/tiers/price-tiers-breakdown-5-to-50-plus/",
+        "title": "四级价格金字塔：5-10元、10-20元、20-50元与50元以上",
+        "desc": "深入剖析 四级价格金字塔：5-10元、10-20元、20-50元与50元以上。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "representative-brands-in-each-price-tier.md",
+        "slug": "representative-brands-in-each-price-tier",
+        "url": "/brands/tiers/representative-brands-in-each-price-tier/",
+        "title": "各个价格档位的最强代表品牌与核心竞争力剖析",
+        "desc": "深入剖析 各个价格档位的最强代表品牌与核心竞争力剖析。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tier-1-to-3-years-firefly-jilian.md",
+        "slug": "tier-1-to-3-years-firefly-jilian",
+        "url": "/brands/tiers/tier-1-to-3-years-firefly-jilian/",
+        "title": "第三梯队（1-3年新锐）：Firefly、极连云等技术红利品牌",
+        "desc": "深入剖析 第三梯队（1-3年新锐）：Firefly、极连云等技术红利品牌。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、极连云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tier-3-to-5-years-feimao-weifeng.md",
+        "slug": "tier-3-to-5-years-feimao-weifeng",
+        "url": "/brands/tiers/tier-3-to-5-years-feimao-weifeng/",
+        "title": "第二梯队（3-5年中坚）：飞猫云、微风网络、U1S1等高性价比主力",
+        "desc": "深入剖析 第二梯队（3-5年中坚）：飞猫云、微风网络、U1S1等高性价比主力。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、微风网络，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tier-over-5-years-gsy-xdm.md",
+        "slug": "tier-over-5-years-gsy-xdm",
+        "url": "/brands/tiers/tier-over-5-years-gsy-xdm/",
+        "title": "第一梯队（5年以上老牌）：光速云、星岛梦等稳健基石",
+        "desc": "深入剖析 第一梯队（5年以上老牌）：光速云、星岛梦等稳健基石。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  },
+  "guides": {
+    "checklist": [
+      {
+        "file": "check-operational-lifespan-before-paying.md",
+        "slug": "check-operational-lifespan-before-paying",
+        "url": "/guides/checklist/check-operational-lifespan-before-paying/",
+        "title": "付款前查一查：域名注册时长与品牌历史口碑验证",
+        "desc": "深入剖析 付款前查一查：域名注册时长与品牌历史口碑验证。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "checklist-download-and-print.md",
+        "slug": "checklist-download-and-print",
+        "url": "/guides/checklist/checklist-download-and-print/",
+        "title": "购前8项硬指标核验清单（建议收藏对照）",
+        "desc": "深入剖析 购前8项硬指标核验清单（建议收藏对照）。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "cross-checking-brand-data-and-reviews.md",
+        "slug": "cross-checking-brand-data-and-reviews",
+        "url": "/guides/checklist/cross-checking-brand-data-and-reviews/",
+        "title": "将品牌宣传资料与本站评测数据进行客观对照核验",
+        "desc": "深入剖析 将品牌宣传资料与本站评测数据进行客观对照核验。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-obtain-trial-accounts.md",
+        "slug": "how-to-obtain-trial-accounts",
+        "url": "/guides/checklist/how-to-obtain-trial-accounts/",
+        "title": "免费试用账号与1元体验额度的正确获取路径",
+        "desc": "深入剖析 免费试用账号与1元体验额度的正确获取路径。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-verify-official-website-authenticity.md",
+        "slug": "how-to-verify-official-website-authenticity",
+        "url": "/guides/checklist/how-to-verify-official-website-authenticity/",
+        "title": "如何通过域名、SSL证书与公告核实机场官网真伪",
+        "desc": "深入剖析 如何通过域名、SSL证书与公告核实机场官网真伪。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "key-validation-points-during-trial.md",
+        "slug": "key-validation-points-during-trial",
+        "url": "/guides/checklist/key-validation-points-during-trial/",
+        "title": "试用期必须验证的 5 个关键技术指标实战指南",
+        "desc": "深入剖析 试用期必须验证的 5 个关键技术指标实战指南。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、唯兔云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "client-setup": [
+      {
+        "file": "best-cross-platform-clients-choice.md",
+        "slug": "best-cross-platform-clients-choice",
+        "url": "/guides/client-setup/best-cross-platform-clients-choice/",
+        "title": "跨平台一致性体验首选：Clash Verge Rev 与 Sing-box",
+        "desc": "深入剖析 跨平台一致性体验首选：Clash Verge Rev 与 Sing-box。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "custom-clients-vs-universal-clients.md",
+        "slug": "custom-clients-vs-universal-clients",
+        "url": "/guides/client-setup/custom-clients-vs-universal-clients/",
+        "title": "自研免配置客户端 vs 通用开源客户端：哪种更适合你",
+        "desc": "深入剖析 自研免配置客户端 vs 通用开源客户端：哪种更适合你。基于 42 个品牌真实测速数据与横向对比，重点评测 梯子云、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "feature-complete-clients-recommendations.md",
+        "slug": "feature-complete-clients-recommendations",
+        "url": "/guides/client-setup/feature-complete-clients-recommendations/",
+        "title": "功能最完备的客户端推荐：DNS防污染、TUN模式与分流",
+        "desc": "深入剖析 功能最完备的客户端推荐：DNS防污染、TUN模式与分流。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "lightweight-low-battery-consumption-clients.md",
+        "slug": "lightweight-low-battery-consumption-clients",
+        "url": "/guides/client-setup/lightweight-low-battery-consumption-clients/",
+        "title": "手机端省电轻量客户端选择：告别后台发热掉电快",
+        "desc": "深入剖析 手机端省电轻量客户端选择：告别后台发热掉电快。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "linux-desktop-and-server-proxy-clients.md",
+        "slug": "linux-desktop-and-server-proxy-clients",
+        "url": "/guides/client-setup/linux-desktop-and-server-proxy-clients/",
+        "title": "Linux 桌面端与命令行环境无缝代理客户端配置",
+        "desc": "深入剖析 Linux 桌面端与命令行环境无缝代理客户端配置。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "recommended-clients-for-win-mac-android-ios.md",
+        "slug": "recommended-clients-for-win-mac-android-ios",
+        "url": "/guides/client-setup/recommended-clients-for-win-mac-android-ios/",
+        "title": "Windows/Mac/Android/iOS 2026 年度最佳客户端排行榜",
+        "desc": "深入剖析 Windows/Mac/Android/iOS 2026 年度最佳客户端排行榜。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "first-purchase": [
+      {
+        "file": "avoiding-phishing-and-fake-domains.md",
+        "slug": "avoiding-phishing-and-fake-domains",
+        "url": "/guides/first-purchase/avoiding-phishing-and-fake-domains/",
+        "title": "如何准确核实目标官网：谨防虚假钓鱼搜索广告",
+        "desc": "深入剖析 如何准确核实目标官网：谨防虚假钓鱼搜索广告。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "email-choice-password-and-account-security.md",
+        "slug": "email-choice-password-and-account-security",
+        "url": "/guides/first-purchase/email-choice-password-and-account-security/",
+        "title": "邮箱选型、独立强密码设置与账号隐私保护指南",
+        "desc": "深入剖析 邮箱选型、独立强密码设置与账号隐私保护指南。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "first-time-checkout-checklist.md",
+        "slug": "first-time-checkout-checklist",
+        "url": "/guides/first-purchase/first-time-checkout-checklist/",
+        "title": "首次付款前的终极检查清单：优惠码核销与周期确认",
+        "desc": "深入剖析 首次付款前的终极检查清单：优惠码核销与周期确认。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "plan-selection-payment-and-activation.md",
+        "slug": "plan-selection-payment-and-activation",
+        "url": "/guides/first-purchase/plan-selection-payment-and-activation/",
+        "title": "套餐选购、收银台结算与即时开通确认完整指南",
+        "desc": "深入剖析 套餐选购、收银台结算与即时开通确认完整指南。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "registration-steps-and-precautions.md",
+        "slug": "registration-steps-and-precautions",
+        "url": "/guides/first-purchase/registration-steps-and-precautions/",
+        "title": "机场官网标准化注册流程与新手安全注意事项",
+        "desc": "深入剖析 机场官网标准化注册流程与新手安全注意事项。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "saving-payment-vouchers-and-receipts.md",
+        "slug": "saving-payment-vouchers-and-receipts",
+        "url": "/guides/first-purchase/saving-payment-vouchers-and-receipts/",
+        "title": "订单编号、支付凭据与工单记录的留存规范",
+        "desc": "深入剖析 订单编号、支付凭据与工单记录的留存规范。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "payment-cycle": [
+      {
+        "file": "annual-plan-breakeven-point.md",
+        "slug": "annual-plan-breakeven-point",
+        "url": "/guides/payment-cycle/annual-plan-breakeven-point/",
+        "title": "年付保本点计算：使用多少个月就能彻底超越月付成本",
+        "desc": "深入剖析 年付保本点计算：使用多少个月就能彻底超越月付成本。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "maximizing-annual-discounts-guide.md",
+        "slug": "maximizing-annual-discounts-guide",
+        "url": "/guides/payment-cycle/maximizing-annual-discounts-guide/",
+        "title": "年付折扣最大化使用：折上折优惠码与节日大促叠加",
+        "desc": "深入剖析 年付折扣最大化使用：折上折优惠码与节日大促叠加。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "monthly-renewal-avoiding-auto-charge-traps.md",
+        "slug": "monthly-renewal-avoiding-auto-charge-traps",
+        "url": "/guides/payment-cycle/monthly-renewal-avoiding-auto-charge-traps/",
+        "title": "月付续费管理策略：如何规避静默自动扣费陷阱",
+        "desc": "深入剖析 月付续费管理策略：如何规避静默自动扣费陷阱。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "testing-water-with-monthly-plan.md",
+        "slug": "testing-water-with-monthly-plan",
+        "url": "/guides/payment-cycle/testing-water-with-monthly-plan/",
+        "title": "以月付作为30天水温测试：验证本地网络适配度",
+        "desc": "深入剖析 以月付作为30天水温测试：验证本地网络适配度。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "who-is-annual-payment-suitable-for.md",
+        "slug": "who-is-annual-payment-suitable-for",
+        "url": "/guides/payment-cycle/who-is-annual-payment-suitable-for/",
+        "title": "年付适合什么用户：高信誉老牌主力的高性价比锁定",
+        "desc": "深入剖析 年付适合什么用户：高信誉老牌主力的高性价比锁定。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、星岛梦，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "who-is-monthly-payment-suitable-for.md",
+        "slug": "who-is-monthly-payment-suitable-for",
+        "url": "/guides/payment-cycle/who-is-monthly-payment-suitable-for/",
+        "title": "月付适合什么用户：灵活性优先与低沉没成本策略",
+        "desc": "深入剖析 月付适合什么用户：灵活性优先与低沉没成本策略。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "payment-methods": [
+      {
+        "file": "alipay-and-wechat-payment-safety-guide.md",
+        "slug": "alipay-and-wechat-payment-safety-guide",
+        "url": "/guides/payment-methods/alipay-and-wechat-payment-safety-guide/",
+        "title": "支付宝与微信快捷支付操作规范与账户安全防护",
+        "desc": "深入剖析 支付宝与微信快捷支付操作规范与账户安全防护。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "credit-card-and-usdt-payment-methods.md",
+        "slug": "credit-card-and-usdt-payment-methods",
+        "url": "/guides/payment-methods/credit-card-and-usdt-payment-methods/",
+        "title": "Visa/MasterCard 信用卡与 USDT 虚拟币结算全攻略",
+        "desc": "深入剖析 Visa/MasterCard 信用卡与 USDT 虚拟币结算全攻略。基于 42 个品牌真实测速数据与横向对比，重点评测 FlyingBird、WgetCloud，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "crypto-payment-privacy-protection.md",
+        "slug": "crypto-payment-privacy-protection",
+        "url": "/guides/payment-methods/crypto-payment-privacy-protection/",
+        "title": "加密货币支付的匿名性保障：链路追踪防范指南",
+        "desc": "深入剖析 加密货币支付的匿名性保障：链路追踪防范指南。基于 42 个品牌真实测速数据与横向对比，重点评测 FlyingBird、龙猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "handling-payment-deducted-but-not-activated.md",
+        "slug": "handling-payment-deducted-but-not-activated",
+        "url": "/guides/payment-methods/handling-payment-deducted-but-not-activated/",
+        "title": "已扣款但后台未到账或未开通的紧急工单处理话术",
+        "desc": "深入剖析 已扣款但后台未到账或未开通的紧急工单处理话术。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "identifying-legitimate-payment-channels.md",
+        "slug": "identifying-legitimate-payment-channels",
+        "url": "/guides/payment-methods/identifying-legitimate-payment-channels/",
+        "title": "支付网关与收银台真伪辨析：拒绝可疑个人转账要求",
+        "desc": "深入剖析 支付网关与收银台真伪辨析：拒绝可疑个人转账要求。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "important-precautions-for-overseas-payment.md",
+        "slug": "important-precautions-for-overseas-payment",
+        "url": "/guides/payment-methods/important-precautions-for-overseas-payment/",
+        "title": "海外支付的汇率差额、手续费与网络环境注意事项",
+        "desc": "深入剖析 海外支付的汇率差额、手续费与网络环境注意事项。基于 42 个品牌真实测速数据与横向对比，重点评测 WgetCloud、隐形人，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "plan-selection": [
+      {
+        "file": "choosing-between-50g-100g-200g-500g.md",
+        "slug": "choosing-between-50g-100g-200g-500g",
+        "url": "/guides/plan-selection/choosing-between-50g-100g-200g-500g/",
+        "title": "50G / 100G / 200G / 500G：对号入座选择最适合你的档位",
+        "desc": "深入剖析 50G / 100G / 200G / 500G：对号入座选择最适合你的档位。基于 42 个品牌真实测速数据与横向对比，重点评测 U1S1、CyberGuard，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "family-and-team-data-pooling.md",
+        "slug": "family-and-team-data-pooling",
+        "url": "/guides/plan-selection/family-and-team-data-pooling/",
+        "title": "多设备家庭与小型团队的多人流量池合并预算方法",
+        "desc": "深入剖析 多设备家庭与小型团队的多人流量池合并预算方法。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、梯子云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "high-concurrency-vs-heavy-bandwidth.md",
+        "slug": "high-concurrency-vs-heavy-bandwidth",
+        "url": "/guides/plan-selection/high-concurrency-vs-heavy-bandwidth/",
+        "title": "高并发连接数需求 vs 高吞吐大带宽需求的本质区分",
+        "desc": "深入剖析 高并发连接数需求 vs 高吞吐大带宽需求的本质区分。基于 42 个品牌真实测速数据与横向对比，重点评测 Firefly、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-accurately-evaluate-monthly-traffic.md",
+        "slug": "how-to-accurately-evaluate-monthly-traffic",
+        "url": "/guides/plan-selection/how-to-accurately-evaluate-monthly-traffic/",
+        "title": "个人月度真实流量需求测算模型：从日常行为到GB量化",
+        "desc": "深入剖析 个人月度真实流量需求测算模型：从日常行为到GB量化。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、一翻云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "matching-plans-by-line-type-iepl-iplc-relay.md",
+        "slug": "matching-plans-by-line-type-iepl-iplc-relay",
+        "url": "/guides/plan-selection/matching-plans-by-line-type-iepl-iplc-relay/",
+        "title": "按自身网络与运营商匹配线路：IEPL、IPLC与中转选型",
+        "desc": "深入剖析 按自身网络与运营商匹配线路：IEPL、IPLC与中转选型。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "matching-plans-by-regional-node-needs.md",
+        "slug": "matching-plans-by-regional-node-needs",
+        "url": "/guides/plan-selection/matching-plans-by-regional-node-needs/",
+        "title": "按业务地区需求选套餐：亚洲近端 vs 欧美大带宽抉择",
+        "desc": "深入剖析 按业务地区需求选套餐：亚洲近端 vs 欧美大带宽抉择。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、WgetCloud，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "renewal-refund": [
+      {
+        "file": "dispute-resolution-when-service-drops.md",
+        "slug": "dispute-resolution-when-service-drops",
+        "url": "/guides/renewal-refund/dispute-resolution-when-service-drops/",
+        "title": "服务商跑路或严重断连时的第三方支付争议与挽损",
+        "desc": "深入剖析 服务商跑路或严重断连时的第三方支付争议与挽损。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "early-renewal-and-traffic-reset-rules.md",
+        "slug": "early-renewal-and-traffic-reset-rules",
+        "url": "/guides/renewal-refund/early-renewal-and-traffic-reset-rules/",
+        "title": "提前续费会重置本月流量吗？各大机场续费逻辑全解",
+        "desc": "深入剖析 提前续费会重置本月流量吗？各大机场续费逻辑全解。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、U1S1，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-cancel-automatic-renewals.md",
+        "slug": "how-to-cancel-automatic-renewals",
+        "url": "/guides/renewal-refund/how-to-cancel-automatic-renewals/",
+        "title": "如何检查并关闭支付渠道的自动扣款/委托扣费授权",
+        "desc": "深入剖析 如何检查并关闭支付渠道的自动扣款/委托扣费授权。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、大佬云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "refund-application-process-and-etiquette.md",
+        "slug": "refund-application-process-and-etiquette",
+        "url": "/guides/renewal-refund/refund-application-process-and-etiquette/",
+        "title": "申请退款的标准化工单流程、凭证提交与沟通技巧",
+        "desc": "深入剖析 申请退款的标准化工单流程、凭证提交与沟通技巧。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "refund-policies-comparison-across-brands.md",
+        "slug": "refund-policies-comparison-across-brands",
+        "url": "/guides/renewal-refund/refund-policies-comparison-across-brands/",
+        "title": "各品牌退款条款横评：支持退款 vs 虚拟商品一概不退",
+        "desc": "深入剖析 各品牌退款条款横评：支持退款 vs 虚拟商品一概不退。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "setting-up-renewal-reminders.md",
+        "slug": "setting-up-renewal-reminders",
+        "url": "/guides/renewal-refund/setting-up-renewal-reminders/",
+        "title": "设置续费日程提醒：避免因套餐逾期导致节点突然失效",
+        "desc": "深入剖析 设置续费日程提醒：避免因套餐逾期导致节点突然失效。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "scam-warnings": [
+      {
+        "file": "fake-speedtest-screenshots-debunked.md",
+        "slug": "fake-speedtest-screenshots-debunked",
+        "url": "/guides/scam-warnings/fake-speedtest-screenshots-debunked/",
+        "title": "伪造测速图鉴别：教你一眼识破内网刷分的虚假截图",
+        "desc": "深入剖析 伪造测速图鉴别：教你一眼识破内网刷分的虚假截图。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "hidden-service-fees-in-checkout.md",
+        "slug": "hidden-service-fees-in-checkout",
+        "url": "/guides/scam-warnings/hidden-service-fees-in-checkout/",
+        "title": "收银台隐形手续费与自动续费勾选陷阱排查",
+        "desc": "深入剖析 收银台隐形手续费与自动续费勾选陷阱排查。基于 42 个品牌真实测速数据与横向对比，重点评测 闪电鼠、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "identifying-hidden-restrictions-and-rate-limits.md",
+        "slug": "identifying-hidden-restrictions-and-rate-limits",
+        "url": "/guides/scam-warnings/identifying-hidden-restrictions-and-rate-limits/",
+        "title": "隐藏限速、流量扣费倍率虚高与节点限速识破指南",
+        "desc": "深入剖析 隐藏限速、流量扣费倍率虚高与节点限速识破指南。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "low-first-month-price-hike-later-tricks.md",
+        "slug": "low-first-month-price-hike-later-tricks",
+        "url": "/guides/scam-warnings/low-first-month-price-hike-later-tricks/",
+        "title": "首月1元次月暴涨：警惕低价入门后的连环套路",
+        "desc": "深入剖析 首月1元次月暴涨：警惕低价入门后的连环套路。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、闪电鼠，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "spotting-fake-discounts-and-misleading-pricing.md",
+        "slug": "spotting-fake-discounts-and-misleading-pricing",
+        "url": "/guides/scam-warnings/spotting-fake-discounts-and-misleading-pricing/",
+        "title": "虚标原价再打折：识破虚假促销背后的真实定价",
+        "desc": "深入剖析 虚标原价再打折：识破虚假促销背后的真实定价。基于 42 个品牌真实测速数据与横向对比，重点评测 榴莲云、环球梯，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "unrealistic-promises-and-service-failures.md",
+        "slug": "unrealistic-promises-and-service-failures",
+        "url": "/guides/scam-warnings/unrealistic-promises-and-service-failures/",
+        "title": "永久免费、千兆独享与承诺永不跑路的欺骗性话术",
+        "desc": "深入剖析 永久免费、千兆独享与承诺永不跑路的欺骗性话术。基于 42 个品牌真实测速数据与横向对比，重点评测 大佬云、无忧链接，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "subscription-import": [
+      {
+        "file": "clash-v2ray-shadowrocket-step-by-step.md",
+        "slug": "clash-v2ray-shadowrocket-step-by-step",
+        "url": "/guides/subscription-import/clash-v2ray-shadowrocket-step-by-step/",
+        "title": "Clash、v2rayN、小火箭全平台订阅一键导入图文详解",
+        "desc": "深入剖析 Clash、v2rayN、小火箭全平台订阅一键导入图文详解。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "obtaining-and-verifying-subscription-links.md",
+        "slug": "obtaining-and-verifying-subscription-links",
+        "url": "/guides/subscription-import/obtaining-and-verifying-subscription-links/",
+        "title": "订阅链接获取与有效性验证：在浏览器直测响应状态",
+        "desc": "深入剖析 订阅链接获取与有效性验证：在浏览器直测响应状态。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "protecting-subscription-link-security.md",
+        "slug": "protecting-subscription-link-security",
+        "url": "/guides/subscription-import/protecting-subscription-link-security/",
+        "title": "订阅链接的安全防范：防泄露、防被抓包与私密保存",
+        "desc": "深入剖析 订阅链接的安全防范：防泄露、防被抓包与私密保存。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "resetting-compromised-subscription-token.md",
+        "slug": "resetting-compromised-subscription-token",
+        "url": "/guides/subscription-import/resetting-compromised-subscription-token/",
+        "title": "订阅 Token 被盗用跑流量？服务商后台一键重置教程",
+        "desc": "深入剖析 订阅 Token 被盗用跑流量？服务商后台一键重置教程。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "subconverter-online-vs-local-conversion.md",
+        "slug": "subconverter-online-vs-local-conversion",
+        "url": "/guides/subscription-import/subconverter-online-vs-local-conversion/",
+        "title": "第三方在线订阅转换的泄密隐患与本地自建转换方案",
+        "desc": "深入剖析 第三方在线订阅转换的泄密隐患与本地自建转换方案。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "troubleshooting-subscription-import-failures.md",
+        "slug": "troubleshooting-subscription-import-failures",
+        "url": "/guides/subscription-import/troubleshooting-subscription-import-failures/",
+        "title": "导入失败排查宝典：解析错误、超时与格式不兼容修复",
+        "desc": "深入剖析 导入失败排查宝典：解析错误、超时与格式不兼容修复。基于 42 个品牌真实测速数据与横向对比，重点评测 无忧链接、梯子云，给出明确的选购与避坑决策建议。"
+      }
+    ],
+    "support-guide": [
+      {
+        "file": "avoiding-scammers-in-official-tg-groups.md",
+        "slug": "avoiding-scammers-in-official-tg-groups",
+        "url": "/guides/support-guide/avoiding-scammers-in-official-tg-groups/",
+        "title": "警惕 TG 交流群里的冒充客服骗局：防私聊诈骗指南",
+        "desc": "深入剖析 警惕 TG 交流群里的冒充客服骗局：防私聊诈骗指南。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、Firefly，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "handling-account-and-subscription-issues.md",
+        "slug": "handling-account-and-subscription-issues",
+        "url": "/guides/support-guide/handling-account-and-subscription-issues/",
+        "title": "账号密码遗忘、订阅更新 403 异常的标准申诉模板",
+        "desc": "深入剖析 账号密码遗忘、订阅更新 403 异常的标准申诉模板。基于 42 个品牌真实测速数据与横向对比，重点评测 飞猫云、无忧链接，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "how-to-write-high-efficiency-support-tickets.md",
+        "slug": "how-to-write-high-efficiency-support-tickets",
+        "url": "/guides/support-guide/how-to-write-high-efficiency-support-tickets/",
+        "title": "如何撰写一份能让技术客服光速排查修复的高效工单",
+        "desc": "深入剖析 如何撰写一份能让技术客服光速排查修复的高效工单。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、光速云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "realistic-expectations-for-support-response-times.md",
+        "slug": "realistic-expectations-for-support-response-times",
+        "url": "/guides/support-guide/realistic-expectations-for-support-response-times/",
+        "title": "客服响应时效的合理预期：工作日与节假日的常态",
+        "desc": "深入剖析 客服响应时效的合理预期：工作日与节假日的常态。基于 42 个品牌真实测速数据与横向对比，重点评测 隐形人、飞猫云，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "tickets-tg-groups-and-email-support-channels.md",
+        "slug": "tickets-tg-groups-and-email-support-channels",
+        "url": "/guides/support-guide/tickets-tg-groups-and-email-support-channels/",
+        "title": "三大售后渠道深度解析：工单系统、TG交流群与客服邮箱",
+        "desc": "深入剖析 三大售后渠道深度解析：工单系统、TG交流群与客服邮箱。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、隐形人，给出明确的选购与避坑决策建议。"
+      },
+      {
+        "file": "troubleshooting-process-for-node-failures.md",
+        "slug": "troubleshooting-process-for-node-failures",
+        "url": "/guides/support-guide/troubleshooting-process-for-node-failures/",
+        "title": "节点全部超时报错时的标准自查五步法（附排错流程图）",
+        "desc": "深入剖析 节点全部超时报错时的标准自查五步法（附排错流程图）。基于 42 个品牌真实测速数据与横向对比，重点评测 光速云、飞猫云，给出明确的选购与避坑决策建议。"
+      }
+    ]
+  }
+}
